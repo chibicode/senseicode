@@ -2,7 +2,6 @@
   "private": true,
   "scripts": {
     "build": "webpack -p",
-    "build:watch": "webpack -p --watch",
     "server": "node server.js"
   },
   "devDependencies": {

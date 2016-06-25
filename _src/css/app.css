@@ -4,6 +4,19 @@ body {
   color: #4c4c4c;
 }
 
+.logo:hover .logo-c {
+  animation: bgcolorchange 3s infinite;
+}
+
+.logo:hover {
+  color: #FF4136;
+  animation: colorchange 3s infinite;
+}
+
+.ls-narrow {
+  letter-spacing: -1px;
+}
+
 .container {
   max-width: 640px;
   max-width: 40rem;
@@ -23,10 +36,18 @@ body {
 }
 
 .post-content {
+  & a {
+    color: inherit;
+  }
+
+  & a:hover {
+    color: #FF4136;
+  }
+
   & p,
   & ul {
     margin-top: 0;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
 
   & blockquote {
@@ -40,8 +61,44 @@ body {
   & h2 {
     font-size: 20px;
     font-size: 1.25rem;
-    margin-top: 3rem;
-    margin-bottom: 1rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
     color: #111;
   }
+
+  & img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Adjust hue by 36 at each step */
+@keyframes bgcolorchange {
+  0%   { background: #FF4136; }
+  10%  { background: #FFB836; }
+  20%  { background: #CDFF36; }
+  30%  { background: #54FF36; }
+  40%  { background: #36FF90; }
+  50%  { background: #36F5FF; }
+  60%  { background: #367CFF; }
+  70%  { background: #6836FF; }
+  80%  { background: #E136FF; }
+  90%  { background: #FF36A4; }
+  100% { background: #FF4136; }
+}
+
+@keyframes colorchange {
+  0%   { color: #FF4136; }
+  10%  { color: #FFB836; }
+  20%  { color: #CDFF36; }
+  30%  { color: #54FF36; }
+  40%  { color: #36FF90; }
+  50%  { color: #36F5FF; }
+  60%  { color: #367CFF; }
+  70%  { color: #6836FF; }
+  80%  { color: #E136FF; }
+  90%  { color: #FF36A4; }
+  100% { color: #FF4136; }
 }

@@ -1,9 +1,8 @@
 import 'tachyons/src/tachyons.css'
 import 'colors.css/src/colors.css'
 import './css/app.css'
+import './js/app.js'
 
-import $ from 'jquery'
-
-$(() => {
-  $('a[href^="http"]').attr('target','_blank')
-})
+if (module.hot) {
+  module.hot.accept()
+}

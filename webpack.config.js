@@ -6,10 +6,7 @@ var postcssCssnext = require('postcss-cssnext')
 module.exports = {
   context: path.join(__dirname, '/_src'),
   entry: {
-    bundle: ['./app.js'],
-    hot: ['webpack-dev-server/client?http://0.0.0.0:8788',
-          'webpack/hot/only-dev-server',
-           './app.js']
+    bundle: ['./app.js']
   },
   output: {
     filename: '[name].js',

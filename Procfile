@@ -1,3 +1,2 @@
-jekyll: bundle exec jekyll serve --drafts
+jekyll: bundle exec jekyll serve --drafts -L
 webpack_dev_server: npm start
-webpack_production_watch: npm run build:watch

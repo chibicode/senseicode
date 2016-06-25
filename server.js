@@ -2,6 +2,12 @@ var webpack = require('webpack')
 var WebpackDevServer = require('webpack-dev-server')
 var config = require('./webpack.config')
 config.plugins.push(new webpack.HotModuleReplacementPlugin())
+config.entry.hot = [
+  'webpack-dev-server/client?http://0.0.0.0:8788',
+  'webpack/hot/only-dev-server',
+  './app.js'
+]
+config.output.publicPath = 'http://0.0.0.0:8788/'
 
 new WebpackDevServer(webpack(config), {
   publicPath: 'http://0.0.0.0:8788/',
