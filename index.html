@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<p class="gray">
+  こんにちは。現在サイトを工事中ですが、以下の記事は公開しています。
+</p>
+<ul class="list ma0 pa0">
+  {% for post in site.posts %}
+    {% unless post.draft %}
+      <li class="mt0 mb4">
+        <a href="{{ post.url | prepend:site.baseurl }}" class="color-inherit no-underline dim">
+          <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span>{{ post.title }}
+        </a>
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>

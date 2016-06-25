@@ -1,0 +1,55 @@
+baseurl: ""
+
+# jekyll-seo-tag
+title: SenseiCode
+description: 教育とテクノロジーについて。
+twitter:
+  username: chibicode
+facebook:
+  admins: 1227210274
+author:
+  twitter: chibicode
+# TODO:
+# logo:
+#
+
+future: true
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # TODO:
+  # - jekyll-feed
+
+exclude:
+  - "README.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "package.json"
+  - "webpack.config.js"
+  - "npm-debug.log"
+  - "server.js"
+  - "Procfile"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      draft: false
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "post"
