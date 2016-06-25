@@ -17,10 +17,6 @@ body {
   animation: colorchange 3s infinite;
 }
 
-.ls-narrow {
-  letter-spacing: -1px;
-}
-
 .container {
   max-width: 640px;
   max-width: 40rem;
