@@ -12,8 +12,17 @@ layout: default
     {{ content }}
   </section>
   <section>
-    <time datetime="{{ page.date | date_to_xmlschema}}" class="gray">
-      {{ page.date | date: "%Y年%-m月%-d日" }}
-    </time>
+    {% if page.published_at %}
+    <div>
+      <span class="gray">
+        公開日: {{ page.published_at | date: "%Y年%-m月%-d日" }}
+      </span>
+    </div>
+    {% endif %}
+    <div>
+      <time datetime="{{ page.date | date_to_xmlschema}}" class="gray">
+        執筆日: {{ page.written_at | date: "%Y年%-m月%-d日" }}
+      </time>
+    </div>
   </section>
 </article>
