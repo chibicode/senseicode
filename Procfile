@@ -1,2 +1,4 @@
-jekyll: bundle exec jekyll serve --drafts -L
-webpack_dev_server: npm start
+jekyll_watch: npm run jekyll:watch
+build_watch: npm run build:watch
+webpack_dev_server: npm run webpack-dev-server
+browser_sync: npm run browser-sync
