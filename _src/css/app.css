@@ -6,10 +6,12 @@ body {
 
 .logo:hover .logo-c {
   animation: bgcolorchange 3s infinite;
+  color: #111;
 }
 
 .logo:hover {
   color: #FF4136;
+  background: #111;
   animation: colorchange 3s infinite;
 }
 
