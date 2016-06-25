@@ -1,6 +1,6 @@
 ---
 issue: 1
-title: いたるところに、テクノロジー「の先生」
+title: いたるところに、テクノロジー「の先生」がいる未来
 permalink: /1-introduction
 written_at: 2016-06-25
 draft: true
