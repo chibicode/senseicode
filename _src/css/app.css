@@ -48,6 +48,10 @@ body {
     color: #FF4136;
   }
 
+  & strong {
+    color: #111;
+  }
+
   & p,
   & ul {
     margin-top: 0;
@@ -65,7 +69,8 @@ body {
   & h2 {
     font-size: 20px;
     font-size: 1.25rem;
-    margin-top: 2.5rem;
+    font-weight: 700;
+    margin-top: 3rem;
     margin-bottom: 0.5rem;
     color: #111;
   }
