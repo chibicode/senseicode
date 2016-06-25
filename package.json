@@ -2,6 +2,7 @@
   "private": true,
   "scripts": {
     "build": "webpack -p",
+    "build:watch": "webpack -p --watch",
     "server": "node server.js"
   },
   "devDependencies": {
@@ -12,6 +13,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "colors.css": "^3.0.0",
     "css-loader": "^0.23.1",
+    "jquery": "^3.0.0",
     "npm-check": "^5.2.2",
     "postcss": "^5.0.21",
     "postcss-cssnext": "^2.6.0",
