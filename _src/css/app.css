@@ -91,6 +91,20 @@ body {
     border-bottom: none;
     margin: 3rem 0 1.5rem;
   }
+
+  & figure {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  & figcaption {
+    display: block;
+    text-align: center;
+    color: #999;
+    font-size: 0.85rem;
+  }
 }
 
 /* Adjust hue by 36 at each step */
