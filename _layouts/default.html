@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet">
     {% seo %}
     {% if site.github %}
-      <script src="/dist/bundle.js"></script>
+      <script src="{{ "/dist/bundle.js" | prepend:site.baseurl }}"></script>
     {% else %}
       <script src="http://localhost:8788/hot.js"></script>
     {% endif %}

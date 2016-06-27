@@ -22,7 +22,9 @@ gems:
   # - jekyll-feed
 
 exclude:
+  - "src"
   - "README.md"
+  - "LICENSE.md"
   - "CNAME"
   - "Gemfile"
   - "Gemfile.lock"

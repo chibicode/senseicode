@@ -4,7 +4,7 @@ var postcssImport = require('postcss-import')
 var postcssCssnext = require('postcss-cssnext')
 
 module.exports = {
-  context: path.join(__dirname, '/_src'),
+  context: path.join(__dirname, '/src'),
   entry: {
     bundle: ['./app.js']
   },
