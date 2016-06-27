@@ -10,7 +10,7 @@ layout: default
     {% for post in site.posts %}
       {% unless post.draft %}
         <li class="mt0 mb4">
-          <a href="{{ post.url | prepend:site.baseurl }}" class="color-inherit no-underline dim">
+          <a href="{{ post.url }}" class="color-inherit no-underline dim">
             <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span>{{ post.title }}
           </a>
         </li>
