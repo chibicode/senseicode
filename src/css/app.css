@@ -6,6 +6,12 @@ body {
   color: #4c4c4c;
 }
 
+@media (--breakpoint-large) {
+  html {
+    font-size: 18px;
+  }
+}
+
 img {
   max-width: 100%;
 }
@@ -24,8 +30,8 @@ img {
 }
 
 .container {
-  max-width: 640px;
-  max-width: 40rem;
+  max-width: 608px;
+  max-width: 38rem;
 }
 
 .color-inherit {
