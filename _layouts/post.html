@@ -8,10 +8,13 @@ layout: default
       <span class="red mr1">{{ page.issue }}</span><span class="silver mr1">/</span>{{ page.title }}</a>
     </h1>
   </header>
+  {% unless page.issue == 1 %}
+    {% include about-senseicode.html %}
+  {% endunless %}
   <section class="post-content mb4">
     {{ content }}
   </section>
-  <section class="mb6">
+  <section class="mb4">
     {% if page.published_at %}
     <div>
       <time datetime="{{ page.date | date_to_xmlschema}}" class="gray f6">
@@ -23,13 +26,13 @@ layout: default
   {% if page.next_issues %}
     <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
       <h2 class="f5 mt0 mb2 tc">次はこちらの記事をどうぞ</h2>
-      <ul class="list pa0 f6">
+      <ul class="list pa0">
       {% for next_issue in page.next_issues %}
         {% assign next_posts = site.posts | where:"issue",next_issue %}
         {% for next_post in next_posts %}
           {% unless next_post.draft %}
             <li class="mt0 mb2">
-              <a href="{{ next_post.url }}" class="color-inherit no-underline hover-color">
+              <a href="{{ next_post.url }}" class="color-inherit hover-color">
                 <span class="red mr1">{{ next_post.issue }}</span><span class="silver mr1">/</span>{{ next_post.title }}
               </a>
             </li>

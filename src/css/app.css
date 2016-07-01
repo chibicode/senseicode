@@ -33,6 +33,11 @@ h1, h2, h3, h4, h5, h6, strong {
   animation: colorchange 3s infinite;
 }
 
+.btn-hover-color:hover {
+  border-color: #FF4136;
+  color: #FF4136;
+}
+
 .container {
   max-width: 608px;
   max-width: 38rem;
