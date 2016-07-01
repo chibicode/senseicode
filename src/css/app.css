@@ -76,7 +76,7 @@ img {
   & blockquote {
     margin-left: 0;
     padding-left: 1rem;
-    border-color: #ccc;
+    border-color: #eee;
     border-left-width: 0.5rem;
     border-left-style: solid;
   }

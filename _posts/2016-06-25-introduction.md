@@ -13,9 +13,9 @@ draft: true
 
 ## 少し自己紹介をさせてください
 
-ぼくは88年生まれで、日本には小学校卒業まで通い、中・高・大とアメリカで過ごしました。大学は、カーネギーメロン大という、コンピューターサイエンスが[世界的に有名](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings)な大学でコンピューターサイエンスを学びました。下の画像は、2016年の元日、「日本のジレンマ」というNHK・Eテレの番組に論客として[出演したとき](http://chibicode.com/nhk-dilemma/)のものです。
+ぼくは88年生まれで、日本には小学校卒業まで通い、中・高・大とアメリカで過ごしました。大学は、カーネギーメロン大という、コンピューターサイエンスが[世界的に有名](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings)な大学でコンピューターサイエンスを学びました。下の動画は、2016年の元日、「日本のジレンマ」というNHK・Eテレの番組に論客として[出演したとき](http://chibicode.com/nhk-dilemma/)のものです。
 
-<img src="/images/1/shu-uesugi.jpg" alt="上杉周作" width="400" />
+<img src="/images/1/shu-uesugi-dilemma.gif" alt="上杉周作" width="400" />
 
 そんなぼくがなぜ、先生のみなさまにこのような記事を書いているのか。偉そうに何か申し上げたいわけではございません。単刀直入に申しますと、**日本の教育現場で活躍されている先生方の友人をつくりたいからです**。
 

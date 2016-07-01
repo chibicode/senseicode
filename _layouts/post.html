@@ -8,10 +8,10 @@ layout: default
       <span class="red mr1">{{ page.issue }}</span><span class="silver mr1">/</span>{{ page.title }}</a>
     </h1>
   </header>
-  <section class="post-content mb6">
+  <section class="post-content mb4">
     {{ content }}
   </section>
-  <section>
+  <section class="mb6">
     {% if page.published_at %}
     <div>
       <span class="gray">
@@ -25,4 +25,5 @@ layout: default
       </time>
     </div>
   </section>
+  {% include mailchimp.html %}
 </article>
