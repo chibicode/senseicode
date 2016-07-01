@@ -2,9 +2,10 @@
 issue: 1
 title: いたるところにテクノロジー「の先生」がいる未来へ
 permalink: /1-introduction
-written_at: 2016-06-25
+published_at: 2016-07-04
 image: /images/1/edix-1.jpg
-draft: true
+next_issues:
+  - 2
 ---
 
 学校の先生方へ

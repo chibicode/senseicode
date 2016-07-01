@@ -14,16 +14,31 @@ layout: default
   <section class="mb6">
     {% if page.published_at %}
     <div>
-      <span class="gray">
-        公開日: {{ page.published_at | date: "%Y年%-m月%-d日" }}
-      </span>
-    </div>
-    {% endif %}
-    <div>
-      <time datetime="{{ page.date | date_to_xmlschema}}" class="gray">
-        執筆日: {{ page.written_at | date: "%Y年%-m月%-d日" }}
+      <time datetime="{{ page.date | date_to_xmlschema}}" class="gray f6">
+        公開日: {{ page.published_at | date: "%Y/%-m/%-d" }}
       </time>
     </div>
+    {% endif %}
   </section>
+  {% if page.next_issues %}
+    <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
+      <h2 class="f5 mt0 mb2 tc">次はこちらの記事をどうぞ</h2>
+      <ul class="list pa0 f6">
+      {% for next_issue in page.next_issues %}
+        {% assign next_posts = site.posts | where:"issue",next_issue %}
+        {% for next_post in next_posts %}
+          {% unless next_post.draft %}
+            <li class="mt0 mb2">
+              <a href="{{ next_post.url }}" class="color-inherit no-underline hover-color">
+                <span class="red mr1">{{ next_post.issue }}</span><span class="silver mr1">/</span>{{ next_post.title }}
+              </a>
+            </li>
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
   {% include mailchimp.html %}
+  {% include about-me.html %}
 </article>

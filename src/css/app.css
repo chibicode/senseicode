@@ -16,6 +16,10 @@ img {
   max-width: 100%;
 }
 
+h1, h2, h3, h4, h5, h6, strong {
+  color: #111;
+}
+
 .logo:hover .logo-c {
   animation: bgcolorchange 3s infinite;
   color: #111;
@@ -47,6 +51,10 @@ img {
   margin-right: auto;
 }
 
+.hover-color:hover {
+  color: #FF4136;
+}
+
 .post-content {
   & a {
     color: inherit;
@@ -54,10 +62,6 @@ img {
 
   & a:hover {
     color: #FF4136;
-  }
-
-  & strong {
-    color: #111;
   }
 
   & p,
@@ -87,7 +91,6 @@ img {
     font-weight: 700;
     margin-top: 3rem;
     margin-bottom: 0.5rem;
-    color: #111;
   }
 
   & img {
