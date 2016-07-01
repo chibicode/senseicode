@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <header class="mb4">
-    <h1 class="f3 f2-ns mt0 fw7 lh-copy lh-title-ns black">
+    <h1 class="f3 f2-ns mt0 fw7 lh-copy lh-title-ns black tracked-tight">
       <span class="red mr1">{{ page.issue }}</span><span class="silver mr1">/</span>{{ page.title }}</a>
     </h1>
   </header>
@@ -32,8 +32,8 @@ layout: default
         {% for next_post in next_posts %}
           {% unless next_post.draft %}
             <li class="mt0 mb2">
-              <a href="{{ next_post.url }}" class="color-inherit hover-color">
-                <span class="red mr1">{{ next_post.issue }}</span><span class="silver mr1">/</span>{{ next_post.title }}
+              <a href="{{ next_post.url }}" class="color-inherit hover-color no-underline">
+                <span class="red mr1">{{ next_post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ next_post.title }}</span>
               </a>
             </li>
           {% endunless %}
