@@ -4,7 +4,7 @@ title: 教育xITの「ハイプ・サイクル」に負けないために (前�
 permalink: /3-edtech-hype-cycle
 published_at: 2016-07-05
 image: /images/3/hype-cycle.png
-tweet_url: 
+tweet_url:
 ---
 
 学校の先生方へ
@@ -97,7 +97,7 @@ Amplifyとは何か? 2012年に日本語で書かれた記事がありますの�
 
 Amplifyは、タブレット・カリキュラムとデジタル教材・学習データや端末管理システムを一括りにして学校に売ろうとしたのです。日本の会社に例えるとソフトバンクのような、資金も豊富にある大企業が大きな賭けに出たということで話題になりました。
 
-Amplifyの代表取締役に元ニューヨーク市教育局長の[Joel Klein氏](https://en.wikipedia.org/wiki/Joel_Klein)が就任。ちょうどアメリカ政府やゲイツ財団が教育×ITの分野に大量の資金を投下しだしたタイミングとも重なり、「時は今」とうたわれました。
+Amplifyの代表取締役には、全米最大の教育部門を率いた経験のある、元ニューヨーク市教育局長の[Joel Klein氏](https://en.wikipedia.org/wiki/Joel_Klein)が就任。ちょうどアメリカ政府やゲイツ財団が教育×ITの分野に大量の資金を投下しだしたタイミングとも重なり、「時は今」とうたわれました。
 
 <figure>
   <img src="/images/3/amplify-tablet.jpg" />
