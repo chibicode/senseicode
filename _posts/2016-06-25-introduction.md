@@ -6,6 +6,7 @@ published_at: 2016-07-05
 image: /images/1/edix-1.jpg
 next_issues:
   - 2
+tweet_url: 
 ---
 
 学校の先生方へ

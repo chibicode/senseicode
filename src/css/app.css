@@ -135,6 +135,15 @@ h1, h2, h3, h4, h5, h6, strong {
   }
 }
 
+.fb_iframe_widget.fb-like {
+  font-size: 0; /* Necessary to get rid of some pixels on top */
+  vertical-align: middle;
+}
+
+.twitter-tweet-button {
+  vertical-align: middle;
+}
+
 /* Adjust hue by 36 at each step */
 @keyframes bgcolorchange {
   0%   { background: #FF4136; }

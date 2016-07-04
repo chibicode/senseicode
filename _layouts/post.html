@@ -23,6 +23,18 @@ layout: default
     </div>
     {% endif %}
   </section>
+  <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
+    <h2 class="f5 mt0 mb2 tc">シェアしてくださると嬉しいです</h2>
+    <div class="tc">
+      <div class="fb-like" data-href="{{ site.github.url }}{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.github.url }}{{ page.url }}" data-text="{{ page.title }}" data-via="senseicode" data-lang="ja" data-size="large"></a>
+    </div>
+    {% if page.tweet_url %}
+    <div class="mt4">
+      <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none"><p lang="und" dir="ltr"><a href="https://twitter.com/chibicode/status/{{ page.tweet_url }}"></a></blockquote>
+    </div>
+    {% endif %}
+  </div>
   {% if page.next_issues %}
     <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
       <h2 class="f5 mt0 mb2 tc">次はこちらの記事をどうぞ</h2>
@@ -40,6 +52,13 @@ layout: default
         {% endfor %}
       {% endfor %}
       </ul>
+    </div>
+  {% else %}
+    <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
+      <h2 class="f5 mt0 mb2 tc">次の記事はまだありません</h2>
+      <div class="f6 tc silver">
+        下のフォームから購読していただければ、新着記事をメールでお知らせします。
+      </div>
     </div>
   {% endif %}
   {% include mailchimp.html %}
