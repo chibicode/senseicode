@@ -98,15 +98,15 @@ tweet_url:
 
 ちなみに、もしバツをひとつもつけない場合、線の引き方が何通りあるかは1961年に計算されました。公式は複雑なので載せませんが、バツ無しの4×4だと36通り、6×6だと6728通りあり、バツをつければいくらか引き方は減るはずです。
 
-<img src="/images/2/tiles-4x4.png" class="no-border align-left" />
+<img src="/images/2/tiles-4x4.png" class=" align-left" />
 
-<img src="/images/2/tiles-6x6.png" class="no-border align-left" />
+<img src="/images/2/tiles-6x6.png" class=" align-left" />
 
 これくらいの数でしたら、さきほどの「全てのマスに線を引けるか」問題もプログラミングで解決できそうです。**「しらみつぶし」にすべての線の引き方をためすプログラムを書き、どれも無理だったら、「できない」と出力すればいいのです。**
 
 しかし、8×8マスだと1300万通りの引き方があり、
 
-<img src="/images/2/tiles-8x8.png" class="no-border align-left" />
+<img src="/images/2/tiles-8x8.png" class=" align-left" />
 
 10×10マスだと約2600億通り、12×12マスだと約5京(兆の次の単位)通りあります。いくらコンピューターが速いとはいえ、10×10マス以上で「全てのマスに線を引けるか」問題をプログラミングで「しらみつぶし」に解こうとすると、スパコンのような超高速コンピューターが必要になってくるでしょう。
 
