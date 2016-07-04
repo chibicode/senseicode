@@ -7,6 +7,9 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet">
     {% seo %}
+    {% if page.home %}
+      <meta property="og:image" content="{{ site.github.url }}{{ site.logo }}">
+    {% endif %}
     {% if site.github %}
       <script src="/dist/bundle.js"></script>
     {% else %}
