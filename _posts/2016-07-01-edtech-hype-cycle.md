@@ -2,7 +2,7 @@
 issue: 3
 title: 教育xITの「ハイプ・サイクル」に負けないために (前編)
 permalink: /3-edtech-hype-cycle
-published_at: 2016-07-05
+date: 2016-07-05
 image: /images/3/hype-cycle.png
 tweet_id: 750120355235147776
 ---

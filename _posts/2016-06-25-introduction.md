@@ -2,7 +2,7 @@
 issue: 1
 title: いたるところでプログラミングを学べる未来に、輝く先生のすがた
 permalink: /1-introduction
-published_at: 2016-07-05
+date: 2016-07-05
 image: /images/1/edix-1.jpg
 next_issues:
   - 2

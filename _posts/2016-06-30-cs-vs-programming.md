@@ -2,7 +2,7 @@
 issue: 2
 title: 「プログラミング」と「プログラミング的思考」の違いを、分かったつもりになれるヒント
 permalink: /2-cs-vs-programming
-published_at: 2016-07-05
+date: 2016-07-05
 image: /images/2/6-tiles.png
 next_issues:
   - 3
