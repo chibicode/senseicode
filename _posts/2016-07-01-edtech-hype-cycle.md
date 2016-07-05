@@ -157,8 +157,6 @@ Amplifyタブレットが失敗した理由のひとつは、教室のWifiが遅
 >
 > <p><iframe src="https://player.vimeo.com/video/70977120" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 >
-> ブレンド型学習が人気なのは、従来式とエドテック式の「良いとこ取り」だからだ。かりに30人学級のクラスで、常に20人の生徒がデジタル教材に取り組んでいる状態を保てば、先生が対面で教える人数は10人になり、スーパー少人数学級が実現できる。デジタル教材で教えられる部分はデジタル教材に任せれば、先生のエネルギーを小数の生徒に集中できる。
->
 > (中略) 少し前までは「[反転授業](https://ja.wikipedia.org/wiki/%E5%8F%8D%E8%BB%A2%E6%8E%88%E6%A5%AD)」がアメリカのエドテック界では人気だったが、最近はブレンド型学習にトレンドが移ったようである。ブレンド型学習の本も多く出版されるようになり、「[イノベーションのジレンマ](http://www.amazon.co.jp/イノベーションのジレンマ―技術革新が巨大企業を滅ぼすとき-Harvard-business-school-press/dp/4798100234?tag=chibicode-22)」を書いたクリステンセン教授も、「[Blended](http://www.amazon.co.jp/Blended-Disruptive-Innovation-Improve-Schools-ebook/dp/B00MFPZASU?tag=chibicode-22)」というブレンド型学習の入門書ではしがきを書いている。
 
 この「トレンドが移った」のが、ちょうどAmplifyが撤退を考え出した2015年のころだったのです。「Amplifyがあと2年遅くはじめて、しかも賢く経営していれば」と惜しむ声も、業界には少なくありません。
