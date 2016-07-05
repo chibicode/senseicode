@@ -29,9 +29,9 @@ layout: default
       <div class="fb-like" data-href="{{ site.github.url }}{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
       <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.github.url }}{{ page.url }}" data-text="{{ page.title }}" data-via="chibicode" data-lang="ja" data-size="large"></a>
     </div>
-    {% if page.tweet_url %}
+    {% if page.tweet_id %}
     <div class="mt4">
-      <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none"><p lang="und" dir="ltr"><a href="https://twitter.com/chibicode/status/{{ page.tweet_url }}"></a></blockquote>
+      <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none"><p lang="und" dir="ltr"><a href="https://twitter.com/chibicode/status/{{ page.tweet_id }}"></a></blockquote>
     </div>
     {% endif %}
   </div>

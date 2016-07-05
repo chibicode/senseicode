@@ -4,7 +4,7 @@ title: 教育xITの「ハイプ・サイクル」に負けないために (前�
 permalink: /3-edtech-hype-cycle
 published_at: 2016-07-05
 image: /images/3/hype-cycle.png
-tweet_url:
+tweet_id: 750120355235147776
 ---
 
 学校の先生方へ
