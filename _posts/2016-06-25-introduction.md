@@ -132,7 +132,7 @@ EdSurgeは、生徒の学びに最も役に立つテクノロジーを、学校�
 
 <figure>
   <img src="/images/1/self-driving-car.jpg" />
-  <figcaption>Googleの自動運転車。</figcaption>
+  <figcaption><a href="https://www.google.com/selfdrivingcar/">Googleの自動運転車。</a></figcaption>
 </figure>
 
 これからは、世の中のいたるところにテクノロジーがある未来が来るそうです。そこら中のモノがインターネットにつながったり、自動運転の車が当たり前になったり、人工知能が人間に変わってあらゆる判断を下すようになると言われていますね。教育分野にもテクノロジーが進出してきていますし(エドテック)、金融(フィンテック)・医療(メドテック)・農業(アグテック)などでも、世界中でテクノロジーの力によって業界再編が進んでいるようです。
