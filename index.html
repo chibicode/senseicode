@@ -13,13 +13,11 @@ home: true
   <h2 class="f4 mt4 mb1">記事リスト</h2>
   <ul class="list pa0 mt0">
     {% for post in site.posts reversed %}
-      {% unless post.draft %}
-        <li class="mt0 mb2">
-          <a href="{{ post.url }}" class="color-inherit no-underline hover-color">
-            <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span>{{ post.title }} <span class="moon-gray f6">{{ post.published_at | date: "%Y/%-m/%-d" }}</span>
-          </a>
-        </li>
-      {% endunless %}
+      <li class="mt0 mb2">
+        <a href="{{ post.url }}" class="color-inherit no-underline hover-color">
+          <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span>{{ post.title }} <span class="moon-gray f6">{{ post.published_at | date: "%Y/%-m/%-d" }}</span>
+        </a>
+      </li>
     {% endfor %}
   </ul>
 </div>

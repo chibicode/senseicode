@@ -16,8 +16,7 @@ future: true
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-  # TODO:
-  # - jekyll-feed
+  - jekyll-feed
 
 exclude:
   - "src"
