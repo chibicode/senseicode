@@ -1,7 +1,7 @@
 @import "tachyons/src/tachyons.css";
 
 body {
-  font-family: 'Roboto Mono', sans-serif;
+  font-family: 'Roboto Mono', "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, sans-serif;
   line-height: 1.8; /* Japanese Text */
   color: #4c4c4c;
 }
