@@ -43,6 +43,8 @@ date: 2016-09-08
 
 just mention how we have a lot of products
 
+one of the reasons hype cycle exists = more products, higher expectations, but harder choices etc and failure. barry's talk essentially explains the hype cycle.
+
 ## 例:アダプティブラーニング
 
 ## アダプティブラーニングに対する期待
