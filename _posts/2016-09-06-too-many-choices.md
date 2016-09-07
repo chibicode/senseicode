@@ -2,7 +2,7 @@
 issue: 4
 title: 教育×ITと、「選択肢が多すぎ」問題
 permalink: /4-too-many-choices
-date: 2016-09-08
+date: 2016-09-06
 image: /images/4/barry.jpg
 # tweet_id: 750120355235147776
 ---
