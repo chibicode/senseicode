@@ -3,10 +3,15 @@ layout: default
 ---
 
 <article>
-  <header class="mb4">
-    <h1 class="f3 f2-ns mt0 fw7 lh-copy lh-title-ns black tracked-tight">
+  <header class="mb3">
+    <h1 class="f3 f2-ns mt0 fw7 lh-copy lh-title-ns black tracked-tight mb3">
       <span class="red mr1">{{ page.issue }}</span><span class="silver mr1">/</span>{{ page.title }}</a>
     </h1>
+    <section>
+      <time datetime="{{ page.date | date_to_xmlschema}}" class="gray f6">
+        公開日: {{ page.date | date: "%Y/%-m/%-d" }}
+      </time>
+    </section>
   </header>
   {% unless page.issue == 1 %}
     {% include about-senseicode.html %}
@@ -19,18 +24,6 @@ layout: default
       公開日: {{ page.date | date: "%Y/%-m/%-d" }}
     </time>
   </section>
-  <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
-    <h2 class="f5 mt0 mb2 tc">シェアしてくださると嬉しいです</h2>
-    <div class="tc">
-      <div class="fb-like" data-href="{{ site.github.url }}{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
-      <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.github.url }}{{ page.url }}" data-text="{{ page.title }}" data-via="chibicode" data-lang="ja" data-size="large"></a>
-    </div>
-    {% if page.tweet_id %}
-    <div class="mt4">
-      <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none" data-cards="hidden"><p lang="und" dir="ltr"><a href="https://twitter.com/chibicode/status/{{ page.tweet_id }}"></a></blockquote>
-    </div>
-    {% endif %}
-  </div>
   {% if page.next_issues %}
     <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
       <h2 class="f5 mt0 mb2 tc">次はこちらの記事をどうぞ</h2>
@@ -55,6 +48,18 @@ layout: default
       </div>
     </div>
   {% endif %}
+  <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
+    <h2 class="f5 mt0 mb2 tc">シェアしてくださると嬉しいです</h2>
+    <div class="tc">
+      <div class="fb-like" data-href="{{ site.github.url }}{{ page.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.github.url }}{{ page.url }}" data-text="{{ page.title }}" data-via="chibicode" data-lang="ja" data-size="large"></a>
+    </div>
+    {% if page.tweet_id %}
+    <div class="mt4">
+      <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none" data-cards="hidden"><p lang="und" dir="ltr"><a href="https://twitter.com/chibicode/status/{{ page.tweet_id }}"></a></blockquote>
+    </div>
+    {% endif %}
+  </div>
   {% include mailchimp.html %}
   {% include about-me.html %}
   <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
