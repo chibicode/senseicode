@@ -52,7 +52,7 @@ prev_issues:
 
 ![](/images/5/alfonzo-2.jpg)
 
-つぎに、Alfonzo君ほど分数をうまく理解できていないLeannaちゃんの場合、掛け算ではなく「分数の足し算」のレッスンが表示されています。ここに至るまでのレッスンを繰り返すなかで、Dreamboxは「Leannaちゃんには、分数の掛け算はまだ早い」と判断したわけですが、その部分は割愛します。
+つぎに、Alfonzo君ほど分数をうまく理解できていないLeannaちゃんの場合、掛け算ではなく「分数の足し算」のレッスンが表示されています。ここに至るまでのレッスンを繰り返すなかで、Dreamboxの人工知能は「Leannaちゃんには、分数の掛け算はまだ早い」と判断したわけですが、その部分は割愛します。
 
 ![](/images/5/leanna-1.jpg)
 
@@ -64,7 +64,7 @@ prev_issues:
 
 ![](/images/5/rosella-1.jpg)
 
-しかし、Dreamboxはここに至るまでのレッスンを繰り返すなかで、「Rosellaちゃんは、Leannaちゃんほど分数の理解がない」と判断しました。ゆえに、彼女にはさらに易しい「分母が同じの、答えが仮分数にならない分数の足し算」の問題が表示されます。
+しかし、Dreamboxの人工知能はここに至るまでのレッスンを繰り返すなかで、「Rosellaちゃんは、Leannaちゃんほど分数の理解がない」と判断しました。ゆえに、彼女にはさらに易しい「分母が同じの、答えが仮分数にならない分数の足し算」の問題が表示されます。
 
 ![](/images/5/rosella-2.jpg)
 
@@ -75,3 +75,30 @@ prev_issues:
 Dreamboxは中学2年生までの算数・数学にしか対応していませんが、なんとなくどんなサービスかがお分かりいただけたでしょうか。
 
 ## アダプティブラーニングの「選択肢が多すぎ」問題
+
+ここで「選択肢が多すぎ」問題に戻りましょう。[弊社(EdSurge)の調査によると](https://www.edsurge.com/research/special-reports/adaptive-learning/software)、現場で使われているアダプティブラーニングのアプリ・サービスは現在なんと24種類もあります(2016年2月)。以下がその一覧(名前順)です。リンク先はEdSurge内のサービス紹介ページです。
+
+- **[ALEKS](https://www.edsurge.com/product-reviews/aleks)** - 小中高の算数・数学のアダプティブラーニング教材。
+- **[Brightspace Leap](https://www.edsurge.com/product-reviews/desire2learn-product)** - 小中高から大学、社会人教育までをカバーするデジタル教材の大手で、アダプティブラーニング教材も充実。
+- **[CK-12 Platform](https://www.edsurge.com/product-reviews/ck-12-platform)** - 理系科目の教材を無料で提供しているNPO。アダプティブな数学・科学の学習アプリも提供。
+- **[Cogbooks](https://www.edsurge.com/product-reviews/cogbooks-product)** - 現時点では、アダプティブな歴史と生物学のデジタル教材を提供中。
+- **[DreamBox](https://www.edsurge.com/product-reviews/dreambox-learning)** - 中学2年生までの算数・数学
+- **[Fishtree](https://www.edsurge.com/product-reviews/fishtree)**
+- **[Fulcrum Labs](https://www.edsurge.com/product-reviews/adapt-courseware)**
+- **[i-Ready](https://www.edsurge.com/product-reviews/i-ready)**
+- **[Istation](https://www.edsurge.com/product-reviews/istation-reading)**
+- **[Knewton](https://www.edsurge.com/product-reviews/knewton)**
+- **[KnowRe](https://www.edsurge.com/product-reviews/knowre)**
+- **[LearnBop](https://www.edsurge.com/product-reviews/learnbop)**
+- **[LearnSmart + SmartBook](https://www.edsurge.com/product-reviews/mcgraw-hill-learnsmart)**
+- **[Lexia Reading Core 5](https://www.edsurge.com/product-reviews/lexia-reading-core5)**
+- **[Mastering](https://www.edsurge.com/product-reviews/mastering)**
+- **[Mathspace](https://www.edsurge.com/product-reviews/mathspace-product)**
+- **[MyLab](https://www.edsurge.com/product-reviews/mylab)**
+- **[Redbird Advanced Learning](https://www.edsurge.com/product-reviews/redbird-advanced-learning-courses)**
+- **[ScootPad](https://www.edsurge.com/product-reviews/scootpad)**
+- **[Smart Sparrow](https://www.edsurge.com/product-reviews/smart-sparrow)**
+- **[ST Math](https://www.edsurge.com/product-reviews/st-math)**
+- **[SuccessMaker](https://www.edsurge.com/product-reviews/successmaker)**
+- **[Think Through Math](https://www.edsurge.com/product-reviews/think-through-math)**
+- **[Waggle](https://www.edsurge.com/product-reviews/waggle)**
