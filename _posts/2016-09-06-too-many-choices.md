@@ -6,6 +6,8 @@ date: 2016-09-06
 image: /images/4/barry.jpg
 prev_issues:
   - 3
+next_issues:
+  - 5
 # tweet_id: 750120355235147776
 ---
 
