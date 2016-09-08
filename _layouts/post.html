@@ -13,9 +13,28 @@ layout: default
       </time>
     </section>
   </header>
-  {% unless page.issue == 1 %}
-    {% include about-senseicode.html %}
-  {% endunless %}
+  <div class='mb4'>
+    {% unless page.issue == 1 %}
+      {% include about-senseicode.html %}
+    {% endunless %}
+    {% if page.prev_issues %}
+      <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
+        <h2 class="f5 mt0 mb2 tc">この記事は、以下の記事の続編です</h2>
+        <ul class="list pa0">
+        {% for prev_issue in page.prev_issues %}
+          {% assign prev_posts = site.posts | where:"issue",prev_issue %}
+          {% for prev_post in prev_posts %}
+            <li class="mt0 mb2">
+              <a href="{{ prev_post.url }}" class="color-inherit hover-color no-underline">
+                <span class="red mr1">{{ prev_post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ prev_post.title }}</span>
+              </a>
+            </li>
+          {% endfor %}
+        {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </div>
   <section class="post-content js-post-content mb4">
     {{ content }}
   </section>
