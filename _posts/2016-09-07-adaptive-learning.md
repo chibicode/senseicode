@@ -6,7 +6,7 @@ date: 2016-09-06
 prev_issues:
   - 3
   - 4
-# image: /images/4/barry.jpg
+image: /images/5/alfonzo-2.png
 # tweet_id: 750120355235147776
 ---
 
@@ -76,29 +76,85 @@ Dreamboxは中学2年生までの算数・数学にしか対応していませ�
 
 ## アダプティブラーニングの「選択肢が多すぎ」問題
 
-ここで「選択肢が多すぎ」問題に戻りましょう。[弊社(EdSurge)の調査によると](https://www.edsurge.com/research/special-reports/adaptive-learning/software)、現場で使われているアダプティブラーニングのアプリ・サービスは現在なんと24種類もあります(2016年2月)。以下がその一覧(名前順)です。リンク先はEdSurge内のサービス紹介ページです。
+ここで「選択肢が多すぎ」問題に戻りましょう。
+
+アダプティブラーニングを売りにしているデジタル教材は、Dreamboxだけではありません。[弊社(EdSurge)の調査によると](https://www.edsurge.com/research/special-reports/adaptive-learning/software)、アメリカの教育現場で使われているアダプティブラーニングのアプリ・サービスは現在なんと24種類もあります(2016年2月)。以下がその一覧(名前順)です。リンク先はEdSurge内のサービス紹介ページです。
 
 - **[ALEKS](https://www.edsurge.com/product-reviews/aleks)** - 小中高の算数・数学のアダプティブラーニング教材。
 - **[Brightspace Leap](https://www.edsurge.com/product-reviews/desire2learn-product)** - 小中高から大学、社会人教育までをカバーするデジタル教材の大手で、アダプティブラーニング教材も充実。
 - **[CK-12 Platform](https://www.edsurge.com/product-reviews/ck-12-platform)** - 理系科目の教材を無料で提供しているNPO。アダプティブな数学・科学の学習アプリも提供。
 - **[Cogbooks](https://www.edsurge.com/product-reviews/cogbooks-product)** - 現時点では、アダプティブな歴史と生物学のデジタル教材を提供中。
-- **[DreamBox](https://www.edsurge.com/product-reviews/dreambox-learning)** - 中学2年生までの算数・数学
-- **[Fishtree](https://www.edsurge.com/product-reviews/fishtree)**
-- **[Fulcrum Labs](https://www.edsurge.com/product-reviews/adapt-courseware)**
-- **[i-Ready](https://www.edsurge.com/product-reviews/i-ready)**
-- **[Istation](https://www.edsurge.com/product-reviews/istation-reading)**
-- **[Knewton](https://www.edsurge.com/product-reviews/knewton)**
-- **[KnowRe](https://www.edsurge.com/product-reviews/knowre)**
-- **[LearnBop](https://www.edsurge.com/product-reviews/learnbop)**
-- **[LearnSmart + SmartBook](https://www.edsurge.com/product-reviews/mcgraw-hill-learnsmart)**
-- **[Lexia Reading Core 5](https://www.edsurge.com/product-reviews/lexia-reading-core5)**
-- **[Mastering](https://www.edsurge.com/product-reviews/mastering)**
-- **[Mathspace](https://www.edsurge.com/product-reviews/mathspace-product)**
-- **[MyLab](https://www.edsurge.com/product-reviews/mylab)**
-- **[Redbird Advanced Learning](https://www.edsurge.com/product-reviews/redbird-advanced-learning-courses)**
-- **[ScootPad](https://www.edsurge.com/product-reviews/scootpad)**
-- **[Smart Sparrow](https://www.edsurge.com/product-reviews/smart-sparrow)**
-- **[ST Math](https://www.edsurge.com/product-reviews/st-math)**
-- **[SuccessMaker](https://www.edsurge.com/product-reviews/successmaker)**
-- **[Think Through Math](https://www.edsurge.com/product-reviews/think-through-math)**
-- **[Waggle](https://www.edsurge.com/product-reviews/waggle)**
+- **[DreamBox](https://www.edsurge.com/product-reviews/dreambox-learning)** - 中学2年生までの算数・数学のアダプティブラーニング教材。アダプティブラーニング教材の中では大手。
+- **[Fishtree](https://www.edsurge.com/product-reviews/fishtree)** - Khan Academyなどネットにあるフリー教材を使い、先生がアダプティブなカリキュラムを作れることができるツール。
+- **[Fulcrum Labs](https://www.edsurge.com/product-reviews/adapt-courseware)** - 高等教育向けのアダプティブラーニングプラットフォーム。
+- **[i-Ready](https://www.edsurge.com/product-reviews/i-ready)** - 中学2年生までの算数・数学、そして国語(英語)のアダプティブラーニング教材。
+- **[Istation](https://www.edsurge.com/product-reviews/istation-reading)** - 幼稚園から高校までカバーする算数・数学と国語のアダプティブラーニング教材。
+- **[Knewton](https://www.edsurge.com/product-reviews/knewton)** - アダプティブラーニング教材の先駆者的存在。
+- **[KnowRe](https://www.edsurge.com/product-reviews/knowre)** - 数学に特化したアダプティブラーニング教材。遅れている生徒の補習向けに使われている。
+- **[LearnBop](https://www.edsurge.com/product-reviews/learnbop)** - 小学校高学年から中学生向けの、数学に特化したアダプティブラーニング教材。ぼくの個人的お気に入り。
+- **[LearnSmart + SmartBook](https://www.edsurge.com/product-reviews/mcgraw-hill-learnsmart)** - 教育系の大手出版社・McGraw Hillによる、アダプティブラーニングを用いた補習用教材。
+- **[Lexia Reading Core 5](https://www.edsurge.com/product-reviews/lexia-reading-core5)** - 幼稚園から5年生までを対象とした国語のアダプティブラーニング教材。
+- **[Mastering](https://www.edsurge.com/product-reviews/mastering)** - 教育系の大手出版社・Pearsonによる、科学・工学のアダプティブラーニング教材。高等教育向け。
+- **[Mathspace](https://www.edsurge.com/product-reviews/mathspace-product)** - 数式の手書き入力にも対応している算数のアダプティブラーニング教材。
+- **[MyLab](https://www.edsurge.com/product-reviews/mylab)** - 教育系の大手出版社・Pearsonによる、国語と社会のアダプティブラーニング教材。高等教育向け。
+- **[Redbird Advanced Learning](https://www.edsurge.com/product-reviews/redbird-advanced-learning-courses)** - 小学校向けの国語・算数のアダプティブラーニングカリキュラム。
+- **[ScootPad](https://www.edsurge.com/product-reviews/scootpad)** - 中学2年生までの算数・数学、そして国語(英語)のアダプティブラーニング教材。
+- **[Smart Sparrow](https://www.edsurge.com/product-reviews/smart-sparrow)** - 先生がアダプティブな教材を自作することができるアプリ。
+- **[ST Math](https://www.edsurge.com/product-reviews/st-math)** - 小学校から高校までの数学をゲーム感覚で学べるアプリ。普及率も高い。
+- **[SuccessMaker](https://www.edsurge.com/product-reviews/successmaker)** - 教育系の大手出版社・Pearsonによる、中学2年生までの算数・数学、そして国語(英語)のアダプティブラーニング教材。
+- **[Think Through Math](https://www.edsurge.com/product-reviews/think-through-math)** - 数学のアダプティブラーニング教材。詰まったらチューターとも会話することができる。
+- **[Waggle](https://www.edsurge.com/product-reviews/waggle)** - 中学2年生までの算数・数学、そして国語(英語)のアダプティブラーニング教材。
+
+## どれを選べばいいのか分からない
+
+アメリカでは公教育の教育現場でエドテックが使われていますが、アダプティブラーニングでもこれだけ種類があると、教材を購入する学校側が「選択肢が多すぎ問題」に悩まされてしまいます。
+
+> エドテックが流行ると教育向けアプリやサービスが大量に生まれますが、それは「選択肢が多すぎ」問題を引き起こします。すると、「(エドテックの)選択が難しいと感じ、無力感にさいなまれる」「選んだ選択肢に不安を持ってしまう」「上がった期待値に届かずがっかりする」「選択に失敗した場合、自分自身を責める」といった、選択肢が多いことの負の面が表面化します。
+>
+> そして教育においては、選択に失敗したときのコストが大きいため、これらの負の面が他の分野より目立ちます。ゆえに懐疑派が「やっぱり教育にテクノロジーは合わない」という結論にたどり着くのです。
+
+## 「第三者の厳しい目」が必要だが・・・
+
+選択を難しくしている点は、「第三者によるレビューが少ない」という点です。どのサービスも「お客様(先生・生徒)の声」を載せていますが、辞任した舛添前都知事が抜擢した「第三者」のように、バイアスが無いとは言い切れません。
+
+また、中立的なレビューはネットを探せば見つけられますが、教育というものは、現場によって指導方法が大きく変わります。ある先生が「このアダプティブラーニング教材はひどい」と言い、まったく別な先生が「これは最高の教材だ」と言うことは日常茶飯事です。教え方のスタイル、生徒の能力、学校の大まかな教育方針など、差異が生まれる原因は数えたらキリがありません。エドテックのレビューはAmazonや食べログなどのレビューよりも一層あてにならないのです。
+
+## じゃあどうするか
+
+第一に、良質な教育系メディアや研究機関が、「この教材はこういう教室・先生向けで、こういう点に長けていて、こういう点は苦手」ということを調べて提示しなければいけません。家電やレストランのレビュー、書評や映画の批評などに比べて、「向き不向き」の部分に多くの文字数を割くことが大事です。
+
+たとえば弊社・EdSurgeは、エドテックの研究もスポンサー企業と組んで行っています(貴重な収入源です)。もちろん、[スポンサー企業の意向が反映されないように](https://www.edsurge.com/research/special-reports/adaptive-learning/about)気を配っています。
+
+さて、[弊社のアダプティブラーニング教材の研究](https://www.edsurge.com/research/special-reports/adaptive-learning/)によると、アダプティブラーニング教材には三種類のタイプがあることが浮かび上がってきました。
+
+1. 生徒の習熟度を把握し、生徒に役に立つヒントや資料を提示するタイプ
+2. 生徒の習熟度を把握し、生徒に最も適したドリル問題を提示するタイプ
+3. 生徒の習熟度を把握し、生徒ごとに別々のカリキュラムを提示するタイプ
+
+## LearnBopの例
+
+たとえば、(1)の「生徒の習熟度を把握し、生徒に役に立つヒントや資料を提示するタイプ」には、代表的なものに[LearnBop](http://learnbop.com)があります。たとえば、以下のような分数の問題があったとして、
+
+![](/images/5/learnbop-1.png)
+
+生徒が分からなかったら、次のような適切なヒントが表示されます。
+
+![](/images/5/learnbop-2.png)
+
+それでも分からなかったら、さらに次のようなヒントが表示されます。
+
+![](/images/5/learnbop-3.png)
+
+## アダプティブラーニングの3タイプ
+
+アダプティブラーニングのツールはどれも一長一短で、たとえば生徒の習熟度に適したドリル問題を提示してくれるが、生徒が詰まったときに出てくるヒントは分かりにくかったりすることもあります。それらを弊社が調べてみた結果、以下のような結論に至りました。
+
+1. **生徒の習熟度を把握し、生徒に役に立つヒントや資料を提示するのが強いツール:** CogBooks, Dreambox, Fulcrum Labs, i-Ready, Istation, Knowre, LearnBop, Lexia, Mastering, MathSpace, MyLab, Redbird Advanced Learning, Smart Sparrow, ST Math, Think Through Math, Waggle
+2. **生徒の習熟度を把握し、生徒に最も適したドリル問題を提示するのが強いツール:** ALEKS, Ck-12 Platform, Fulcrum Labs, i-Ready, Istation, LearnSmart + SmartBook, Mastering, ScootPad, SuccessMaker, Think Through Math
+3. **生徒の習熟度を把握し、生徒ごとに別々のカリキュラムを提示するのが強いツール:** ALEKS, Brightspace Leap, CogBooks, Dreambox, Fishtree, Knewton, Knowre, Learnsmart + Smartbook, Mathspace, MyLab, Redbird Advanced Learning, ScootPad, Smart Sparrow, SuccessMaker, Waggle
+
+このような情報が増えれば、とりあえず先生は1、2、3のどれを求めてるかでツールを選ぶことが可能になります。
+
+## それでも「選択肢が多すぎ問題」はまだ残る
+
+良質な情報が増えても、「選択肢が多すぎ問題」はいまだに残ります。次回では、それを解決しようとする弊社の取り組み「コンシェルジュ事業」を紹介します。長くなってしまいましたが、今回はここまでです。
