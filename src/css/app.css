@@ -76,8 +76,8 @@ h1, h2, h3, h4, h5, h6, strong {
   }
 
   & .twitter-tweet {
-    margin-top: 3rem !important;
-    margin-bottom: 3rem !important;
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
     margin-left: auto !important;
     margin-right: auto !important;
   }
@@ -103,8 +103,8 @@ h1, h2, h3, h4, h5, h6, strong {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 
   & .border {
@@ -125,15 +125,15 @@ h1, h2, h3, h4, h5, h6, strong {
   & figure {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 
   & figcaption {
     display: block;
     text-align: center;
     color: #999;
-    margin-top: -2rem;
+    margin-top: -1.5rem;
     font-size: 0.85rem;
   }
 }

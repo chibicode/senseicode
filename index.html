@@ -7,12 +7,22 @@ home: true
   <p class="mt0 mb2">
     {{ site.data.text.intro_p1 }}
   </p>
+  <h2 class="f4 mt4 mb1">senseicodeの記事一覧</h2>
+  <ul class="list pa0 mt0 mb2 pb3">
+    {% for post in site.posts %}
+      <li class="mt0 mb2">
+        <a href="{{ post.url }}" class="color-inherit no-underline hover-color">
+          <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span>{{ post.title }} <span class="moon-gray f6">{{ post.date | date: "%Y/%-m/%-d" }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  <h2 class="f4 mt4 mb1">個人ブログに書いた教育関連の記事</h2>
   <p class="mb2">
-    2016年7月に開始したばかりであまり記事がありませんが、よろしければ「1」から順に読んでみてください。
+    ぼくの個人ブログでも以前、教育について書いていました。よければどうぞ。
   </p>
-  <h2 class="f4 mt4 mb1">記事リスト</h2>
   <ul class="list pa0 mt0">
-    {% for post in site.posts reversed %}
+    {% for post in site.data.personal_blog %}
       <li class="mt0 mb2">
         <a href="{{ post.url }}" class="color-inherit no-underline hover-color">
           <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span>{{ post.title }} <span class="moon-gray f6">{{ post.date | date: "%Y/%-m/%-d" }}</span>
