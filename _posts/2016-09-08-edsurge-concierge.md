@@ -36,7 +36,7 @@ image: /images/6/edsurgents.jpg
   <figcaption>EdSurge社員(2016年春撮影)。数名欠席。左下の緑の服がぼく。</figcaption>
 </figure>
 
-EdSurgeは「エドテックのネットメディアベンチャー」としてアメリカの教育業界では広く知られています。メディア事業以外にも、エドテックの大規模なカンファレンスを開いたり、エドテックを掲載したり、前回の記事で取り上げたようなエドテックの市場調査も行っています。[投資家から約6億円の資金も調達しています](https://www.crunchbase.com/organization/edsurge)。
+EdSurgeは「エドテックのネットメディアベンチャー」としてアメリカの教育業界では広く知られています。メディア事業以外にも、エドテックの大規模なカンファレンスを開いたり、エドテックの求人情報を掲載したり、前回の記事で取り上げたようなエドテックの市場調査を行っています。[シリコンバレーの投資家から約6億円の資金も調達しています](https://www.crunchbase.com/organization/edsurge)。
 
 <figure>
   <img src="/images/6/edsurge-site.jpg" />
