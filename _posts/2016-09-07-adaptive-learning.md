@@ -2,7 +2,7 @@
 issue: 5
 title: アダプティブラーニングの「選択肢が多すぎ」問題
 permalink: /5-adaptive-learning
-date: 2016-09-06
+date: 2016-09-12
 prev_issues:
   - 3
   - 4
