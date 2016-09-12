@@ -82,8 +82,8 @@ layout: default
   {% include mailchimp.html %}
   {% include about-me.html %}
   <div class="br3 bw1 b--black-05 bw2 ba pb3 pt3 ph4 mb2">
-    <h2 class="f5 mt0 mb2 tc">記事リスト</h2>
-    <ul class="list pa0 f6">
+    <h2 class="f5 mt0 mb2 tc">senseicodeの記事一覧</h2>
+    <ul class="list pa0 f6 mb4">
     {% for post in site.posts %}
       <li class="mt0 mb2">
         {% if post.url == page.url %}
@@ -93,6 +93,16 @@ layout: default
             <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ post.title }}</span>
           </a>
         {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+    <h2 class="f5 mt0 mb2 tc">個人ブログに書いた教育関連の記事</h2>
+    <ul class="list pa0 f6">
+    {% for post in site.data.personal_blog %}
+      <li class="mt0 mb2">
+        <a href="{{ post.url }}" class="color-inherit no-underline hover-color">
+          <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ post.title }}</span>
+        </a>
       </li>
     {% endfor %}
     </ul>

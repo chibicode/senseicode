@@ -53,11 +53,33 @@ EdSurgeは「エドテックのネットメディアベンチャー」として�
 
 EdSurgeコンシェルジュのサイトは[こちらから見れます](https://www.edsurge.com/concierge/)。
 
-## EdSurgeコンシェルジュの利用の流れ
+## 公教育の現場の役職について
 
+EdSurgeコンシェルジュの「ご利用の流れ」をこれから書こうと思っているのですが、その前にアメリカの公教育の現場の役職について少しだけ語らせてください。
 
+アメリカでは文科省ほど「お上の指示」が強くなく、「学習指導要領」的なものも日本に比べたら緩いので、教育内容や教育予算の分配を決める権限がより現場に近いところへと委譲されています([参考記事:アメリカの教科書はなぜ重たいのか](http://chibicode.com/3-troubled-crusade-1-5/))。
 
+するとどうなるかというと、学校のテクノロジー化が進むにつれ、「デジタル学習の責任者」などの役職を持つ人が学校単位、または学区(教育の広域行政区)単位にできるわけです。
 
+ためしにぼくが卒業した中学・高校がある、ワシントンDC近郊の学区・[Montgomery County Public Schoolsの役職名](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/index.aspx?ix=ac)には以下のような役職があります。これは私立ではなく、アメリカに1万3000ほどある公立の教育行政区です。
+
+![](/images/6/job-descriptions.png)
+
+- **[CTO(最高技術責任者)](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/description.aspx?fn=0167-4)** - 学区のIT戦略における最高責任者。
+- **[Director of Instructional Technology(デジタル学習責任者)](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/description.aspx?fn=0251-1093)** - 学区全体のデジタル学習戦略を考え実行するCTO直下の責任者。
+- **[Director, Division of Technology Support(ITサポート責任者)](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/description.aspx?fn=0330-1002)** - 学区全体の情報システム戦略を考え実行するCTO直下の責任者。
+- **[Supervisor, Division of Innovative Technology(技術イノベーション担当員)](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/description.aspx?fn=0708-216)** - ITを用いた教育のイノベーションの長期的な戦略を考える参謀。
+- **[Instructional Specialist, Instructional Technology(デジタル学習指導のスペシャリスト)](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/description.aspx?fn=0833-990)** - デジタル教材を現場で効率的に導入するための戦略を考える参謀。
+
+アメリカの多くの学区では、このようなエドテック関連の「ポスト」があり、役割も明確に記されています。また、学区単位でなくとも、チャータースクール(公共の財源で賄われる私営の実験校)では学校単位でエドテックの役職があったりします。ふつうの公立校でも、校長やそれに近い立場の人はエドテックのアプリやサービスを購入する予算を持っていたりします。
+
+「CTO(最高技術責任者)」は日本でもITベンチャー企業などでおなじみの役職ですが、そういうクラスタの方々に「アメリカの公立学区にもCTOはいる」と言うとよく驚かれます。10年前のデータですが、[アメリカの全学区の5割にフルタイム勤務のCTOがいる](http://www.edweek.org/ew/articles/2013/10/02/06el-cto.h33.html)そうです。
+
+## ステップ1.
+
+話を戻しましょう。なぜこの話をしたかというと、EdSurgeコンシェルジュに登録してくださる学校関係者の方々は、上記のような「学校・学区のエドテックにおける意思決定者」がほとんどだからです。
+
+![](/images/6/concierge-step1.png)
 
 
 
