@@ -8,7 +8,7 @@ prev_issues:
   - 4
 next_issues:
   - 6
-image: /images/5/alfonzo-2.png
+image: /images/5/alfonzo-2.jpg
 tweet_id: 775508957943115776
 ---
 
