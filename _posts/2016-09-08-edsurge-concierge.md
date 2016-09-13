@@ -8,7 +8,7 @@ prev_issues:
   - 4
   - 5
 image: /images/6/edsurgents.jpg
-# tweet_id: 750120355235147776
+tweet_id: 775509554989707264
 ---
 
 学校の先生方へ
