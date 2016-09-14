@@ -61,7 +61,7 @@ EdSurgeコンシェルジュの「ご利用の流れ」を書く前に、アメ�
 
 するとどうなるかというと、学校のテクノロジー化が進むにつれ、「デジタル学習の責任者」などの役職を持つ人が学校単位、または学区(教育の広域行政区)単位にできるわけです。それぞれの学校・学区が切磋琢磨し合ってテクノロジー化が進められるため、それを率いる人材のためのポストが設けられるのです。
 
-ためしにぼくが卒業した中学・高校がある、ワシントンDC近郊の学区・[Montgomery County Public Schoolsの](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/index.aspx?ix=ac)には以下のような役職があります。これは私立ではなく、アメリカに1万3000ほどある「公立」の教育行政区にある役職名です。
+ためしにぼくが卒業した中学・高校がある、ワシントンDC近郊の学区・[Montgomery County Public Schools](http://montgomeryschoolsmd.org/departments/personnel/classification/descriptions/index.aspx?ix=ac)には以下のような役職があります。これは私立ではなく、アメリカに1万3000ほどある「公立」の教育行政区にある役職名です。
 
 ![](/images/6/job-descriptions.png)
 
