@@ -74,12 +74,12 @@ layout: default
       <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.github.url }}{{ page.url }}" data-text="{{ page.title }}" data-via="chibicode" data-related="senseicode" data-lang="ja" data-size="large"></a>
     </div>
     {% if page.tweet_id %}
-    <div class="mt4">
+    <div class="mt4" style='margin-left: -1rem; margin-right: -1rem'>
       <blockquote class="twitter-tweet tw-align-center" data-lang="ja" data-conversation="none" data-cards="hidden"><p lang="und" dir="ltr"><a href="https://twitter.com/senseicode/status/{{ page.tweet_id }}"></a></blockquote>
     </div>
     {% endif %}
     {% if page.fb_id %}
-    <div class="mt4">
+    <div class="mt4" style='margin-left: -1rem; margin-right: -1rem'>
       <div class="fb-post" data-href="https://www.facebook.com/shu/posts/{{ page.fb_id }}" data-width="auto" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/{{ page.fb_id }}" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/{{ page.fb_id }}">Monday, July 4, 2016</a></blockquote></div>
     </div>
     {% endif %}
