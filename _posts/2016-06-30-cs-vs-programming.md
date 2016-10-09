@@ -6,7 +6,8 @@ date: 2016-07-05
 image: /images/2/6-tiles.png
 next_issues:
   - 3
-tweet_id: 750120073335943170
+tweet_id: 785199893333745665
+fb_id: 10200501603882417
 ---
 
 学校の先生方へ

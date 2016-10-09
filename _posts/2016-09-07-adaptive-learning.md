@@ -9,7 +9,8 @@ prev_issues:
 next_issues:
   - 6
 image: /images/5/alfonzo-2.jpg
-tweet_id: 775508957943115776
+tweet_id: 785200346507284480
+fb_id: 10200651663433812
 ---
 
 学校の先生方へ

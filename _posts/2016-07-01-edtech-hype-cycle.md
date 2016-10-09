@@ -6,7 +6,8 @@ date: 2016-07-05
 image: /images/3/hype-cycle.png
 next_issues:
   - 4
-tweet_id: 750120355235147776
+tweet_id: 785200072296235008
+fb_id: 10200501603882417
 ---
 
 学校の先生方へ

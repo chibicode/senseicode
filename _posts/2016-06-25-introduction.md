@@ -6,7 +6,8 @@ date: 2016-07-05
 image: /images/1/edix-1.jpg
 next_issues:
   - 2
-tweet_id: 750119803419897857
+tweet_id: 785199601535950852
+fb_id: 10200501603882417
 ---
 
 学校の先生方へ
