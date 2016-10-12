@@ -151,6 +151,4 @@ EdSurgeコンシェルジュは、エドテックにおける「選択肢が多�
 
 「EdSurgeのことをもっと知りたい」という方は、一年前に書いた「[EdSurgeとはどんな会社か？とある教育メディアがシリコンバレーで生まれた話](http://chibicode.com/how-edsurge-started/)」という記事をご覧ください。
 
-最後に、EdSurgeコンシェルジュのことでご質問があれば、[shu@chibicode.com](mailto:shu@chibicode.com)にメールをお送りください。
-
 読んでいただきありがとうございました。
