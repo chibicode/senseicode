@@ -90,15 +90,17 @@ layout: default
     <h2 class="f5 mt0 mb2 tc">senseicodeの記事一覧</h2>
     <ul class="list pa0 f6 mb4">
     {% for post in site.posts %}
-      <li class="mt0 mb2">
-        {% if post.url == page.url %}
-          <span class="silver mr1">{{ post.issue }}</span><span class="silver mr1">/</span><span class="silver">{{ post.title }} (このページの記事)</span>
-        {% else %}
-          <a href="{{ post.url }}" class="color-inherit hover-color no-underline">
-            <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ post.title }}</span>
-          </a>
-        {% endif %}
-      </li>
+      {% unless post.draft %}
+        <li class="mt0 mb2">
+          {% if post.url == page.url %}
+            <span class="silver mr1">{{ post.issue }}</span><span class="silver mr1">/</span><span class="silver">{{ post.title }} (このページの記事)</span>
+          {% else %}
+            <a href="{{ post.url }}" class="color-inherit hover-color no-underline">
+              <span class="red mr1">{{ post.issue }}</span><span class="silver mr1">/</span><span class="underline">{{ post.title }}</span>
+            </a>
+          {% endif %}
+        </li>
+      {% endunless %}
     {% endfor %}
     </ul>
     <h2 class="f5 mt0 mb2 tc">個人ブログに書いた教育関連の記事</h2>
