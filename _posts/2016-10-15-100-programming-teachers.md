@@ -5,6 +5,7 @@ permalink: /7-100-women-cs-teachers-america
 date: 2016-10-17
 draft: true
 image: /images/7/og.png
+# TODO: Remove //platform.twitter.com/widgets.js
 # tweet_id: 785200502929698816
 # fb_id: 10200651663433812
 ---
@@ -119,7 +120,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」と思っていただければ嬉しいです。
 
-### X. Sheena Vaidyanathanさん / カリフォルニア州
+## X. Sheena Vaidyanathanさん / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/sheena.png" width="100" style="border-radius: 100%;" />
@@ -130,9 +131,9 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/lasdk8?src=hash">#lasdk8</a> 6th gr Ss debugging their <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> project together. Looking forward to seeing the projects at the showcase. <a href="https://t.co/BO3gkyhxRB">pic.twitter.com/BO3gkyhxRB</a></p>&mdash; Sheena (@Sheena1010) <a href="https://twitter.com/Sheena1010/status/730469437980073988">May 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳注:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
+意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
-### X. Vicky Sedgwickさん / カリフォルニア州
+## X. Vicky Sedgwickさん / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/vicky.jpg" width="100" style="border-radius: 100%;" />
@@ -151,7 +152,35 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 ![](/images/7/edtechchat.gif)
 
-### X. Alison Andersonさん / オレゴン州
+## X. Laura Blankenshipさん / ペンシルベニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/laura.jpg" width="100" style="border-radius: 100%;" />
+</p>
+
+フィラデルフィアの私立名門女子高・Baldwin Schoolにて、コンピューターサイエンス学科の学長。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/baldwinschool">@baldwinschool</a> Web Design students in a client meeting. Alexa &#39;17 and Lauren &#39;18 on the left are the clients. Ashley &#39;17 is the designer. <a href="https://t.co/NoTq3GOOoN">pic.twitter.com/NoTq3GOOoN</a></p>&mdash; Laura Blankenship (@lblanken) <a href="https://twitter.com/lblanken/status/783350995979866112">October 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「ウェブデザインの授業にて。左の二人がクライエントを演じています。」
+
+## X. Jeanne Reedさん / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jeanne.jpg" width="100" style="border-radius: 100%;" />
+</p>
+
+カリフォルニアの学区で小学校の教員を務め、コンピューターやプログラミングの授業を教えていた。現在は企業でエンジニアとして働くかたわら、子供向けのプログラミング塾[CoderDojo South Bay](http://www.coderdojosouthbay.com/)を運営。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HourOfCode?src=hash">#HourOfCode</a> in <a href="https://twitter.com/hashtag/MBUSD?src=hash">#MBUSD</a> was epic! Elementary, middle &amp; high school spectacular students shined so bright! <a href="https://t.co/wRmkeIU7O8">pic.twitter.com/wRmkeIU7O8</a></p>&mdash; Jeanne Reed (@jeannereed1) <a href="https://twitter.com/jeannereed1/status/675468862393991169">December 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「うちの学区で行ったHour of Code、大盛況でした!小学生、中学生、高校生みんなが楽しんでいました。」
+
+(訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
+
+## X. Alison Andersonさん / オレゴン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alison.jpg" width="100" style="border-radius: 100%;" />
