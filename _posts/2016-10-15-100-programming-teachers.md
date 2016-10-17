@@ -115,8 +115,51 @@ IT大国アメリカといえどもプログラミングを教えられる教員
   <img src="/images/7/og.png" alt="アメリカの学校現場でプログラミングを教える女性教員100人のプロフィール" />
 </p>
 
-というわけで今回は、そのような未来をすでに先取りしている女性教員の顔ぶれを紹介します。アメリカの先生はツイッター(実名)を利用して他の地域の先生と交流する文化があるので、皆さんのツイッターのプロフィールとツイートを掲載することにしました。
+というわけで今回は、そのような未来をすでに先取りしている女性教員の顔ぶれを紹介します。アメリカの先生はツイッター(実名)を利用して他の地域の先生と交流する文化があるので、皆さんのツイッターのプロフィールとツイートを掲載することにしました。プロフィールは執筆時のものです。
 
 「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」と思っていただければ嬉しいです。
 
-...
+### X. Sheena Vaidyanathanさん / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/sheena.png" width="100" style="border-radius: 100%;" />
+</p>
+
+シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/lasdk8?src=hash">#lasdk8</a> 6th gr Ss debugging their <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> project together. Looking forward to seeing the projects at the showcase. <a href="https://t.co/BO3gkyhxRB">pic.twitter.com/BO3gkyhxRB</a></p>&mdash; Sheena (@Sheena1010) <a href="https://twitter.com/Sheena1010/status/730469437980073988">May 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳注:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
+
+### X. Vicky Sedgwickさん / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/vicky.jpg" width="100" style="border-radius: 100%;" />
+</p>
+
+公立小・中学校のプログラミング教員。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)で、新しいコンピューターサイエンスのカリキュラムの制定に関わっている。小・中学校のプログラミング教育について語るハッシュタグチャット「[#csk8](https://twitter.com/hashtag/csk8)」のモデレーター。
+
+(**ハッシュタグチャットとは**:英語圏の教員は他の地域の教員とツイッターで交流していると書きましたが、それの中心となっているのが「ハッシュタグチャット」です。毎週か隔週の決められた時間に行われ、ツイッター上でハッシュタグを使って決められたトピックについて語り合うのです。[公式サイト](https://sites.google.com/site/twittereducationchats/education-chat-official-list)には現在約350のハッシュタグが登録されています。)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wondering what students should know/do w/CS in K-8? Join <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> chat on 10/5 at 5pm PT/8pm ET <a href="https://twitter.com/hashtag/elemcode?src=hash">#elemcode</a> <a href="https://twitter.com/hashtag/kidscancode?src=hash">#kidscancode</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://t.co/2h8qqakbKW">pic.twitter.com/2h8qqakbKW</a></p>&mdash; Vicky Sedgwick (@VisionsByVicky) <a href="https://twitter.com/VisionsByVicky/status/783338787107581952">October 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「今週水曜夜5時に#csk8のハッシュタグで小・中学校のプログラミング教育のカリキュラムの標準化について語りますので、ぜひ参加してください!」
+
+実際のチャットの様子はこんな感じです。
+
+![](/images/7/edtechchat.gif)
+
+### X. Alison Andersonさん / オレゴン州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/alison.jpg" width="100" style="border-radius: 100%;" />
+</p>
+
+オレゴンの小中学・高校・大学でコンピューター系の授業を教えている。3児の母。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">7th grade designed their <a href="https://twitter.com/littleBits">@littleBits</a> Leprechaun traps today and will build them tomorrow! <a href="https://twitter.com/hashtag/STEMchat?src=hash">#STEMchat</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://t.co/FeIs1vvQVY">pic.twitter.com/FeIs1vvQVY</a></p>&mdash; Alison Anderson (@tedrosececi) <a href="https://twitter.com/tedrosececi/status/708149510287921152">March 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「中学生の子たちが[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)を作ってネズミ捕りを作っています!」
