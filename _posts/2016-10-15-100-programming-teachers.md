@@ -253,11 +253,38 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「アブダビ(アラブ首長国連邦)での教育カンファレンスにて、テクノロジー教育とグローバル文化教育について講演しました!」
 
+## X. Smita Kolhatkarさん / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/smita.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニアの公立学区のテクノロジー教育担当教員として小学生向けにプログラミング、ロボット工学、3Dプリントを教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Impressed with these Gr1 Ss plowibg through <a href="https://twitter.com/hashtag/debugging?src=hash">#debugging</a> <a href="https://twitter.com/hashtag/functions?src=hash">#functions</a> using <a href="https://twitter.com/SwiftLangu">@SwiftLangu</a> <a href="https://twitter.com/hashtag/iPaded?src=hash">#iPaded</a> <a href="https://twitter.com/hashtag/1to1techat?src=hash">#1to1techat</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/coding?src=hash">#coding</a> <a href="https://t.co/MiIUWLwB8u">pic.twitter.com/MiIUWLwB8u</a></p>&mdash; Smita Kolhatkar (@SKolhatkar) <a href="https://twitter.com/SKolhatkar/status/785902285784166400">October 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「1年生の子たちがSwift言語を勉強しています!」(訳註:Apple社が開発した子供向けのプログラミング教材「[Swift Playground](http://www.apple.com/swift/playgrounds/)」を利用しているようです)
+
+## X. Lisa Bejaranoさん / コロラド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/lisa.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+高校の数学の先生で、[数学教育についてのブログ](https://crazymathteacherlady.wordpress.com/)で情報発信中。特進生向けにプログラミングの授業も教えている。
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/CodeHS">@CodeHS</a> This&#39;ll make it  much easier! Could you also make the &quot;run&quot; window collapsible to see the entire program? <a href="http://t.co/ZUUbsiocWq">pic.twitter.com/ZUUbsiocWq</a></p>&mdash; Lisa Bejarano (@lisabej_manitou) <a href="https://twitter.com/lisabej_manitou/status/576345394579292160">March 13, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「CodeHs(高校生向けのプログラミング教材)を利用しているのですが、プロジェクターで画面を映す際に、コードの部分をもう少し大きく表示できないでしょうか?」
+
 ## X. Alison Andersonさん / オレゴン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alison.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
 
 オレゴンの小中学・高校・大学でコンピューター系の授業を教えている。3児の母。
 
