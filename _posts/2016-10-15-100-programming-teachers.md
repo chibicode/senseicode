@@ -120,7 +120,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」と思っていただければ嬉しいです。
 
-### スポンサーのお知らせ: [Life is Tech!](https://life-is-tech.com/)様
+### 100人を紹介する前に、スポンサーのお知らせ: [Life is Tech!](https://life-is-tech.com/)様
 
 この記事を作成するにあたり、中学生、高校生のためのプログラミング・ITキャンプ／スクールの[Life is Tech!](https://life-is-tech.com/)様にご協力いただきました。代表の水野さんは4年半前に初めてお会いして美味しい餃子を奢ってもらい、以来陰ながら応援させてもらっています。Life is Tech!は[サッカー本田圭佑選手の投資ファンドの投資先第一号](http://jp.techcrunch.com/2016/09/12/lifeistech-raises-700m-yen/)でもあります。
 
@@ -187,6 +187,19 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 意訳:「うちの学区で行ったHour of Code、大盛況でした!小学生、中学生、高校生みんなが楽しんでいました。」
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
+
+## X. Amanda Haughsさん / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/amanda.jpg" width="100" style="border-radius: 100%;" />
+</p>
+
+カリフォルニアの学区で小学校の教員を7年間務め、現在は同じ各区の他の教員向けにテクノロジー教育のコーチングを行っている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Physical computing in gr3! Setting up our <a href="https://twitter.com/Raspberry_Pi">@Raspberry_Pi</a> stations &amp; programming stop lights <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/STEAM?src=hash">#STEAM</a> <a href="https://twitter.com/hashtag/elemcode?src=hash">#elemcode</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/CUSDrockstar?src=hash">#CUSDrockstar</a> <a href="https://t.co/OzrsQLNUcX">pic.twitter.com/OzrsQLNUcX</a></p>&mdash; Amanda Haughs (@MsHaughs) <a href="https://twitter.com/MsHaughs/status/788071508119662592">October 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「3年生の子たちがラズベリーパイ(小型コンピューター)で信号機のプログラミングをしています!」
 
 ## X. Alison Andersonさん / オレゴン州
 
