@@ -120,7 +120,9 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」と思っていただければ嬉しいです。
 
-### 100人を紹介する前に、スポンサーのお知らせ: [Life is Tech!](https://life-is-tech.com/)様
+### スポンサーのお知らせ: [Life is Tech!](https://life-is-tech.com/)様
+
+[![](/images/7/life-is-tech.jpg)](https://life-is-tech.com/)
 
 この記事を作成するにあたり、中学生、高校生のためのプログラミング・ITキャンプ／スクールの[Life is Tech!](https://life-is-tech.com/)様にご協力いただきました。代表の水野さんは4年半前に初めてお会いして美味しい餃子を奢ってもらい、以来陰ながら応援させてもらっています。Life is Tech!は[サッカー本田圭佑選手の投資ファンドの投資先第一号](http://jp.techcrunch.com/2016/09/12/lifeistech-raises-700m-yen/)でもあります。
 
