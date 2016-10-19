@@ -289,10 +289,10 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 午前中は幼稚園児から中学生相手のテクノロジー教員、午後は2年生に算数、理科、宗教学を教えているミシガン州の教員。
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And there is this 4th grader who is teaching me about <a href="https://twitter.com/scratch">@scratch</a> ! Love how Scratch allows for diverse learners. <a href="https://t.co/yIePEuPyx7">pic.twitter.com/yIePEuPyx7</a></p>&mdash; Patti Harju (@Scout7) <a href="https://twitter.com/Scout7/status/684740261977534465">January 6, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">4th graders creating Race Games using <a href="https://twitter.com/scratch">@scratch</a> ! <a href="https://t.co/HJmO20OOs7">pic.twitter.com/HJmO20OOs7</a></p>&mdash; Patti Harju (@Scout7) <a href="https://twitter.com/Scout7/status/684732319236673536">January 6, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「4年生の男の子が私に[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)を教えてくれています!」
+意訳:「4年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)でレースゲームを作っています!」
 
 ## X. Alison Anderson先生 / オレゴン州
 
@@ -319,3 +319,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「子供たちがゲーム感覚でプログラミングを学んでいます!」
+
+## Leticia Batista先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/leticia.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+小・中学校のテクノロジー教育教員で、[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)で、新しいコンピューターサイエンスのカリキュラムの制定に関わっている。スペイン語を母国語とする子どもが生徒に多い。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Story time with <a href="https://twitter.com/ScratchJr">@ScratchJr</a>, <a href="https://twitter.com/hashtag/storytellers?src=hash">#storytellers</a><a href="https://twitter.com/hashtag/authors?src=hash">#authors</a> <a href="https://twitter.com/hashtag/teachers?src=hash">#teachers</a> <a href="https://twitter.com/hashtag/GirlsinSTEM?src=hash">#GirlsinSTEM</a> <a href="https://twitter.com/hashtag/girlswhocode?src=hash">#girlswhocode</a> <a href="https://twitter.com/hashtag/primarycoders?src=hash">#primarycoders</a> <a href="https://t.co/TJOAL2A5kJ">pic.twitter.com/TJOAL2A5kJ</a></p>&mdash; letty (@MsbatistaL) <a href="https://twitter.com/MsbatistaL/status/693261177904705536">January 30, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「子どもたちが[Scratch Junior](https://www.scratchjr.org/)(5-7歳児向けのプログラミング教材)で物語を通じてプログラミングを学んでいます!」
