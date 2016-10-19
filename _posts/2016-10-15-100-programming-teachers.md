@@ -201,6 +201,19 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「3年生の子たちがラズベリーパイ(小型コンピューター)で信号機のプログラミングをしています!」
 
+## X. Andrea Wilson Vazquezさん/ミネソタ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/andrea.png" width="100" style="border-radius: 100%;" />
+</p>
+
+ミネソタ州の小学校で国語(英語)の教員を経験後、テクノロジー教育のスペシャリストに転身し、コーディング教育の導入に尽力している。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/brasst">@brasst</a> sharing awesome ideas and resources for coding and 3d printing!! <a href="https://twitter.com/hashtag/mncodes?src=hash">#mncodes</a> <a href="https://t.co/o0BLarh7OV">pic.twitter.com/o0BLarh7OV</a></p>&mdash; Andrea WilsonVazquez (@wilsandrea) <a href="https://twitter.com/wilsandrea/status/732286532246081536">May 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「(ミネソタ州のプログラミング教育カンファレンスにて)[Brass](https://twitter.com/brasst)先生がコーディングと3Dプリンターについて講演しています!」
+
 ## X. Alison Andersonさん / オレゴン州
 
 <p style="text-align: center;">
