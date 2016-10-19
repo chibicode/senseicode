@@ -130,10 +130,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 その一環として、米国でプログラミングを教えている教員のリストを作成したのですが、リストの一部を公開することは日本のプログラミング教育業界にもメリットがあると考え、当記事を書いた所存です。
 
-## X. Sheena Vaidyanathanさん / カリフォルニア州
+## X. Sheena Vaidyanathan先生 / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/sheena.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
@@ -143,10 +143,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
-## X. Vicky Sedgwickさん / カリフォルニア州
+## X. Vicky Sedgwick先生 / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/vicky.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/vicky.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 公立小・中学校のプログラミング教員。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)で、新しいコンピューターサイエンスのカリキュラムの制定に関わっている。小・中学校のプログラミング教育について語るハッシュタグチャット「[#csk8](https://twitter.com/hashtag/csk8)」のモデレーター。
@@ -162,10 +162,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 ![](/images/7/edtechchat.gif)
 
-## X. Laura Blankenshipさん / ペンシルベニア州
+## X. Laura Blankenship先生 / ペンシルベニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/laura.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/laura.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 フィラデルフィアの私立名門女子高・Baldwin Schoolにて、コンピューターサイエンス学科の学長。
@@ -175,10 +175,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「ウェブデザインの授業にて。左の二人がクライエントを演じています。」
 
-## X. Jeanne Reedさん / カリフォルニア州
+## X. Jeanne Reed先生 / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/jeanne.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/jeanne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 カリフォルニアの学区で小学校の教員を務め、コンピューターやプログラミングの授業を教えていた。現在は企業でエンジニアとして働くかたわら、子供向けのプログラミング塾[CoderDojo South Bay](http://www.coderdojosouthbay.com/)を運営。
@@ -190,10 +190,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
-## X. Amanda Haughsさん / カリフォルニア州
+## X. Amanda Haughs先生 / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/amanda.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/amanda.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 カリフォルニアの学区で小学校の教員を7年間務め、現在は同じ各区の他の教員向けにテクノロジー教育のコーチングを行っている。
@@ -203,10 +203,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「3年生の子たちがラズベリーパイ(小型コンピューター)で信号機のプログラミングをしています!」
 
-## X. Andrea Wilson Vazquezさん/ミネソタ州
+## X. Andrea Wilson Vazquez先生 / ミネソタ州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/andrea.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/andrea.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 ミネソタ州の小学校で国語(英語)の教員を経験後、テクノロジー教育のスペシャリストに転身し、コーディング教育の導入に尽力している。
@@ -216,10 +216,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「(ミネソタ州のプログラミング教育カンファレンスにて)[Brass](https://twitter.com/brasst)先生がコーディングと3Dプリンターについて講演しています!」
 
-## X. Sharon Thompsonさん / ニューヨーク州・カリフォルニア州
+## X. Sharon Thompson先生 / ニューヨーク州・カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/sharon.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/sharon.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 長年、ニューヨークの学校でさまざまな学年の生徒にプログラミングやロボット工学を教えていた。最近カリフォルニアに引っ越し、公立の実験校(小・中学生)でコンピュターサイエンス学部の学長をしている。
@@ -229,10 +229,10 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「生徒が像やバットマンのロボットをプログラミングしています!」(利用しているのは[Birdbrain](http://www.birdbraintechnologies.com/)というロボットプログラミングキット)
 
-## X. Angie Kalthoffさん / ミネソタ州
+## X. Angie Kalthoff先生 / ミネソタ州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/angie.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/angie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現在は学校でテクノロジー教育のスペシャリスト。
@@ -242,10 +242,10 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育の先生向けの研修で、先生方がペアプログラミングで学んでいます!」
 
-## X. Kari Miltonさん / カリフォルニア州
+## X. Kari Milton先生 / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/kari.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/kari.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 カリフォルニア・ロングビーチの中学校でプログラミングとグローバル教育を教えている。
@@ -255,10 +255,10 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「アブダビ(アラブ首長国連邦)での教育カンファレンスにて、テクノロジー教育とグローバル文化教育について講演しました!」
 
-## X. Smita Kolhatkarさん / カリフォルニア州
+## X. Smita Kolhatkar先生 / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/smita.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/smita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 カリフォルニアの公立学区のテクノロジー教育担当教員として小学生向けにプログラミング、ロボット工学、3Dプリントを教えている。
@@ -268,10 +268,10 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「1年生の子たちがSwift言語を勉強しています!」(訳註:Apple社が開発した子供向けのプログラミング教材「[Swift Playground](http://www.apple.com/swift/playgrounds/)」を利用しているようです)
 
-## X. Lisa Bejaranoさん / コロラド州
+## X. Lisa Bejarano先生 / コロラド州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/lisa.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 高校の数学の先生で、[数学教育についてのブログ](https://crazymathteacherlady.wordpress.com/)で情報発信中。特進生向けにプログラミングの授業も教えている。
@@ -281,10 +281,10 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「CodeHs(高校生向けのプログラミング教材)を利用しているのですが、プロジェクターで画面を映す際に、コードの部分をもう少し大きく表示できないでしょうか?」
 
-## X. Patti Harjuさん / ミシガン州
+## X. Patti Harju先生 / ミシガン州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/patti.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/patti.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 午前中は幼稚園児から中学生相手のテクノロジー教員、午後は2年生に算数、理科、宗教学を教えているミシガン州の教員。
@@ -294,12 +294,11 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「4年生の男の子が私に[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)を教えてくれています!」
 
-## X. Alison Andersonさん / オレゴン州
+## X. Alison Anderson先生 / オレゴン州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/alison.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/alison.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
-
 
 オレゴンの小中学・高校・大学でコンピューター系の授業を教えている。3児の母。
 
@@ -307,3 +306,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「中学生の子たちが[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)を作ってネズミ捕りを作っています!」
+
+## Jennifer Gwilt先生 / ミシガン州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jennifer.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ミシガンの学校のテクノロジー教育担当教員・カリキュラム作成員で、数学とコンピューターサイエンスも教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kids coding in <a href="https://twitter.com/PixelPressGame">@PixelPressGame</a> Floors at <a href="https://twitter.com/hashtag/MICSFirst?src=hash">#MICSFirst</a> <a href="https://twitter.com/hashtag/miched?src=hash">#miched</a> <a href="https://t.co/bjxYwxbMHp">pic.twitter.com/bjxYwxbMHp</a></p>&mdash; Jennifer Gwilt (@Mrs_Gwilt) <a href="https://twitter.com/Mrs_Gwilt/status/692756772059271169">January 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「子供たちがゲーム感覚でプログラミングを学んでいます!」
