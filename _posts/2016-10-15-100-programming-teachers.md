@@ -131,7 +131,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Sheena Vaidyanathanさん / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/sheena.png" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/sheena.png" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
@@ -144,7 +144,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Vicky Sedgwickさん / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/vicky.jpg" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/vicky.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 公立小・中学校のプログラミング教員。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)で、新しいコンピューターサイエンスのカリキュラムの制定に関わっている。小・中学校のプログラミング教育について語るハッシュタグチャット「[#csk8](https://twitter.com/hashtag/csk8)」のモデレーター。
@@ -163,7 +163,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Laura Blankenshipさん / ペンシルベニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/laura.jpg" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/laura.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 フィラデルフィアの私立名門女子高・Baldwin Schoolにて、コンピューターサイエンス学科の学長。
@@ -176,7 +176,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Jeanne Reedさん / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/jeanne.jpg" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/jeanne.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 カリフォルニアの学区で小学校の教員を務め、コンピューターやプログラミングの授業を教えていた。現在は企業でエンジニアとして働くかたわら、子供向けのプログラミング塾[CoderDojo South Bay](http://www.coderdojosouthbay.com/)を運営。
@@ -191,7 +191,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Amanda Haughsさん / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/amanda.jpg" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/amanda.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 カリフォルニアの学区で小学校の教員を7年間務め、現在は同じ各区の他の教員向けにテクノロジー教育のコーチングを行っている。
@@ -204,7 +204,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Andrea Wilson Vazquezさん/ミネソタ州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/andrea.png" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/andrea.png" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 ミネソタ州の小学校で国語(英語)の教員を経験後、テクノロジー教育のスペシャリストに転身し、コーディング教育の導入に尽力している。
@@ -214,10 +214,23 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「(ミネソタ州のプログラミング教育カンファレンスにて)[Brass](https://twitter.com/brasst)先生がコーディングと3Dプリンターについて講演しています!」
 
+## X. Sharon Thompsonさん / ニューヨーク州・カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/sharon.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+長年、ニューヨークの学校でさまざまな学年の生徒にプログラミングやロボット工学を教えていた。最近カリフォルニアに引っ越し、公立の実験校(小・中学生)でコンピュターサイエンス学部の学長をしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="pl" dir="ltr">.<a href="https://twitter.com/wagongrrl">@wagongrrl</a> Students program Biobots w/ <a href="https://twitter.com/birdbraintech">@birdbraintech</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/hashtag/steam?src=hash">#steam</a> <a href="https://twitter.com/hashtag/makered?src=hash">#makered</a> <a href="https://t.co/RVfxrtIRq7">pic.twitter.com/RVfxrtIRq7</a></p>&mdash; Sharon A. Thompson (@Inspiredtoteach) <a href="https://twitter.com/Inspiredtoteach/status/736259852478124033">May 27, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒が像やバットマンのロボットをプログラミングしています!」(利用しているのは[Birdbrain](http://www.birdbraintechnologies.com/)というロボットプログラミングキット)
+
 ## X. Alison Andersonさん / オレゴン州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/alison.jpg" width="100" style="border-radius: 100%;" />
+  <img src="/images/7/teachers/alison.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 オレゴンの小中学・高校・大学でコンピューター系の授業を教えている。3児の母。
