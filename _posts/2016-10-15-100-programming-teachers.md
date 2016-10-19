@@ -131,7 +131,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Sheena Vaidyanathanさん / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/sheena.png" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/sheena.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
@@ -204,7 +204,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 ## X. Andrea Wilson Vazquezさん/ミネソタ州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/andrea.png" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/andrea.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 ミネソタ州の小学校で国語(英語)の教員を経験後、テクノロジー教育のスペシャリストに転身し、コーディング教育の導入に尽力している。
@@ -226,6 +226,19 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「生徒が像やバットマンのロボットをプログラミングしています!」(利用しているのは[Birdbrain](http://www.birdbraintechnologies.com/)というロボットプログラミングキット)
+
+## X. Angie Kalthoffさん / ミネソタ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/angie.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現在は学校でテクノロジー教育のスペシャリスト。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We are <a href="https://twitter.com/hashtag/pairprogramming?src=hash">#pairprogramming</a>  &amp; <a href="https://twitter.com/hashtag/mobprogrammjng?src=hash">#mobprogrammjng</a> with <a href="https://twitter.com/TeachCode">@TeachCode</a> <a href="https://twitter.com/hashtag/csforall?src=hash">#csforall</a> <a href="https://twitter.com/hashtag/mncodes?src=hash">#mncodes</a> <a href="https://t.co/ZfiaVf9dss">pic.twitter.com/ZfiaVf9dss</a></p>&mdash; Angie Kalthoff (@mrskalthoff) <a href="https://twitter.com/mrskalthoff/status/763765209752145920">August 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「プログラミング教育の先生向けの研修で、先生方がペアプログラミングで学んでいます!」
 
 ## X. Alison Andersonさん / オレゴン州
 
