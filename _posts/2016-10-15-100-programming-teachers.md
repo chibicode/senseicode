@@ -281,6 +281,19 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「CodeHs(高校生向けのプログラミング教材)を利用しているのですが、プロジェクターで画面を映す際に、コードの部分をもう少し大きく表示できないでしょうか?」
 
+## X. Patti Harjuさん / ミシガン州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/patti.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+午前中は幼稚園児から中学生相手のテクノロジー教員、午後は2年生に算数、理科、宗教学を教えているミシガン州の教員。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And there is this 4th grader who is teaching me about <a href="https://twitter.com/scratch">@scratch</a> ! Love how Scratch allows for diverse learners. <a href="https://t.co/yIePEuPyx7">pic.twitter.com/yIePEuPyx7</a></p>&mdash; Patti Harju (@Scout7) <a href="https://twitter.com/Scout7/status/684740261977534465">January 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「4年生の男の子が私に[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)を教えてくれています!」
+
 ## X. Alison Andersonさん / オレゴン州
 
 <p style="text-align: center;">
