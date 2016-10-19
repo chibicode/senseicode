@@ -240,6 +240,19 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育の先生向けの研修で、先生方がペアプログラミングで学んでいます!」
 
+## X. Kari Miltonさん / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kari.jpg" width="100" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニア・ロングビーチの中学校でプログラミングとグローバル教育を教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Presenting on intercultural exchanges &amp; innovative technologies in Abu Dhabi <a href="https://twitter.com/BilateralTeach">@BilateralTeach</a> <a href="https://t.co/kuimSp95lG">pic.twitter.com/kuimSp95lG</a></p>&mdash; Kari Milton, NBCT (@miltology) <a href="https://twitter.com/miltology/status/670746025695449088">November 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「アブダビ(アラブ首長国連邦)での教育カンファレンスにて、テクノロジー教育とグローバル文化教育について講演しました!」
+
 ## X. Alison Andersonさん / オレゴン州
 
 <p style="text-align: center;">
