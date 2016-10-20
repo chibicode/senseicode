@@ -371,3 +371,29 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「テキサス州の学校でコンピューターサイエンスを学ぶ生徒の数が1年で約7000人増えました!」
+
+## X. Tracy Rudzitis先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/tracy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ニューヨーク市の実験校([The Computer School](http://thecomputerschool.org/programs/))でデジタル学習の教員。デジタルものづくりを教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Another full house....Scratch packs them in. <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> (@ The Computer School MakerSpace) <a href="https://t.co/fAGOigVyK1">https://t.co/fAGOigVyK1</a> <a href="https://t.co/VhVnwzU6wj">pic.twitter.com/VhVnwzU6wj</a></p>&mdash; Tracy Rudzitis (@wagongrrl) <a href="https://twitter.com/wagongrrl/status/669578912318529536">November 25, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「The Computer Schoolの生徒は[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)がだいすきです!」
+
+## X. Ingrid Gustafson / マサチューセッツ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/ingrid.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+マサチューセッツの公立学区で小学生・中学生向けのデジタル教育のスペシャリスト。名門・タフツ大学の陸上部のコーチもしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/littleBits">@littleBits</a> and <a href="https://twitter.com/arduino">@arduino</a> exploration with our young ScratchEd participants this morning <a href="https://t.co/BAUN0YPoCx">pic.twitter.com/BAUN0YPoCx</a></p>&mdash; Ingrid Gustafson (@ingridtech) <a href="https://twitter.com/ingridtech/status/685854387344916480">January 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)と[Arduino](https://www.arduino.cc/)(電子工作用の基盤)を試しているところです。」
