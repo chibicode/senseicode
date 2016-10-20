@@ -307,7 +307,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「中学生の子たちが[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)を作ってネズミ捕りを作っています!」
 
-## Jennifer Gwilt先生 / ミシガン州
+## X. Jennifer Gwilt先生 / ミシガン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jennifer.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -320,7 +320,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「子供たちがゲーム感覚でプログラミングを学んでいます!」
 
-## Leticia Batista先生 / カリフォルニア州
+## X. Leticia Batista先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/leticia.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -333,7 +333,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「子どもたちが[Scratch Junior](https://www.scratchjr.org/)(5-7歳児向けのプログラミング教材)で物語を通じてプログラミングを学んでいます!」
 
-## Keledy Kenkel先生 / ニューヨーク州
+## X. Keledy Kenkel先生 / ニューヨーク州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/keledy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -346,7 +346,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「ニューヨーク州・ニュージャージー州・コネチカット州の先生方。みなCode.orgの研修プログラムを無事終え、小学生にプログラミングを教える準備万端です!」
 
-## Jacqueline Leiker先生 / ミシガン州
+## X. Jacqueline Leiker先生 / ミシガン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jacqueline.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -358,3 +358,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「スティーブ・ジョブズの言葉。わたしの学校では生徒『全員』にプログラミングを教えていることを誇りに思います。」
+
+## X. Kim Garcia先生 / テキサス州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kim.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+元コンピューターサイエンスの教員。現在はテキサス中部の学区でデジタル学習の最高責任者をしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Computer science enrollment in Texas is up! +6963 students in 2014-2015! <a href="https://twitter.com/hashtag/tceacompsci?src=hash">#tceacompsci</a> <a href="https://twitter.com/TCEA">@TCEA</a> <a href="https://twitter.com/jbergland">@jbergland</a> <a href="http://t.co/zsMTWZpMXl">pic.twitter.com/zsMTWZpMXl</a></p>&mdash; Kim Garcia (@DigitalLearners) <a href="https://twitter.com/DigitalLearners/status/624219003792175104">July 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「テキサス州の学校でコンピューターサイエンスを学ぶ生徒の数が1年で約7000人増えました!」
