@@ -660,3 +660,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「中学生の子たちがロボットをプログラミングして統計と確率を勉強しています!」
+
+## X. Christal Thompson先生 / テキサス州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/christal.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+15年間ITコンサルタントとして働いたあと、テキサス州の学校で15年以上コンピューターサイエンスの教員となり、のちにデジタル学習の責任者に。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/educationweek">@educationweek</a> &quot;Code&quot; documentary looks at getting girls interested in computer science:<a href="http://t.co/dDJgAEIDoA">http://t.co/dDJgAEIDoA</a> <a href="http://t.co/ugTDpB0C5N">pic.twitter.com/ugTDpB0C5N</a> <a href="https://twitter.com/hashtag/stem?src=hash">#stem</a></p>&mdash; Christal Thompson (@christal_t) <a href="https://twitter.com/christal_t/status/613319079512817664">June 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「"Code"はプログラミング職におけるジェンダーギャップを描いているドキュメンタリー映画で、女子にプログラミングに興味を持ってもらおうという試みです。」
