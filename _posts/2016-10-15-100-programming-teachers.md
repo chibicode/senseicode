@@ -583,19 +583,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「5年生の子たちと2進数を学んでいるところです!」
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## X. Anne Clark先生 / インディアナ州
 
 <p style="text-align: center;">
@@ -608,3 +595,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「プログラミングの授業と他の授業の違いは、生徒が互いに教え合うことがとても多いこと、そしてデジタル教材の種類がとても多いことです。教育のイノベーションに最も近いと思います。」
+
+## X. Myra Deister先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/myra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニアの公立学区で30年以上、数学とコンピューターサイエンスを教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/APCSPfirstweek?src=hash">#APCSPfirstweek</a> Students are writing algorithms to build block towers <a href="https://twitter.com/UTeachCS">@UTeachCS</a> <a href="https://t.co/IP90MHXlSW">pic.twitter.com/IP90MHXlSW</a></p>&mdash; Myra Deister (@shhsMath) <a href="https://twitter.com/shhsMath/status/764334651162759168">August 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「特進生向けのプログラミングの授業で生徒がブロックを積むアルゴリズムを考えています!」
