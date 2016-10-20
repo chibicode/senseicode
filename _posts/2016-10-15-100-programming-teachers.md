@@ -162,6 +162,19 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 ![](/images/7/edtechchat.gif)
 
+## X. Claire Shorall先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/claire.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニア州・オークランド学区(生徒数4万人)のコンピューターサイエンス教育の最高責任者。大学では生物学・宗教学・美術を専攻し2010年に卒業。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are 2x more girls than boys (14 to 7) in <a href="https://twitter.com/CastlemontHigh">@CastlemontHigh</a>&#39;s AP CSP class. That&#39;s why visits from women like <a href="https://twitter.com/KhaliaBraswell">@KhaliaBraswell</a> matters. <a href="https://t.co/YmURwuGJiv">pic.twitter.com/YmURwuGJiv</a></p>&mdash; Claire Shorall (@cklshorall) <a href="https://twitter.com/cklshorall/status/778282284872892416">September 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです。」(訳註:Khaliaさんはアップル社のデザイナー兼エンジニアで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
+
 ## X. Laura Blankenship先生 / ペンシルベニア州
 
 <p style="text-align: center;">
@@ -423,3 +436,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「プログラミング教育について先生向けの講演を行いました。スライドもアップしています。」
+
+## X. Sarah Judd先生 / マサチューセッツ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/sarah.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+マサチューセッツの公立実験校で中学生にプログラミングの教員を担当。その後Google, Girls Who Codeにてプログラミング教育のカリキュラム制定に関わる。[Girls Who Code](https://girlswhocode.com)はプログラミングを学ぶ女子のための非営利団体。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Jaws-ish theme song in Ardublocks <a href="https://twitter.com/hashtag/CSTA16?src=hash">#CSTA16</a> <a href="https://t.co/081UOGH38C">pic.twitter.com/081UOGH38C</a></p>&mdash; Sarah Judd (@SarahEJudd) <a href="https://twitter.com/SarahEJudd/status/752254564384972800">July 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「映画『ジョーズ』のテーマを、音楽プログラミングで表現してみました!」
