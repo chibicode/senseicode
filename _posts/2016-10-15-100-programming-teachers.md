@@ -411,4 +411,15 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「生徒がJava言語とC++言語の違いについて、特に引数の渡し方について勉強しています!」
 
-## X.
+## X. Eileen Lennon先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/eileen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ニューヨークの学区でテクノロジー教育の教員。ニューヨーク市の教員がテクノロジー教育について語る「[#NYCSchoolsTechChat](https://twitter.com/hashtag/NYCSchoolsTechChat)」のモデレーター。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ve uploaded the materials I presented today at <a href="https://twitter.com/hashtag/edcampli?src=hash">#edcampli</a> You&#39;re welcome. <a href="https://t.co/1CxdNbNzzt">pic.twitter.com/1CxdNbNzzt</a></p>&mdash; Eileen Lennon (@eileen_lennon) <a href="https://twitter.com/eileen_lennon/status/782350648121692160">October 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「プログラミング教育について先生向けの講演を行いました。スライドもアップしています。」
