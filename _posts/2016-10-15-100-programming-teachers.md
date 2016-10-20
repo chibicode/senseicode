@@ -647,3 +647,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「女の子たちがこれから作るスマホアプリの画面をデザインしています!」
+
+## X. Alexis Cobo先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/alexis.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+フロリダ州の私立小学校でコンピューターサイエンスを教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">7G Adv PreAlg <a href="https://twitter.com/OZOBOT">@OZOBOT</a> bowling assessment on experimental probability.. ozo-awesome! <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://twitter.com/hashtag/edtech?src=hash">#edtech</a> <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/ipaded?src=hash">#ipaded</a> <a href="https://twitter.com/PineCrestSch">@PineCrestSch</a> <a href="https://twitter.com/LisaOckerman">@LisaOckerman</a> <a href="https://t.co/Ol7db5Fmxv">pic.twitter.com/Ol7db5Fmxv</a></p>&mdash; Alexis Cobo (@Agatorbites) <a href="https://twitter.com/Agatorbites/status/786584391791349760">October 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「中学生の子たちがロボットをプログラミングして統計と確率を勉強しています!」
