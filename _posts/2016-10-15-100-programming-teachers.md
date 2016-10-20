@@ -515,9 +515,20 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「中学1年生の子たちがFinchロボット(プログラミング学習用に売られている鳥型ロボット)をプログラミングしています!」
 
+## X. Melissa Adkins先生 / ミシシッピ州
 
+<p style="text-align: center;">
+  <img src="/images/7/teachers/melissa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
 
+ミシシッピ州の学校で20年近く教員を務め、ここ10年はコンピューター・プログラミング教育の担当。ミシシッピ州は全米50州のうち最も[貧乏](https://en.wikipedia.org/wiki/List_of_U.S._states_by_income)で[保守的](http://www.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)な州で知られている。
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/oakgroveupper">@oakgroveupper</a> Ss have been participating in <a href="https://twitter.com/hashtag/HourOfCode?src=hash">#HourOfCode</a> all week long! <a href="https://twitter.com/hashtag/FutureReady?src=hash">#FutureReady</a> <a href="https://t.co/CNbXxKPhpT">pic.twitter.com/CNbXxKPhpT</a></p>&mdash; Melissa Adkins (@mcooleyadkins) <a href="https://twitter.com/mcooleyadkins/status/675410728296292352">December 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「今週はずっと生徒がHour of Codeにかじりついています!」
+
+(訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
 
 
