@@ -169,18 +169,6 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 Nettrice先生のコンピューターサイエンスの授業の様子。電子工作・音楽プログラミングの学習の一環として、高校生の子たちが、導電性があるペンで描いた絵を触って音楽のゲームをプレイしている。
 
-## X. Sheena Vaidyanathan先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
-シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/lasdk8?src=hash">#lasdk8</a> 6th gr Ss debugging their <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> project together. Looking forward to seeing the projects at the showcase. <a href="https://t.co/BO3gkyhxRB">pic.twitter.com/BO3gkyhxRB</a></p>&mdash; Sheena (@Sheena1010) <a href="https://twitter.com/Sheena1010/status/730469437980073988">May 11, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
 ## X. Vicky Sedgwick先生 / カリフォルニア州
 
@@ -200,6 +188,32 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 実際のチャットの様子はこんな感じです。
 
 ![](/images/7/edtechchat.gif)
+
+## X. Adrienne Giffordさん / ワシントン州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/adrienne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ワシントン州の実験校で小学生・中学生向けの学習イノベーションとテクノロジー教育の最高責任者。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HTML?src=hash">#HTML</a> <a href="https://twitter.com/hashtag/LEGOrobotics?src=hash">#LEGOrobotics</a> &amp; <a href="https://twitter.com/hashtag/Minecraft?src=hash">#Minecraft</a> , oh my! What a great 1st day of Summer Camp at <a href="https://twitter.com/OWSBobcat">@OWSBobcat</a> ! <a href="https://twitter.com/hashtag/makered?src=hash">#makered</a> <a href="https://twitter.com/hashtag/STEMed?src=hash">#STEMed</a> <a href="https://twitter.com/hashtag/CSed?src=hash">#CSed</a> <a href="https://t.co/n7COh3KHrf">pic.twitter.com/n7COh3KHrf</a></p>&mdash; Adrienne Gifford (@adriennegifford) <a href="https://twitter.com/adriennegifford/status/750450189245132800">July 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「夏休みの特別授業で生徒がHTML言語や、Legoやマインクラフトでプログラミングを学んでいます!」
+
+## X. Sheena Vaidyanathan先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/lasdk8?src=hash">#lasdk8</a> 6th gr Ss debugging their <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> project together. Looking forward to seeing the projects at the showcase. <a href="https://t.co/BO3gkyhxRB">pic.twitter.com/BO3gkyhxRB</a></p>&mdash; Sheena (@Sheena1010) <a href="https://twitter.com/Sheena1010/status/730469437980073988">May 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
 ## X. Laura Blankenship先生 / ペンシルベニア州
 
@@ -542,10 +556,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「プログラミング教育のカンファレンスで[Codesters](https://www.codesters.com/)という小学生~高校生向けプログラミング教材のプレゼンテーションを聞いています!」
-
-
-
-
 
 
 
