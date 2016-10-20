@@ -621,3 +621,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「高校生たちが幼稚園児たちにプログラミングを教えている風景!」
+
+## X. Gayle Horsma先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/gayle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニアの公立学区で、幼稚園児・小学生向けの教育テクノロジーの専門家。プログラミング教育も担当。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Loving these awesome <a href="https://twitter.com/hashtag/KinderCode?src=hash">#KinderCode</a> programmers w/<a href="https://twitter.com/kodable">@kodable</a> <a href="https://twitter.com/FairviewPanther">@FairviewPanther</a> <a href="https://twitter.com/hashtag/FSEdTech?src=hash">#FSEdTech</a> <a href="https://twitter.com/emhaskell">@emhaskell</a> <a href="https://t.co/jX3DyChgGW">pic.twitter.com/jX3DyChgGW</a></p>&mdash; Gayle Horsma (@mshorsma) <a href="https://twitter.com/mshorsma/status/789166504134574082">October 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「幼稚園児がタブレット用プログラミング学習アプリ『[Kodable](http://kodable.com/)』でプログラミングを学んでいます!」
