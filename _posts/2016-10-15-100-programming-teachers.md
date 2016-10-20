@@ -118,7 +118,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 というわけで今回は、そのような未来をすでに先取りしている女性教員の顔ぶれを紹介します。アメリカの先生はツイッター(実名)を利用して他の地域の先生と交流する文化があるので、皆さんのツイッターのプロフィールとツイートを掲載することにしました。プロフィールは執筆時のものです。
 
-「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」と思っていただければ嬉しいです。
+「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」「そして、みんなツイッターでプログラミング教育について情報発信しているんだ」と気づいてもらえれば嬉しいです。
 
 ### スポンサーのお知らせ: [Life is Tech!](https://life-is-tech.com/)様
 
@@ -449,3 +449,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「映画『ジョーズ』のテーマを、音楽プログラミングで表現してみました!」
+
+## X. Annette Lang先生 / オハイオ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/annette.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+オハイオ州の実験校でテクノロジー教育の教員をしている。30年近いスキーのインストラクターでもある。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peer editing HTML code <a href="https://twitter.com/biomedacademy">@biomedacademy</a> <a href="https://twitter.com/hashtag/teachCode?src=hash">#teachCode</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://t.co/6trUprb4S8">pic.twitter.com/6trUprb4S8</a></p>&mdash; Annette Lang (@msalang) <a href="https://twitter.com/msalang/status/771745663117918210">September 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒が互いに紙に書いたHTML言語のコードについて議論しています!」
