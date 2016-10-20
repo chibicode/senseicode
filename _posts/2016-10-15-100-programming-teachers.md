@@ -634,3 +634,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「幼稚園児がタブレット用プログラミング学習アプリ『[Kodable](http://kodable.com/)』でプログラミングを学んでいます!」
+
+## X. Partice Gans先生 / コネチカット州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/patrice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+7年間コネチカットの小学校・中学校でテクノロジー・プログラミング教育の教員をしたのち、地域の小・中学生にプログラミングを教える非営利団体を立ち上げた。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The girls did an amazing job today!  Thank you for your participation <a href="https://twitter.com/BravoWaterbury">@BravoWaterbury</a> <a href="https://twitter.com/hashtag/KidsCode4ACause?src=hash">#KidsCode4ACause</a> <a href="https://t.co/cIqmc2dij0">pic.twitter.com/cIqmc2dij0</a></p>&mdash; Patrice Gans (@reesegans) <a href="https://twitter.com/reesegans/status/734499680730636289">May 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「女の子たちがこれから作るスマホアプリの画面をデザインしています!」
