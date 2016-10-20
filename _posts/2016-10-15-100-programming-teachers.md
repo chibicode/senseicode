@@ -332,3 +332,29 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「子どもたちが[Scratch Junior](https://www.scratchjr.org/)(5-7歳児向けのプログラミング教材)で物語を通じてプログラミングを学んでいます!」
+
+## Keledy Kenkel先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/keledy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ニューヨークの学校を転々とし、プログラミングの教員やテクノロジー教育導入の担当者を務める。2014年よりプログラミング教育の非営利団体最大手・[Code.org](https://code.org/)に参画し、小学校の教員向けにプログラミング教育の研修を行っている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">RT <a href="https://twitter.com/alanamaaron">@alanamaaron</a>: NY/NJ/CT teachers ready to teach <a href="https://twitter.com/codeorg">@codeorg</a> K-5 curriculum! <a href="https://twitter.com/TeachCode">@TeachCode</a> <a href="https://twitter.com/hashtag/nyccode?src=hash">#nyccode</a> <a href="https://twitter.com/hashtag/thoughtworksnyc?src=hash">#thoughtworksnyc</a>  <a href="http://t.co/4H1RnxYuXi">pic.twitter.com/4H1RnxYuXi</a></p>&mdash; Keledy Kenkel (@keledy) <a href="https://twitter.com/keledy/status/650409171221905408">October 3, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「ニューヨーク州・ニュージャージー州・コネチカット州の先生方。みなCode.orgの研修プログラムを無事終え、小学生にプログラミングを教える準備万端です!」
+
+## Jacqueline Leiker先生 / ミシガン州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jacqueline.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+二児の母。ミシガンの学校でプログラミング、グラフィックデザイン、金融リテラシーなどを教えている。元チアリーダー部のコーチ。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/leikerclass?src=hash">#leikerclass</a> <a href="https://twitter.com/hashtag/CS4All?src=hash">#CS4All</a> So proud that <a href="https://twitter.com/hashtag/NVKnights?src=hash">#NVKnights</a> teaches ALL students how to <a href="https://twitter.com/hashtag/Code?src=hash">#Code</a>. <a href="https://twitter.com/hashtag/HourofCode?src=hash">#HourofCode</a> <a href="https://twitter.com/hashtag/KnightPride?src=hash">#KnightPride</a>. <a href="http://t.co/OMWiWq2bp2">pic.twitter.com/OMWiWq2bp2</a></p>&mdash; Jacqueline Leiker (@jleiker06) <a href="https://twitter.com/jleiker06/status/633306192123686912">August 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「スティーブ・ジョブズの言葉。わたしの学校では生徒『全員』にプログラミングを教えていることを誇りに思います。」
