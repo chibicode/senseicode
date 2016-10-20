@@ -608,3 +608,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「特進生向けのプログラミングの授業で生徒がブロックを積むアルゴリズムを考えています!」
+
+## X. Alexandra Vlachakis先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/alexandra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+フロリダ州の公立学区全体を仕切る情報科学・コンピューターサイエンス学習の責任者。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">High school students teaching <a href="https://twitter.com/hashtag/hourofcode?src=hash">#hourofcode</a> to Kindergartners <a href="https://twitter.com/hashtag/inspiring?src=hash">#inspiring</a> <a href="http://t.co/RikEX1yWOM">pic.twitter.com/RikEX1yWOM</a></p>&mdash; Alexandra Vlachakis (@vlachakisalex) <a href="https://twitter.com/vlachakisalex/status/542376747279585280">December 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「高校生たちが幼稚園児たちにプログラミングを教えている風景!」
