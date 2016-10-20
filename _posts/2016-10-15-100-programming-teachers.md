@@ -570,7 +570,18 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育のカンファレンスで[Codesters](https://www.codesters.com/)という小学生~高校生向けプログラミング教材のプレゼンテーションを聞いています!」
 
+## X. Amber Kraver先生 / カリフォルニア州
 
+<p style="text-align: center;">
+  <img src="/images/7/teachers/amber.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+元スタンフォード大学のIT担当。現在はカリフォルニアのキリスト教学校でテクノロジー教育の教員をしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bustin&#39; out BINARY with <a href="https://twitter.com/hashtag/5thgrade?src=hash">#5thgrade</a>  at <a href="https://twitter.com/CalStateTEACHMB">@CalStateTEACHMB</a> Summer Lab! <a href="https://twitter.com/hashtag/CS4All?src=hash">#CS4All</a> <a href="https://t.co/9ywGdzElB9">pic.twitter.com/9ywGdzElB9</a></p>&mdash; Amber Kraver (@AmberKraver) <a href="https://twitter.com/AmberKraver/status/750790724329746432">July 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「5年生の子たちと2進数を学んでいるところです!」
 
 
 
