@@ -141,7 +141,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are 2x more girls than boys (14 to 7) in <a href="https://twitter.com/CastlemontHigh">@CastlemontHigh</a>&#39;s AP CSP class. That&#39;s why visits from women like <a href="https://twitter.com/KhaliaBraswell">@KhaliaBraswell</a> matters. <a href="https://t.co/YmURwuGJiv">pic.twitter.com/YmURwuGJiv</a></p>&mdash; Claire Shorall (@cklshorall) <a href="https://twitter.com/cklshorall/status/778282284872892416">September 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです。」(訳註:Khaliaさんはアップル社のデザイナー兼エンジニアで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
+意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです。」(訳註:Khaliaさんはアップル社のデザイナー兼プログラマーで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
 
 ## X. Dawn DuPriest先生 / コロラド州
 
@@ -149,7 +149,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
   <img src="/images/7/teachers/dawn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-元ソフトウェアエンジニア、現在はコロラド州の公立校でプログラミングと電子工学を教えている。
+元ソフトウェア開発者。現在はコロラド州の公立校でプログラミングと電子工学を教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We&#39;re making VR games in Unity. The kids are teaching each other, and me and <a href="https://twitter.com/fredisreally">@fredisreally</a> so much! <a href="https://twitter.com/hashtag/pumaslearning?src=hash">#pumaslearning</a> <a href="https://t.co/1NRb4ZJjwW">pic.twitter.com/1NRb4ZJjwW</a></p>&mdash; Dawn DuPriest (@DuPriestMath) <a href="https://twitter.com/DuPriestMath/status/784530401012379648">October 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -215,6 +215,19 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
+## X. Melissa Moritz先生 / 首都・ワシントンDC
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/melissa2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+マサチューセッツ工科大学で生物学を専攻し、卒業後の2006-2008年にニューヨーク・マンハッタンで貧困層の中学生に科学を教えていた。現在はアメリカ政府教育省・理数系教育部門の代表代理を務め、アメリカ全土のテクノロジー教育政策に関わっている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Teachers trained all over the country!! <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://t.co/wdvecSoZCC">pic.twitter.com/wdvecSoZCC</a></p>&mdash; Melissa Moritz (@melissawmoritz) <a href="https://twitter.com/melissawmoritz/status/776121027302744064">September 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「2016年に、学校の先生向けのプログラミング研修(学区公認)がアメリカ全土で2707回も行われました!」
+
 ## X. Laura Blankenship先生 / ペンシルベニア州
 
 <p style="text-align: center;">
@@ -234,7 +247,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
   <img src="/images/7/teachers/jeanne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-カリフォルニアの学区で小学校の教員を務め、コンピューターやプログラミングの授業を教えていた。現在は企業でエンジニアとして働くかたわら、子供向けのプログラミング塾[CoderDojo South Bay](http://www.coderdojosouthbay.com/)を運営。
+カリフォルニアの学区で小学校の教員を務め、コンピューターやプログラミングの授業を教えていた。現在は企業でプログラマーとして働くかたわら、子供向けのプログラミング塾[CoderDojo South Bay](http://www.coderdojosouthbay.com/)を運営。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HourOfCode?src=hash">#HourOfCode</a> in <a href="https://twitter.com/hashtag/MBUSD?src=hash">#MBUSD</a> was epic! Elementary, middle &amp; high school spectacular students shined so bright! <a href="https://t.co/wRmkeIU7O8">pic.twitter.com/wRmkeIU7O8</a></p>&mdash; Jeanne Reed (@jeannereed1) <a href="https://twitter.com/jeannereed1/status/675468862393991169">December 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -321,19 +334,6 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「アブダビ(アラブ首長国連邦)での教育カンファレンスにて、テクノロジー教育とグローバル文化教育について講演しました!」
 
-## X. Smita Kolhatkar先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/smita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
-カリフォルニアの公立学区のテクノロジー教育担当教員として小学生向けにプログラミング、ロボット工学、3Dプリントを教えている。
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Impressed with these Gr1 Ss plowibg through <a href="https://twitter.com/hashtag/debugging?src=hash">#debugging</a> <a href="https://twitter.com/hashtag/functions?src=hash">#functions</a> using <a href="https://twitter.com/SwiftLangu">@SwiftLangu</a> <a href="https://twitter.com/hashtag/iPaded?src=hash">#iPaded</a> <a href="https://twitter.com/hashtag/1to1techat?src=hash">#1to1techat</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/coding?src=hash">#coding</a> <a href="https://t.co/MiIUWLwB8u">pic.twitter.com/MiIUWLwB8u</a></p>&mdash; Smita Kolhatkar (@SKolhatkar) <a href="https://twitter.com/SKolhatkar/status/785902285784166400">October 11, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-意訳:「1年生の子たちがSwift言語を勉強しています!」(訳註:Apple社が開発した子供向けのプログラミング教材「[Swift Playground](http://www.apple.com/swift/playgrounds/)」を利用しているようです)
-
 ## X. Lisa Bejarano先生 / コロラド州
 
 <p style="text-align: center;">
@@ -346,6 +346,19 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「CodeHs(高校生向けのプログラミング教材)を利用しているのですが、プロジェクターで画面を映す際に、コードの部分をもう少し大きく表示できないでしょうか?」
+
+## X. Smita Kolhatkar先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/smita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニアの公立学区のテクノロジー教育担当教員として小学生向けにプログラミング、ロボット工学、3Dプリントを教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Impressed with these Gr1 Ss plowibg through <a href="https://twitter.com/hashtag/debugging?src=hash">#debugging</a> <a href="https://twitter.com/hashtag/functions?src=hash">#functions</a> using <a href="https://twitter.com/SwiftLangu">@SwiftLangu</a> <a href="https://twitter.com/hashtag/iPaded?src=hash">#iPaded</a> <a href="https://twitter.com/hashtag/1to1techat?src=hash">#1to1techat</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/coding?src=hash">#coding</a> <a href="https://t.co/MiIUWLwB8u">pic.twitter.com/MiIUWLwB8u</a></p>&mdash; Smita Kolhatkar (@SKolhatkar) <a href="https://twitter.com/SKolhatkar/status/785902285784166400">October 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「1年生の子たちがSwift言語を勉強しています!」(訳註:Apple社が開発した子供向けのプログラミング教材「[Swift Playground](http://www.apple.com/swift/playgrounds/)」を利用しているようです)
 
 ## X. Patti Harju先生 / ミシガン州
 
