@@ -385,7 +385,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「The Computer Schoolの生徒は[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)がだいすきです!」
 
-## X. Ingrid Gustafson / マサチューセッツ州
+## X. Ingrid Gustafson先生 / マサチューセッツ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/ingrid.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -397,3 +397,18 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)と[Arduino](https://www.arduino.cc/)(電子工作用の基盤)を試しているところです。」
+
+## X. Rebecca Dovi先生 / バージニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/rebecca.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+バージニアの高校で20年以上コンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)のバージニア州支部の設立者。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interesting class discussion today...hardest part about learning Java after C++ is parameter passing <a href="http://t.co/xGjuNYJKPd">pic.twitter.com/xGjuNYJKPd</a></p>&mdash; Rebecca Dovi (@superCompSci) <a href="https://twitter.com/superCompSci/status/581183650487799808">March 26, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒がJava言語とC++言語の違いについて、特に引数の渡し方について勉強しています!」
+
+## X.
