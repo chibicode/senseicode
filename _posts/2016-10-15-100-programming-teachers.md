@@ -229,13 +229,13 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
-## X. Shanice White先生 / メリーランド州
+## X. Shanice White先生(博士) / メリーランド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/shanice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-元情報セキュリティーと教育学の専門家。メリーランド州の公立学区で10年以上プログラミングとテクノロジー教育の専門教員をしている。現在は弁護士の資格を取得するため勉強中。
+元情報セキュリティーの専門家。教育学博士。メリーランド州の公立学区で10年以上プログラミングとテクノロジー教育の専門教員をしている。現在は弁護士の資格を取得するため勉強中。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who brought their computer today? No one? Well, take out your phones and use those. <a href="https://twitter.com/CHFlowersHigh">@CHFlowersHigh</a> <a href="https://twitter.com/hashtag/MsWhiteCompSci?src=hash">#MsWhiteCompSci</a> <a href="https://t.co/ViF0heh4ak">pic.twitter.com/ViF0heh4ak</a></p>&mdash; Shanice White, (@shanicemwhite) <a href="https://twitter.com/shanicemwhite/status/755787442259623936">July 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -530,11 +530,18 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
+## X. Heidi Kattula先生(博士) / ミシガン州
 
+<p style="text-align: center;">
+  <img src="/images/7/teachers/heidi.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
 
+ミシガン州の学校で10年間校長先生を務めた後、学区全体の特進生向け数学・プログラミング教育の責任者に。教育学博士。
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Coding in MS math, gr8 resources <a href="https://twitter.com/icodeinschool">@icodeinschool</a> <a href="https://twitter.com/RobDurecka">@RobDurecka</a>  <a href="https://twitter.com/JasonRubel">@JasonRubel</a>  <a href="https://twitter.com/bhschools">@bhschools</a> <a href="https://twitter.com/Renglish71">@Renglish71</a> <a href="https://twitter.com/jpudaloff">@jpudaloff</a> <a href="https://twitter.com/hashtag/csta16?src=hash">#csta16</a> <a href="https://t.co/d0IdrYBwck">pic.twitter.com/d0IdrYBwck</a></p>&mdash; Heidi Kattula Ed.D. (@HeidiKattula) <a href="https://twitter.com/HeidiKattula/status/752540785845809152">July 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+意訳:「プログラミング教育のカンファレンスで[Codesters](https://www.codesters.com/)という小学生~高校生向けプログラミング教材のプレゼンテーションを聞いています!」
 
 
 
