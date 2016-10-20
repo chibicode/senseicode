@@ -116,7 +116,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
   <img src="/images/7/og.png" alt="アメリカの学校現場でプログラミングを教える女性教員100人のプロフィール" />
 </p>
 
-というわけで今回は、そのような未来をすでに先取りしている女性教員の顔ぶれを紹介します。アメリカの先生はツイッター(実名)を利用して他の地域の先生と交流する文化があるので、皆さんのツイッターのプロフィールとツイートを掲載することにしました。プロフィールは執筆時のものです。
+というわけで今回は、そのような未来をすでに先取りしている女性教員の顔ぶれを紹介します。アメリカの先生はツイッター(実名)を利用して他の地域の先生と交流する文化があるので、皆さんのツイッターのプロフィールとツイートを掲載することにしました。プロフィールは執筆時のものです。順不同。
 
 「アメリカには、学校現場でプログラミングを教えている教員の女性がこんなにいるんだ」「そして、みんなツイッターでプログラミング教育について情報発信しているんだ」と気づいてもらえれば嬉しいです。
 
@@ -129,6 +129,45 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 Life is Tech!では現在、[Mozer](https://mozer.io/)というオンラインでプログラミングを学ぶサービスを開発しており(体験版公開中)、アメリカ展開を考えているようで、米国の先生向けのアプローチについて相談を承りました。
 
 その一環として、米国でプログラミングを教えている教員のリストを作成したのですが、リストの一部を公開することは日本のプログラミング教育業界にもメリットがあると考え、当記事を書いた所存です。
+
+## X. Claire Shorall先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/claire.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+カリフォルニア州・オークランド学区(生徒数4万人)のコンピューターサイエンス教育の最高責任者。大学では生物学・宗教学・美術を専攻し2010年に卒業。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are 2x more girls than boys (14 to 7) in <a href="https://twitter.com/CastlemontHigh">@CastlemontHigh</a>&#39;s AP CSP class. That&#39;s why visits from women like <a href="https://twitter.com/KhaliaBraswell">@KhaliaBraswell</a> matters. <a href="https://t.co/YmURwuGJiv">pic.twitter.com/YmURwuGJiv</a></p>&mdash; Claire Shorall (@cklshorall) <a href="https://twitter.com/cklshorall/status/778282284872892416">September 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです。」(訳註:Khaliaさんはアップル社のデザイナー兼エンジニアで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
+
+## X. Dawn DuPriest先生 / コロラド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/dawn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+元ソフトウェアエンジニア、現在はコロラド州の公立校でプログラミングと電子工学を教えている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We&#39;re making VR games in Unity. The kids are teaching each other, and me and <a href="https://twitter.com/fredisreally">@fredisreally</a> so much! <a href="https://twitter.com/hashtag/pumaslearning?src=hash">#pumaslearning</a> <a href="https://t.co/1NRb4ZJjwW">pic.twitter.com/1NRb4ZJjwW</a></p>&mdash; Dawn DuPriest (@DuPriestMath) <a href="https://twitter.com/DuPriestMath/status/784530401012379648">October 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「子どもたちがUnity(3Dコンテンツ制作用のプログラミング環境)でVRのゲームを作りながら、互いに教えあっています!」
+
+## X. Nettrice Gaskins先生(博士) / マサチューセッツ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/nettrice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+コンピューターグラフィックスの研究者で、名門ジョージア工科大学にてデジタルメディアの博士号を取得。現在はボストン市の唯一の公立美術専門高校・Boston Arts Academyでテクノロジーとアート教育の責任者をしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Student: &quot;Just keep watching. Keep watching. There&#39;s so much more...&quot; Me: &quot;That&#39;s just paint, ya&#39;ll.&quot; <a href="https://t.co/V6rB0Qb8a9">https://t.co/V6rB0Qb8a9</a></p>&mdash; Nettrice (@nettieb) <a href="https://twitter.com/nettieb/status/734876059338969088">May 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Nettrice先生のコンピューターサイエンスの授業の様子。電子工作・音楽プログラミングの学習の一環として、高校生の子たちが、導電性があるペンで描いた絵を触って音楽のゲームをプレイしている。
 
 ## X. Sheena Vaidyanathan先生 / カリフォルニア州
 
@@ -162,19 +201,6 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 ![](/images/7/edtechchat.gif)
 
-## X. Claire Shorall先生 / カリフォルニア州
-
-<p style="text-align: center;">
-  <img src="/images/7/teachers/claire.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
-</p>
-
-カリフォルニア州・オークランド学区(生徒数4万人)のコンピューターサイエンス教育の最高責任者。大学では生物学・宗教学・美術を専攻し2010年に卒業。
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are 2x more girls than boys (14 to 7) in <a href="https://twitter.com/CastlemontHigh">@CastlemontHigh</a>&#39;s AP CSP class. That&#39;s why visits from women like <a href="https://twitter.com/KhaliaBraswell">@KhaliaBraswell</a> matters. <a href="https://t.co/YmURwuGJiv">pic.twitter.com/YmURwuGJiv</a></p>&mdash; Claire Shorall (@cklshorall) <a href="https://twitter.com/cklshorall/status/778282284872892416">September 20, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです。」(訳註:Khaliaさんはアップル社のデザイナー兼エンジニアで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
-
 ## X. Laura Blankenship先生 / ペンシルベニア州
 
 <p style="text-align: center;">
@@ -203,13 +229,26 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
+## X. Shanice White先生 / メリーランド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/shanice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+元情報セキュリティーと教育学の専門家。メリーランド州の公立学区で10年以上プログラミングとテクノロジー教育の専門教員をしている。現在は弁護士の資格を取得するため勉強中。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who brought their computer today? No one? Well, take out your phones and use those. <a href="https://twitter.com/CHFlowersHigh">@CHFlowersHigh</a> <a href="https://twitter.com/hashtag/MsWhiteCompSci?src=hash">#MsWhiteCompSci</a> <a href="https://t.co/ViF0heh4ak">pic.twitter.com/ViF0heh4ak</a></p>&mdash; Shanice White, (@shanicemwhite) <a href="https://twitter.com/shanicemwhite/status/755787442259623936">July 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「コンピューターを家に忘れても、スマホがあればプログラミングを勉強できますよ!」
+
 ## X. Amanda Haughs先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/amanda.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-カリフォルニアの学区で小学校の教員を7年間務め、現在は同じ各区の他の教員向けにテクノロジー教育のコーチングを行っている。
+カリフォルニアの学区で小学校の教員を7年間務め、現在は同じ学区の他の教員向けにテクノロジー教育のコーチングを行っている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Physical computing in gr3! Setting up our <a href="https://twitter.com/Raspberry_Pi">@Raspberry_Pi</a> stations &amp; programming stop lights <a href="https://twitter.com/hashtag/STEM?src=hash">#STEM</a> <a href="https://twitter.com/hashtag/STEAM?src=hash">#STEAM</a> <a href="https://twitter.com/hashtag/elemcode?src=hash">#elemcode</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/CUSDrockstar?src=hash">#CUSDrockstar</a> <a href="https://t.co/OzrsQLNUcX">pic.twitter.com/OzrsQLNUcX</a></p>&mdash; Amanda Haughs (@MsHaughs) <a href="https://twitter.com/MsHaughs/status/788071508119662592">October 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -462,3 +501,58 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「生徒が互いに紙に書いたHTML言語のコードについて議論しています!」
+
+## X. Theresa McCoy先生 / ミネソタ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/theresa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ミネソタの公立中学校のプログラミングの先生。ロボット、3Dプリンター、ドローンを勉強中。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/birdbraintech">@birdbraintech</a> 7th gr Ss were coding new <a href="https://twitter.com/hashtag/finchrobots?src=hash">#finchrobots</a> today. Apply for <a href="https://twitter.com/hashtag/finchloan?src=hash">#finchloan</a> to get 1 yr trial. <a href="https://t.co/4v2kyzOSf8">pic.twitter.com/4v2kyzOSf8</a></p>&mdash; TMcCoy (@TheOwl3) <a href="https://twitter.com/TheOwl3/status/731186819878903808">May 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「中学1年生の子たちがFinchロボット(プログラミング学習用に売られている鳥型ロボット)をプログラミングしています!」
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## X. Anne Clark先生 / インディアナ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/anne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+6年生の国語の先生兼プログラミングの先生。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A1: When I teach coding,there are so many Ss teaching each other,so many choices Ss have in product, closest I come to innovation.  <a href="https://twitter.com/hashtag/6thchat?src=hash">#6thchat</a></p>&mdash; Anne Clark (@AnneClark7) <a href="https://twitter.com/AnneClark7/status/780937856214769664">September 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「プログラミングの授業と他の授業の違いは、生徒が互いに教え合うことがとても多いこと、そしてデジタル教材の種類がとても多いことです。教育のイノベーションに最も近いと思います。」
