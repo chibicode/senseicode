@@ -321,6 +321,19 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育の先生向けの研修で、先生方がペアプログラミングで学んでいます!」
 
+## X. Alana Aaron先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/alana.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+大学でスペイン語を勉強し、その後ニューヨークで12年間教員を務めたのち、ニューヨーク市の教育部門でコンピューターサイエンス学習の最高責任者となる。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A student debugging his code after feedback from peers. So awesome!! <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/CS4NYC?src=hash">#CS4NYC</a> <a href="https://twitter.com/NYCSchools">@NYCSchools</a> <a href="https://twitter.com/Kerri_Moser">@Kerri_Moser</a> <a href="https://t.co/9kI0xkpPwL">pic.twitter.com/9kI0xkpPwL</a></p>&mdash; Alana Aaron (@alanamaaron) <a href="https://twitter.com/alanamaaron/status/763007887807541248">August 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒が前に出てコードを書き、他の生徒が彼のコードについて指摘をしています!」
+
 ## X. Kari Milton先生 / カリフォルニア州
 
 <p style="text-align: center;">
@@ -607,7 +620,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/APCSPfirstweek?src=hash">#APCSPfirstweek</a> Students are writing algorithms to build block towers <a href="https://twitter.com/UTeachCS">@UTeachCS</a> <a href="https://t.co/IP90MHXlSW">pic.twitter.com/IP90MHXlSW</a></p>&mdash; Myra Deister (@shhsMath) <a href="https://twitter.com/shhsMath/status/764334651162759168">August 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「特進生向けのプログラミングの授業で生徒がブロックを積むアルゴリズムを考えています!」
+意訳:「特進生向けのプログラミングの授業で生徒がブロックを積むプログラムを考えています!」
 
 ## X. Alexandra Vlachakis先生 / フロリダ州
 
@@ -673,3 +686,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「"Code"はプログラミング職におけるジェンダーギャップを描いているドキュメンタリー映画で、女子にプログラミングに興味を持ってもらおうという試みです。」
+
+## X. Ria Galanos先生 / バージニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/ria.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+バージニア州にある、全米トップクラスの公立進学校のコンピューターサイエンスの先生。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Comforting to see that my students aren&#39;t the only ones who are verbose in solutions to tree problems! <a href="https://twitter.com/hashtag/SIGCSE2016?src=hash">#SIGCSE2016</a> <a href="https://t.co/8OLQSXiptR">pic.twitter.com/8OLQSXiptR</a></p>&mdash; Ria Galanos (@cscheerleader) <a href="https://twitter.com/cscheerleader/status/705437871084171264">March 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「(コンピューターサイエンス教育の学会に参加中)私の生徒もこのプログラミングの問題に苦労しています!」
