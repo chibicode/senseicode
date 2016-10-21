@@ -202,18 +202,18 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「夏休みの特別授業で生徒がHTML言語や、Legoやマインクラフトでプログラミングを学んでいます!」
 
-## X. Sheena Vaidyanathan先生 / カリフォルニア州
+## X. Abigail Joseph先生(博士) / カリフォルニア州
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/abigail.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
+超名門・プリンストン大学を卒業後、2002年にカリフォルニア大学サンタクルーズ校でコンピューターサイエンスの博士号を取得。その後10年以上、シリコンバレーの数々の学校で中高生にコンピューターサイエンスを教えている。
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/lasdk8?src=hash">#lasdk8</a> 6th gr Ss debugging their <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> project together. Looking forward to seeing the projects at the showcase. <a href="https://t.co/BO3gkyhxRB">pic.twitter.com/BO3gkyhxRB</a></p>&mdash; Sheena (@Sheena1010) <a href="https://twitter.com/Sheena1010/status/730469437980073988">May 11, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 1 of training a group of high schoolers make their winning app vision with App Inventor <a href="https://twitter.com/verizongiving">@verizongiving</a> <a href="https://twitter.com/medialab">@medialab</a> <a href="https://t.co/Ct5MQaWVCq">pic.twitter.com/Ct5MQaWVCq</a></p>&mdash; Abigail Joseph (@drabigailjoseph) <a href="https://twitter.com/drabigailjoseph/status/708832716439949312">March 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
+意訳:「高校生にスマホアプリのプログラミングを教えているところ。初日です!」
 
 ## X. Melissa Moritz先生 / 首都・ワシントンDC
 
@@ -227,6 +227,19 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「2016年に、学校の先生向けのプログラミング研修(学区公認)がアメリカ全土で2707回も行われました!」
+
+## X. Sheena Vaidyanathan先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+シリコンバレーのテクノロジー企業で10年以上働いたあと、現在はカリフォルニアの中学校でコンピューターサイエンスを教えている。[CSTA](https://www.csteachers.org/)(コンピューターサイエンス教育連盟)の委員。プログラミング教育に関する[執筆記事多数](http://www.computersforcreativity.com/articles)。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/lasdk8?src=hash">#lasdk8</a> 6th gr Ss debugging their <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> project together. Looking forward to seeing the projects at the showcase. <a href="https://t.co/BO3gkyhxRB">pic.twitter.com/BO3gkyhxRB</a></p>&mdash; Sheena (@Sheena1010) <a href="https://twitter.com/Sheena1010/status/730469437980073988">May 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
 ## X. Laura Blankenship先生 / ペンシルベニア州
 
