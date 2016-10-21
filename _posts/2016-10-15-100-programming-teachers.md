@@ -2,8 +2,13 @@
 issue: 7
 title: アメリカの学校現場でプログラミングを教える女性教員100人のプロフィール
 permalink: /7-100-women-cs-teachers-america
+
+
+# TODO: Change
 date: 2016-10-17
 draft: true
+
+
 image: /images/7/og.png
 # TODO: Remove //platform.twitter.com/widgets.js
 # tweet_id: 785200502929698816
@@ -104,7 +109,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 たとえば[当ブログの一本目の記事](/1-introduction)では、ネバダ州の田舎にある公立高校で国語(英語)を教えていたヴァン・ドーレン先生が、生徒の要望により一念発起してプログラミングを学んだ話について書きました。彼女は一年間の夜間オンライン研修を経て、全米で最も教えられている特進生向けのプログラミング授業「APCS」を教える資格を得たのです。
 
 <figure>
-  <img src="/images/1/susan.jpg" />
+  <img src="/images/7/susanv.jpg" />
   <figcaption>ヴァン・ドーレン先生 (<a href="https://www.youtube.com/watch?v=AbewmUdXC7o">画像ソース</a>)</figcaption>
 </figure>
 
@@ -128,7 +133,7 @@ IT大国アメリカといえどもプログラミングを教えられる教員
 
 Life is Tech!では現在、[Mozer](https://mozer.io/)というオンラインでプログラミングを学ぶサービスを開発しており(体験版公開中)、アメリカ展開を考えているようで、米国の先生向けのアプローチについて相談を承りました。
 
-その一環として、米国でプログラミングを教えている教員のリストを作成したのですが、リストの一部を公開することは日本のプログラミング教育業界にもメリットがあると考え、当記事を書いた所存です。
+その一環として、米国でプログラミングを教えている教員のリストを作成したのですが、リストの一部を公開することは日本のプログラミング教育業界にもメリットがあると考え、当記事を書いた所存です。もともとは男女両方のリストを公開するつもりでしたが、前述した理由から、リストを女性教員のみに絞りました。
 
 ## X. Claire Shorall先生 / カリフォルニア州
 
@@ -790,3 +795,340 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「[シーザー暗号文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E6%9A%97%E5%8F%B7)を生徒がプログラミングで解読しようとしています!」
+
+## X. Kaitie O'Bryan先生 / ミネソタ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/katie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Kristy Manuel先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kristy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Louise McMinn先生 / コネチカット州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/louise.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Katie O'Shaughnessey先生 / コネチカット州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/katie3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Meg Ray先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/meg.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Lisa Harrison Piane先生 / イリノイ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/lisa2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Melanie Mac先生 / イリノイ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/melanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ニューヨークの貧困地区で10年以上教員を務めている。もともとは国語(英語)とフランス語の先生だったが、現在は貧困層の学生にプログラミング教育を行う公立高校の副校長をしている。
+
+## X. Laurel Pollard先生 / ニューハンプシャー州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/laurel.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ニューハンプシャーの公立小学校にてコンピューターの先生兼プログラミング部の顧問をしている。
+
+## X. Tammy Pirmann先生 / ペンシルベニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/tammy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ペンシルベニアの公立高校で10年以上プログラミングの授業を教えている。授業ではJava、HTML、CSS、JavaScript、PHP、mySQL、Python、RobotC、Unity、App Inventorなどの言語や開発環境を利用。現在はテンプル大学で非常勤講師もしている。
+
+## X. Lindsay Krisher先生 / メリーランド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/lindsay.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+メリーランド州の高校で特進生向けのプログラミング、情報セキュリティーの授業の教師。
+
+## X. Annie Kelly先生 / ペンシルベニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/annie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+シカゴの高校で国語(英語)を2年間教えたのち、2015年からペンシルベニア州に引っ越し高校のコンピューターサイエンスの先生に転身。
+
+## X. Brandy Wales先生 / イリノイ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/brandy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Kelly Powers先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kelly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Joanna Doyle先生 / イリノイ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/joanna.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Kim Burton先生 / メリーランド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kim2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Kammas Murphy先生 / デラウェア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kammas.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Susan Van Doren先生 / ネバダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/susan.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Kimberly Davis先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kimberly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Jessica Zuluaga先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jessica.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Ann Boyles先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/ann.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The code comments are the best part (&quot;# TEMPORARY, I HOPE I HOPE I HOPE&quot;). <a href="https://t.co/UwCjUeEx3V">https://t.co/UwCjUeEx3V</a></p>&mdash; Ann Boyles (@aiboyles) <a href="https://twitter.com/aiboyles/status/752560192793956352">July 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## X. Kathryn Cossa先生 / バージニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kathryn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Susan Recoon先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/susan2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Lindsey Kay先生 / マサチューセッツ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/lindsey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Amy Wright先生 / ニュージャージー州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/amy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Lisa Saunders先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Alana Robinson先生 / ニューヨーク州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/alana2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Audrey Wei先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/audrey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Jillian Maher先生 / ケンタッキー州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jillian.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Adrianna Macaro先生 / ニュージャージー州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/adrianna.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">AP CSP class programming the Finch Robots today! Thanks <a href="https://twitter.com/HSNMediaCenter">@HSNMediaCenter</a>!  <a href="https://twitter.com/hashtag/MTPSpride?src=hash">#MTPSpride</a> <a href="https://t.co/ctW3GUpIpK">pic.twitter.com/ctW3GUpIpK</a></p>&mdash; Adrianna Macaro (@MsMacaro) <a href="https://twitter.com/MsMacaro/status/781553944975794177">September 29, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## X. Dianne O'Grady-Cunniff先生 / メリーランド州
+
+TODO: https://www.linkedin.com/in/dianne-o-grady-cunniff-683b784
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/dianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Trina Cunningham先生 / テキサス州
+
+TODO: https://www.linkedin.com/in/trina-cunningham-a2696294
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/trina.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Pam Whitlock先生 / ジョージア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/pam.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Stephanie Sneath先生 / イリノイ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/stephanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Eva Anderson先生 / バージニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/eva.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+TODO: Jamtech = build a game event
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bouncing crabs and giant gumba <a href="https://twitter.com/hashtag/JAMTECH?src=hash">#JAMTECH</a> <a href="https://t.co/VGqiz16ijM">pic.twitter.com/VGqiz16ijM</a></p>&mdash; Eva Anderson (@Missevadee69) <a href="https://twitter.com/Missevadee69/status/668131504128712704">November 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## X. Debra Kelly Thomas先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/debra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Susan B Bardin先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/susan3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Jen Cefaly先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Marianne Finocchiaro先生 / マサチューセッツ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/marianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Susan Dalgic先生 / テキサス州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/susan4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Rebecca Malones先生 / フロリダ州
+
+Instructional Specialists/Facilitators – Elementary
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/rebecca2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Julie Reynolds先生 / テキサス州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/julie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Carol Birnbaum先生 / カンザス州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/carol.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Stephanie Younger先生 / ケンタッキー州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/stephanie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Katie Miller先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/katie4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Gerri Lynne Ryan先生 / テキサス州
+
+TODO: https://www.linkedin.com/in/gerri-lynne-ryan-29568975
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/gerri.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Laurie Edwards先生 / メリーランド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/laurie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Charity Smith先生 / コロラド州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/charity.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Kelly McNeil先生 / フロリダ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kelly2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+## X. Michelle Cernuto先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/michelle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+TODL https://www.linkedin.com/in/mcnuto
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome morning with high school kids and <a href="https://twitter.com/zyngaorg">@zyngaorg</a>, <a href="https://twitter.com/SFUnified">@SFUnified</a> - learning game design and coding. <a href="https://t.co/4gonF2uDnJ">pic.twitter.com/4gonF2uDnJ</a></p>&mdash; Michelle Cernuto (@MichelleCernuto) <a href="https://twitter.com/MichelleCernuto/status/707695066102374400">March 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## X. Rebecca Nguyen先生 / ルイジアナ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/rebecca3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Students at MSA East begin to program using <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> programming language <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a> <a href="https://twitter.com/UTeachCS">@UTeachCS</a> <a href="https://t.co/8Ew7NXCpuC">pic.twitter.com/8Ew7NXCpuC</a></p>&mdash; Rebecca Nguyen (@rnguyenmath) <a href="https://twitter.com/rnguyenmath/status/781263246913175553">September 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
