@@ -777,3 +777,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「2016年秋からアメリカの20の州で、コンピューターサイエンスの授業を高校卒業に必要な数学の単位として数えることができるようになったそうです!」
+
+## X. Nita Waterman先生 / テキサス州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/nita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+テキサス州の公立学区で30年以上教師を務めている。2000年からは16年間、特進生向けのプログラミング授業の先生をしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using a Caesar Cipher to learn encryption! <a href="https://twitter.com/hashtag/APCSPfirstweek?src=hash">#APCSPfirstweek</a> <a href="https://twitter.com/hashtag/csforall?src=hash">#csforall</a> <a href="https://t.co/IJdx0fFSVr">pic.twitter.com/IJdx0fFSVr</a></p>&mdash; Nita Waterman (@iteachjava) <a href="https://twitter.com/iteachjava/status/768454843694407681">August 24, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「[シーザー暗号文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E6%9A%97%E5%8F%B7)を生徒がプログラミングで解読しようとしています!」
