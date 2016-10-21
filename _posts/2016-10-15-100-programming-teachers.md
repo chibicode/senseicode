@@ -750,6 +750,17 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A <a href="https://twitter.com/hashtag/making?src=hash">#making</a> session in our making and literacy program with middle schoolers <a href="https://twitter.com/hashtag/makered?src=hash">#makered</a> <a href="https://twitter.com/hashtag/makeymakey?src=hash">#makeymakey</a> <a href="https://twitter.com/hashtag/CSed?src=hash">#CSed</a> <a href="https://t.co/Ukri44kYr9">pic.twitter.com/Ukri44kYr9</a></p>&mdash; Danielle Harlow (@Dani805) <a href="https://twitter.com/Dani805/status/673237031120580608">December 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「中学生の子たちが電子工作をしているところ!」
+意訳:「中学生の子たちが電子工作をしているところです!」
 
-##
+## X. Jeannie Finley先生 / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/jeannie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+ロサンゼルスにあるカトリックの女子校で教員を務め、現在は同校でテクノロジー・プログラミング教育の責任者。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More States Mandate High Schools Count <a href="https://twitter.com/hashtag/CompSci?src=hash">#CompSci</a> as Math or Science <a href="https://t.co/e0WHtHdXB4">https://t.co/e0WHtHdXB4</a> via <a href="https://twitter.com/educationweek">@educationweek</a> <a href="https://twitter.com/hashtag/coding?src=hash">#coding</a></p>&mdash; Jeannie Finley (@Jeannie_Finley) <a href="https://twitter.com/Jeannie_Finley/status/778686500514897924">September 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「2016年秋からアメリカの20の州で、コンピューターサイエンスの授業を高校卒業に必要な数学の単位として数えることができるようになったそうです!」
