@@ -699,3 +699,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「(コンピューターサイエンス教育の学会に参加中)私の生徒もこのプログラミングの問題に苦労しています!」
+
+## X. Carolyn Petite先生 / オハイオ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/carolyn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+オハイオ州の公立高校でプログラミングを教えている。生徒に教えているプログラミング言語はJava, Swift, Xojo, Processingなど。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using Swift to write iPhone apps <a href="https://twitter.com/hashtag/cfevs?src=hash">#cfevs</a> <a href="https://t.co/cEFX5bOw9Q">pic.twitter.com/cEFX5bOw9Q</a></p>&mdash; Carolyn Petite (@PetiteCode) <a href="https://twitter.com/PetiteCode/status/769210232778219520">August 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒がSwift言語でiPhoneアプリを作っています!」
