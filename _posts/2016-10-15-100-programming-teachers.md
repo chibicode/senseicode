@@ -712,3 +712,16 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「生徒がSwift言語でiPhoneアプリを作っています!」
+
+## X. Katie Hendrickson先生 / バージニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/katie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+プログラミング教育の非営利団体最大手・[Code.org](https://code.org/)の広報・政策担当責任者。以前はオハイオ州の中学校で数学を教えていた。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My <a href="https://twitter.com/hashtag/CSinspiration?src=hash">#CSinspiration</a>: students programming a <a href="https://twitter.com/NaoRobot">@NaoRobot</a> dancing to Gangnam Style <a href="https://twitter.com/NSF">@nsf</a> <a href="https://twitter.com/hashtag/CSEdWeek?src=hash">#CSEdWeek</a> <a href="https://twitter.com/CSEdWeek">@CSEdWeek</a> <a href="http://t.co/ZWizyy4Awg">pic.twitter.com/ZWizyy4Awg</a></p>&mdash; Katie Hendrickson (@HendricksonKA) <a href="https://twitter.com/HendricksonKA/status/542323469170798592">December 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒がロボットをプログラミングして『江南スタイル』を踊らせています!」
