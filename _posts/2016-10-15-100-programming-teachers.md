@@ -725,3 +725,31 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 意訳:「生徒がロボットをプログラミングして『江南スタイル』を踊らせています!」
+
+## X. Kristen Fisher先生 / イリノイ州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/kristen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+シカゴの高校でコンピューターサイエンスを教えながら、テニス部のコーチもしている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who&#39;s says girls can&#39;t code? <a href="https://twitter.com/hashtag/arrays?src=hash">#arrays</a> <a href="https://twitter.com/hashtag/mobileapps?src=hash">#mobileapps</a> <a href="https://twitter.com/hashtag/214spiritEG?src=hash">#214spiritEG</a> <a href="http://t.co/cPPkT9kfe7">pic.twitter.com/cPPkT9kfe7</a></p>&mdash; Kristen Fisher (@KFisherCS) <a href="https://twitter.com/KFisherCS/status/563777193176993792">February 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「わたしの授業、女子生徒も頑張っていますよ!Aylaちゃんが書いたプログラミングパズルの答えです。」
+
+## X. Danielle Harlow先生(博士・教授) / カリフォルニア州
+
+<p style="text-align: center;">
+  <img src="/images/7/teachers/danielle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+</p>
+
+スタンフォード大学で物理学の修士号を取得し、その後タンザニアで高校生に物理学を教える。現在はカリフォルニア大学サンタ・バーバラ校の教授で、小・中学校のエンジニアリング・プログラミング教育の研究を行っている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A <a href="https://twitter.com/hashtag/making?src=hash">#making</a> session in our making and literacy program with middle schoolers <a href="https://twitter.com/hashtag/makered?src=hash">#makered</a> <a href="https://twitter.com/hashtag/makeymakey?src=hash">#makeymakey</a> <a href="https://twitter.com/hashtag/CSed?src=hash">#CSed</a> <a href="https://t.co/Ukri44kYr9">pic.twitter.com/Ukri44kYr9</a></p>&mdash; Danielle Harlow (@Dani805) <a href="https://twitter.com/Dani805/status/673237031120580608">December 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「中学生の子たちが電子工作をしているところ!」
+
+##
