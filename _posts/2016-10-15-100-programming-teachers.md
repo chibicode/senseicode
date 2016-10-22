@@ -202,7 +202,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ![](/images/7/edtechchat.gif)
 
-## 5. Adrienne Giffordさん / ワシントン州
+## 5. Adrienne Gifford先生 / ワシントン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/adrienne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
