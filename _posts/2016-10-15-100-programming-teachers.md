@@ -1000,11 +1000,17 @@ Mathematics Department Chairman, AP Computer Science Teacher, mother, wife, and 
 
 ## X. Kammas Murphy先生 / デラウェア州
 
+https://twitter.com/KammasMurphy
+chemistry and comp sci teacher. technology enthusiast. blue hen.
+
 <p style="text-align: center;">
   <img src="/images/7/teachers/kammas.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Learning <a href="https://twitter.com/scratch">@scratch</a> with camera at Parnter4CS day 2! Thanks <a href="https://twitter.com/LHETechnology">@LHETechnology</a>! <a href="https://t.co/PNFySTUl62">pic.twitter.com/PNFySTUl62</a></p>&mdash; Ms. Murphy (@KammasMurphy) <a href="https://twitter.com/KammasMurphy/status/745289228339286017">June 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「先輩の先生から[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)を教えてもらっているところです!」
 
 ## X. Susan Van Doren先生 / ネバダ州
 
@@ -1012,25 +1018,41 @@ Mathematics Department Chairman, AP Computer Science Teacher, mother, wife, and 
   <img src="/images/7/teachers/susan.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">7 girls took the APCS exam in Nevada last year. This year, I have 9 girls who will take it from my class alone. Boom. <a href="https://twitter.com/hashtag/change?src=hash">#change</a> <a href="https://twitter.com/hashtag/stemgems?src=hash">#stemgems</a></p>&mdash; Van Doren (@SVDiz) <a href="https://twitter.com/SVDiz/status/723006287177355264">April 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「一年前、特進生向けのプログラミングの授業『APCS』を受講した女子生徒は、ネバダ州全体で7人しかいませんでした。今年は、わたしが受け持った生徒だけで9人の女子生徒がAPCSを受講しています。変革とはこういうことです!」
 
 ## X. Kimberly Davis先生 / フロリダ州
+
+https://twitter.com/igktd AP CSP and French teacher, Speech and Debate coach, tech coach, Full Sail Labs facilitator, lover of technology for education! http://enrichmentthrutech.com
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kimberly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Time for some <a href="https://t.co/j1LQabsnEl">https://t.co/j1LQabsnEl</a> with my APCSP students <a href="https://twitter.com/hashtag/APCSPfirstweek?src=hash">#APCSPfirstweek</a> <a href="https://t.co/mavbl9CHlw">pic.twitter.com/mavbl9CHlw</a></p>&mdash; Kimberly (@igktd) <a href="https://twitter.com/igktd/status/766624705113620480">August 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「私のプログラミングの授業の生徒たちです!」
 
 ## X. Jessica Zuluaga先生 / ニューヨーク州
+
+https://twitter.com/yecca13/
+4th grade NYC teacher and edtech enthusiast! #edtech #cs4all #geniushour #digitalequity #cs4nyc #stem #steam  New York, USA
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jessica.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NYC Ss learn to code <a href="https://twitter.com/hashtag/summerinthecity?src=hash">#summerinthecity</a> <a href="https://twitter.com/hashtag/STEAM?src=hash">#STEAM</a> <a href="https://twitter.com/GoogleCSFirst">@GoogleCSFirst</a> <a href="https://twitter.com/hashtag/CS4nyc?src=hash">#CS4nyc</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/alanamaaron">@alanamaaron</a> <a href="https://twitter.com/hashtag/kidswhocode?src=hash">#kidswhocode</a> <a href="https://t.co/Q8uMva1sFd">pic.twitter.com/Q8uMva1sFd</a></p>&mdash; Jessica Zuluaga (@yecca13) <a href="https://twitter.com/yecca13/status/755405162102026241">July 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「ニューヨークの公立校の生徒たちが、Googleが作ったプログラミング教材で学んでいます!」
 
 ## X. Ann Boyles先生 / カリフォルニア州
+
+https://twitter.com/aiboyles High school computer science teacher. Loves: tall ships, Corelli, radio, stories. Also cheese.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/ann.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -1039,71 +1061,112 @@ Mathematics Department Chairman, AP Computer Science Teacher, mother, wife, and 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The code comments are the best part (&quot;# TEMPORARY, I HOPE I HOPE I HOPE&quot;). <a href="https://t.co/UwCjUeEx3V">https://t.co/UwCjUeEx3V</a></p>&mdash; Ann Boyles (@aiboyles) <a href="https://twitter.com/aiboyles/status/752560192793956352">July 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「」
+意訳:「人類を初めて月に運んだアポロ11号のコードが公開されたようですが、中には冷や汗もののコードもあったようです!」
 
 ## X. Kathryn Cossa先生 / バージニア州
+
+https://twitter.com/Cossa_Codes Computer Science Teacher. Mom. Wife. Redskins fan for life!
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kathryn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bell rang and students groaned and kept on coding. That&#39;s why I love <a href="https://twitter.com/hashtag/CS?src=hash">#CS</a>. <a href="https://twitter.com/hashtag/apcompsci?src=hash">#apcompsci</a> <a href="https://twitter.com/RiversideLCPS">@RiversideLCPS</a> <a href="https://t.co/Ok5NTCk5q7">pic.twitter.com/Ok5NTCk5q7</a></p>&mdash; Kathryn Cossa (@Cossa_Codes) <a href="https://twitter.com/Cossa_Codes/status/779385687460151296">September 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「チャイムが鳴ってもコードを書き続ける生徒たち。これこそが、プログラミングを教える理由です!」
 
 ## X. Susan Recoon先生 / ニューヨーク州
+
+https://twitter.com/srecoon/
+Mathematics and Computer Science teacher CSTA CSALT for NYS (And a sister, a daughter, wife, and mom to a wonderful family)
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/susan2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The one thing Republicans and Democrats agree on: every student should have a chance to learn to code. <a href="https://t.co/zotYnT1UgG">https://t.co/zotYnT1UgG</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a></p>&mdash; Susan Recoon (@srecoon) <a href="https://twitter.com/srecoon/status/693440957698723841">January 30, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「(アメリカ二大政党の)共和党・民主党の意見が一致する政策目標とは何でしょうか。それは、全ての生徒にプログラミングを教えるということです!」
 
 ## X. Lindsey Kay先生 / マサチューセッツ州
+
+https://twitter.com/MsKaysComputer Coding & Computer Science Teacher - Grades 7-12 ... Former Computer/Technology Teacher - Grades PreK-8
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lindsey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Grade 8 CS learning about the insides of a computer by tearing one apart! <a href="https://t.co/7k6Ai4Dw4m">pic.twitter.com/7k6Ai4Dw4m</a></p>&mdash; Miss Kay (@MsKaysComputer) <a href="https://twitter.com/MsKaysComputer/status/780783327779360768">September 27, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「中学生の子たちが、コンピューターを分解してどんなパーツから構成されているのかを調べているところです!」
 
 ## X. Amy Wright先生 / ニュージャージー州
+
+From software & systems engineer to student engineer...I now program teenage minds hoping to make a difference. #CompSci #EdTech #NJIT #CSForAll
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/amy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fastest <a href="https://twitter.com/hashtag/decimal?src=hash">#decimal</a> to <a href="https://twitter.com/hashtag/binary?src=hash">#binary</a> converter in town! <a href="https://twitter.com/hashtag/FlippyDo?src=hash">#FlippyDo</a> <a href="https://twitter.com/hashtag/APCSPFirstWeek?src=hash">#APCSPFirstWeek</a> <a href="https://twitter.com/hashtag/ahamoment?src=hash">#ahamoment</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/TeachCode">@TeachCode</a> <a href="https://twitter.com/codeorg">@codeorg</a> <a href="https://t.co/YjKYgIcyUB">pic.twitter.com/YjKYgIcyUB</a></p>&mdash; Amy Wright (@MrsWrightCS) <a href="https://twitter.com/MrsWrightCS/status/775890747966926849">September 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒たちが2進数についてゲームで学んでいます!」
 
 ## X. Lisa Saunders先生 / フロリダ州
+
+Upper School Computer Science Instructor @PineCrestSch, MIT Master Trainer in Mobile Educational Computing using #MITAppInventor
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proud of these new App Inventor Programmers! <a href="https://twitter.com/hashtag/leadlikethis?src=hash">#leadlikethis</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/MITAppInventor">@MITAppInventor</a> <a href="https://twitter.com/Brightgirlsco">@brightgirlsco</a> <a href="https://twitter.com/PineCrestSch">@PineCrestSch</a> <a href="https://t.co/Xq05IqyNpP">pic.twitter.com/Xq05IqyNpP</a></p>&mdash; Lisa Saunders (@lsaunde6) <a href="https://twitter.com/lsaunde6/status/777177544403587073">September 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「スマホアプリを作った女子高校生たちです!」
 
 ## X. Alana Robinson先生 / ニューヨーク州
+
+Special Education CS Teacher. #CS4ALLNYC, #CSforAll, #CS10K, #EdSurge, CS Equity and Access for All, Create Student Innovators not Consumers, Diversity in Tech
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alana2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Computer Science Teacher Pipeline: Preservice Report” by <a href="https://twitter.com/csnyc">@csnyc</a> <a href="https://t.co/rM7uGxk1sR">https://t.co/rM7uGxk1sR</a></p>&mdash; A. Robinson (@Robinsony811) <a href="https://twitter.com/Robinsony811/status/763488288636342272">August 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「ニューヨーク市の公立校でプログラミングを教える教員をいかに養成すべきかについて、調査結果が公開されたようです!」
 
 ## X. Audrey Wei先生 / カリフォルニア州
+
+I teach computer courses at Bishop Amat high school. Always aspire learning new things and eager to share with the students. :)
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/audrey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Via <a href="https://twitter.com/NPR">@NPR</a>: Should Computer Education Cover More Than Just Coding? <a href="https://t.co/TSfmT1VDix">https://t.co/TSfmT1VDix</a></p>&mdash; Audrey Wei (@audrey_awei) <a href="https://twitter.com/audrey_awei/status/699432137414447104">February 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「『プログラミング教育はコードを書くこと以外のことも教えるべきか?』という記事です!」
 
 ## X. Jillian Maher先生 / ケンタッキー州
+
+Computer Science Teacher | Cooper High School | Georgetown College Grad | UC Grad
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jillian.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Showing off <a href="https://twitter.com/MITAppInventor">@MITAppInventor</a> at <a href="https://twitter.com/nkymakerspace">@nkymakerspace</a> MakerExpo!! Come check it out! <a href="https://t.co/ZreOpaMz8G">pic.twitter.com/ZreOpaMz8G</a></p>&mdash; Mrs. Maher (@MahersClass) <a href="https://twitter.com/MahersClass/status/723877290321567744">April 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「私が教えているプログラミング授業について、地域のものづくり展示会で発表しました!」
 
 ## X. Adrianna Macaro先生 / ニュージャージー州
 
