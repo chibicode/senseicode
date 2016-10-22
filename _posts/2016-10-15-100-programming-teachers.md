@@ -1121,7 +1121,7 @@ From software & systems engineer to student engineer...I now program teenage min
 Upper School Computer Science Instructor @PineCrestSch, MIT Master Trainer in Mobile Educational Computing using #MITAppInventor
 
 <p style="text-align: center;">
-  <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
+  <img src="/images/7/teachers/lisa3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proud of these new App Inventor Programmers! <a href="https://twitter.com/hashtag/leadlikethis?src=hash">#leadlikethis</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/MITAppInventor">@MITAppInventor</a> <a href="https://twitter.com/Brightgirlsco">@brightgirlsco</a> <a href="https://twitter.com/PineCrestSch">@PineCrestSch</a> <a href="https://t.co/Xq05IqyNpP">pic.twitter.com/Xq05IqyNpP</a></p>&mdash; Lisa Saunders (@lsaunde6) <a href="https://twitter.com/lsaunde6/status/777177544403587073">September 17, 2016</a></blockquote>
@@ -1284,53 +1284,87 @@ HS computer teacher, mom, kayaker, FSU Mom, Furman graduate
 
 ## X. Jen Cefaly先生 / カリフォルニア州
 
+https://twitter.com/SJSSmartLab
+K-6 Director of Technology and coding advocate. Robotics coach, adventurer, photographer, daybreaker: teaching digital literacy since 2009
+
 <p style="text-align: center;">
   <img src="/images/7/teachers/jen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you use expose kids to coding with activities like <a href="https://twitter.com/codeorg">@codeorg</a>, you get to hear &quot;We did it!&quot; and &quot;I can help you!&quot; <a href="https://t.co/jlFyaIy4Is">pic.twitter.com/jlFyaIy4Is</a></p>&mdash; Jen Cefaly (@SJSSmartLab) <a href="https://twitter.com/SJSSmartLab/status/707320444680937472">March 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「『できた!』『それはこうやればいいんだよ!』 — プログラミングをしているときの、生徒の声です。」
 
 ## X. Marianne Finocchiaro先生 / マサチューセッツ州
+
+https://twitter.com/mfinocch
+K-5 Technology teacher. Computer Science education & Programming enthusiast. M.Ed EdTech. Certified Google Apps Administrator & Educator.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/marianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A1b - Thanks for the welcome! I have a BS in Comp Sci. I was a programmer before becoming a teacher.  <a href="https://twitter.com/hashtag/kidscancode?src=hash">#kidscancode</a></p>&mdash; Marianne Finocchiaro (@mfinocch) <a href="https://twitter.com/mfinocch/status/580527400955600896">March 25, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「(Twitterのハッシュタグチャットにて)学校でプログラミングを教えている先生方、こんにちは!私は大学でコンピューターサイエンスを専攻し、教師になる前はプログラマーとして働いていました!」
 
 ## X. Susan Dalgic先生 / テキサス州
+
+https://twitter.com/SdalgicSusan
+CS teacher, IT Manager,FLL,FTC,VEXIQ, Robotics Competitions,Mobile App Dev.,Web Design, APCS and APCS Principals,MIT Master Trainer-Educational Mobile Computing
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/susan4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">HSA-NA GWC club girls are learning to code after school on Thursdays and Fridays, 3-5pm! <a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a> <a href="https://twitter.com/STEMCONNECT">@STEMCONNECT</a> <a href="https://twitter.com/STEMSOS">@STEMSOS</a> <a href="https://twitter.com/HSA_NA">@HSA_NA</a> <a href="https://t.co/2g9kqzoO1h">pic.twitter.com/2g9kqzoO1h</a></p>&mdash; Susan Dalgic (@SdalgicSusan) <a href="https://twitter.com/SdalgicSusan/status/782262235959664640">October 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「放課後に学校でプログラミングを学んでいる女子たちです!」
 
 ## X. Rebecca Malones先生 / フロリダ州
 
 Instructional Specialists/Facilitators – Elementary
+https://twitter.com/RebeccaMalones
+Computer science for kids and environmental science ..
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/rebecca2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Elementary teachers coding! Today playing with fruits and Makey Makey <a href="https://twitter.com/makeymakey">@makeymakey</a> <a href="https://twitter.com/BrowardSTEM">@BrowardSTEM</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/_drrody">@_drrody</a> <a href="https://t.co/y8EUJtrxEB">pic.twitter.com/y8EUJtrxEB</a></p>&mdash; Rebecca Malones (@RebeccaMalones) <a href="https://twitter.com/RebeccaMalones/status/748200917330165760">June 29, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「小学校の先生向け、電子工作の研修です!」
 
 ## X. Julie Reynolds先生 / テキサス州
+
+https://twitter.com/JulieRcompsci
+High school computer science teacher in Aledo, Texas. UIL Comp Sci team coach and FTC robotics coach. Interested in Edtech and social media to enhance teaching.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/julie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aledo teams on opposite alliances at the State UIL Robotics meet. <a href="https://t.co/KRdTTKf8t2">pic.twitter.com/KRdTTKf8t2</a></p>&mdash; Julie Reynolds (@JulieRcompsci) <a href="https://twitter.com/JulieRcompsci/status/758765284303904768">July 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「ロボット大会に出場した生徒の写真です!」
 
 ## X. Carol Birnbaum先生 / カンザス州
+
+Computer programming teacher at Blue Valley West High School.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/carol.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Experimenting with programmable drones. <a href="https://twitter.com/hashtag/bvwhackclub?src=hash">#bvwhackclub</a> <a href="https://t.co/bhep2TbhUl">pic.twitter.com/bhep2TbhUl</a></p>&mdash; Carol Birnbaum (@bvwbirnbaum) <a href="https://twitter.com/bvwbirnbaum/status/771447984512864256">September 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒がプログラミングしたドローンで遊んでいる動画です!」
 
 ## X. Stephanie Younger先生 / ケンタッキー州
 
