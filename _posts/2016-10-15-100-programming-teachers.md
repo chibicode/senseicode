@@ -1240,6 +1240,9 @@ https://twitter.com/MrsSneath CS Teacher at at RHS. Web Design, Programming, APC
 
 ## X. Eva Anderson先生 / バージニア州
 
+Absolutely love teaching Computer Science to HS students.
+https://twitter.com/Missevadee69
+
 <p style="text-align: center;">
   <img src="/images/7/teachers/eva.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
@@ -1249,23 +1252,35 @@ TODO: Jamtech = build a game event
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bouncing crabs and giant gumba <a href="https://twitter.com/hashtag/JAMTECH?src=hash">#JAMTECH</a> <a href="https://t.co/VGqiz16ijM">pic.twitter.com/VGqiz16ijM</a></p>&mdash; Eva Anderson (@Missevadee69) <a href="https://twitter.com/Missevadee69/status/668131504128712704">November 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「」
+意訳:「生徒がゲームをプログラミングしているところです!」
 
 ## X. Debra Kelly Thomas先生 / フロリダ州
+
+https://twitter.com/miss_DKT
+Instructional Specialist interested in educating teachers and students in all things STEM. #browardcodes #csforall
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/debra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/csta16?src=hash">#csta16</a> <a href="https://twitter.com/hashtag/cryptologyworkshop?src=hash">#cryptologyworkshop</a> <a href="https://twitter.com/hashtag/huffmanencoding?src=hash">#huffmanencoding</a> <a href="https://twitter.com/hashtag/theeaglehaslanded?src=hash">#theeaglehaslanded</a> <a href="https://t.co/nkEvbkqHF3">pic.twitter.com/nkEvbkqHF3</a></p>&mdash; Debra Kelly Thomas (@miss_DKT) <a href="https://twitter.com/miss_DKT/status/752249921432981504">July 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「プログラミング教育の先生向けの研修で、ハフマン符号によるデータ圧縮について学んでいます!」
 
 ## X. Susan B Bardin先生 / フロリダ州
+
+https://twitter.com/bardins
+HS computer teacher, mom, kayaker, FSU Mom, Furman graduate
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/susan3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HourOfCode?src=hash">#HourOfCode</a> Middle School joins the movement of coding <a href="https://twitter.com/EpiscopalJax">@EpiscopalJax</a> <a href="https://t.co/TAUtZsjjev">pic.twitter.com/TAUtZsjjev</a></p>&mdash; Susan B Bardin (@bardins) <a href="https://twitter.com/bardins/status/675006374338629632">December 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「中学生の女の子たちがタブレットでプログラミングを学んでいるところです!」
 
 ## X. Jen Cefaly先生 / カリフォルニア州
 
