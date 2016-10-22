@@ -1374,55 +1374,89 @@ Computer programming teacher at Blue Valley West High School.
 
 ## X. Stephanie Younger先生 / ケンタッキー州
 
+https://twitter.com/sasied22/
+NCCE-Professional Learning Specialist, MIE Expert, Belfry High School- Mathematics and Computer Science Teacher, Appalachian Technology Institute-CS Fellow
+
 <p style="text-align: center;">
   <img src="/images/7/teachers/stephanie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting our code on w/CCGA in Lafayette, LA! <a href="https://twitter.com/hashtag/NCCEchat?src=hash">#NCCEchat</a> <a href="https://twitter.com/hashtag/MIEExpert?src=hash">#MIEExpert</a> <a href="https://twitter.com/hashtag/ccga?src=hash">#ccga</a> <a href="https://twitter.com/MsLibrarianLady">@MsLibrarianLady</a> <a href="https://t.co/pqPLMpTko6">pic.twitter.com/pqPLMpTko6</a></p>&mdash; Stephanie Younger (@sasied22) <a href="https://twitter.com/sasied22/status/755119302764744704">July 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「先生向けのプログラミング研修の様子です!」
 
 ## X. Katie Miller先生 / カリフォルニア州
+
+Your favorite math teacher
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/katie4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Binary Bracelets in AP CSP <a href="https://twitter.com/rhsrodsquad">@rhsrodsquad</a> <a href="https://twitter.com/hashtag/rhsapcsp?src=hash">#rhsapcsp</a> <a href="https://twitter.com/hashtag/fsusd?src=hash">#fsusd</a> <a href="https://twitter.com/hashtag/unplugged?src=hash">#unplugged</a> <a href="https://twitter.com/hashtag/rhsmustangs?src=hash">#rhsmustangs</a> <a href="https://t.co/assLhausyD">https://t.co/assLhausyD</a> <a href="https://t.co/gUCw9yqrwy">pic.twitter.com/gUCw9yqrwy</a></p>&mdash; Katie Miller (@KillaKilts) <a href="https://twitter.com/KillaKilts/status/786318204427702272">October 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「高校生が2進数をモチーフにしたブレスレットを作りました!」
 
 ## X. Gerri Lynne Ryan先生 / テキサス州
 
 TODO: https://www.linkedin.com/in/gerri-lynne-ryan-29568975
+Computer Science Teacher North Crowley HS
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/gerri.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Role models for female students...<a href="https://t.co/dIVps1bKcY">https://t.co/dIVps1bKcY</a></p>&mdash; Ms. GLRyan (@MsGLRyan) <a href="https://twitter.com/MsGLRyan/status/758704601549905920">July 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「女性誌『ELLE』がテクノロジー業界で活躍する女性の特集を組みました。プログラミングを勉強する女子生徒のロールモデルたちです!」
 
 ## X. Laurie Edwards先生 / メリーランド州
+
+I am an Engineering and Computer Science teacher at Thomas Stone. In my free time, I play roller derby for the 301 Derby Dames and Team Maryland.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/laurie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Were learning why addresses are important by playing Battleship! <a href="https://twitter.com/CougarsTSHS">@CougarsTSHS</a> <a href="https://twitter.com/codeorg">@codeorg</a> <a href="https://twitter.com/hashtag/keytoCTE?src=hash">#keytoCTE</a> <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://t.co/JaSbu2BggA">pic.twitter.com/JaSbu2BggA</a></p>&mdash; L Edwards (@Mrs_Edwards25) <a href="https://twitter.com/Mrs_Edwards25/status/778269210778697728">September 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「インターネットを支えるIPアドレスの技術について高校生たちがゲーム感覚で学んでいます!」
 
 ## X. Charity Smith先生 / コロラド州
+
+Teacher of mathematics and programming at Colorado Academy. Philomath, gamer, organizer, and lover of puzzles, education research, and school supplies.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/charity.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://t.co/Jz6ePsfWQR">https://t.co/Jz6ePsfWQR</a><br>Fierce! I wonder if one of these girls is into CS...Perfect role models for our girls! <a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> <a href="https://twitter.com/hashtag/LikeAGirl?src=hash">#LikeAGirl</a></p>&mdash; Charity Smith (@CSmithCAMath) <a href="https://twitter.com/CSmithCAMath/status/753279048759992320">July 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「オリンピック女子体操のアメリカ代表。この中で一人でもコンピューターサイエンスが好きな方がいれば、私の生徒たちにとってより素晴らしいロールモデルとなることでしょう!」
 
 ## X. Kelly McNeil先生 / フロリダ州
+
+https://twitter.com/kellycsteacher
+Mom. Wife. Teacher of Computer Science, Tech and Design. Avid gamer and all around geek.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kelly2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">welcomed my <a href="https://twitter.com/hashtag/csprinciples?src=hash">#csprinciples</a> students to first day of class, excited about the semester <a href="https://twitter.com/hashtag/csforall?src=hash">#csforall</a> <a href="https://t.co/5Rs7bQ7HjI">https://t.co/5Rs7bQ7HjI</a></p>&mdash; Kelly McNeil (@kellycsteacher) <a href="https://twitter.com/kellycsteacher/status/763922789346652164">August 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「新学年の始まり。新しい生徒たちにコンピューターサイエンスを教えるのが楽しみです!」
 
 ## X. Michelle Cernuto先生 / カリフォルニア州
+
+Computer Science Project Director, SFUSD || equity and social justice for all
+https://twitter.com/MichelleCernuto
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/michelle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -1433,9 +1467,11 @@ TODL https://www.linkedin.com/in/mcnuto
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome morning with high school kids and <a href="https://twitter.com/zyngaorg">@zyngaorg</a>, <a href="https://twitter.com/SFUnified">@SFUnified</a> - learning game design and coding. <a href="https://t.co/4gonF2uDnJ">pic.twitter.com/4gonF2uDnJ</a></p>&mdash; Michelle Cernuto (@MichelleCernuto) <a href="https://twitter.com/MichelleCernuto/status/707695066102374400">March 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「」
+意訳:「ゲーム会社・Zyngaの方が高校生たちにゲームデザインとプログラミングを教えて下さっています!」
 
 ## X. Rebecca Nguyen先生 / ルイジアナ州
+
+Teacher :: Calculus, Geometry, Pre-Calc, Computer Science https://twitter.com/rnguyenmath
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/rebecca3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -1444,4 +1480,4 @@ TODL https://www.linkedin.com/in/mcnuto
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Students at MSA East begin to program using <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> programming language <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a> <a href="https://twitter.com/UTeachCS">@UTeachCS</a> <a href="https://t.co/8Ew7NXCpuC">pic.twitter.com/8Ew7NXCpuC</a></p>&mdash; Rebecca Nguyen (@rnguyenmath) <a href="https://twitter.com/rnguyenmath/status/781263246913175553">September 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「」
+意訳:「高校生が[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)を勉強しているところです!」
