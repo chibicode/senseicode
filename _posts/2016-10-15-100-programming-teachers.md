@@ -147,7 +147,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 その一環として、米国でプログラミングを教えている教員のリストを作成したのですが、リストの一部を公開することは日本のプログラミング教育業界にもメリットがあると考え、当記事を書いた所存です。もともとは男女両方のリストを公開するつもりでしたが、前述した理由から、リストを女性教員のみに絞りました。
 
-## X. Claire Shorall先生 / カリフォルニア州
+## 1. Claire Shorall先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/claire.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -159,7 +159,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです!」(訳註:Khaliaさんはアップル社のデザイナー兼プログラマーで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
 
-## X. Dawn DuPriest先生 / コロラド州
+## 2. Dawn DuPriest先生 / コロラド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/dawn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -171,7 +171,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 
 意訳:「子どもたちがUnity(3Dコンテンツ制作用のプログラミング環境)でVRのゲームを作りながら、互いに教えあっています!」
 
-## X. Nettrice Gaskins先生(博士) / マサチューセッツ州
+## 3. Nettrice Gaskins先生(博士) / マサチューセッツ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/nettrice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -184,7 +184,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 Nettrice先生のコンピューターサイエンスの授業の様子。電子工作・音楽プログラミングの学習の一環として、高校生の子たちが、導電性があるペンで描いた絵を触って音楽のゲームをプレイしている。
 
 
-## X. Vicky Sedgwick先生 / カリフォルニア州
+## 4. Vicky Sedgwick先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/vicky.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -202,7 +202,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 ![](/images/7/edtechchat.gif)
 
-## X. Adrienne Giffordさん / ワシントン州
+## 5. Adrienne Giffordさん / ワシントン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/adrienne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -214,7 +214,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「夏休みの特別授業で生徒がHTML言語や、Legoやマインクラフトでプログラミングを学んでいます!」
 
-## X. Abigail Joseph先生(博士) / カリフォルニア州
+## 6. Abigail Joseph先生(博士) / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/abigail.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -226,7 +226,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「高校生にスマホアプリのプログラミングを教えているところ。初日です!」
 
-## X. Melissa Moritz先生 / 首都・ワシントンDC
+## 7. Melissa Moritz先生 / 首都・ワシントンDC
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/melissa2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -238,7 +238,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「2016年に、学校の先生向けのプログラミング研修(学区公認)がアメリカ全土で2707回も行われました!」
 
-## X. Sheena Vaidyanathan先生 / カリフォルニア州
+## 8. Sheena Vaidyanathan先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/sheena.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -250,7 +250,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)で何かを作っています!」(訳註:アメリカの多くで小学校は5年間なので、6年生は中学一年生。)
 
-## X. Laura Blankenship先生 / ペンシルベニア州
+## 9. Laura Blankenship先生 / ペンシルベニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/laura.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -262,7 +262,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「ウェブデザインの授業にて。左の二人がクライエントを演じています!」
 
-## X. Jeanne Reed先生 / カリフォルニア州
+## 10. Jeanne Reed先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jeanne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -276,7 +276,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
-## X. Shanice White先生(博士) / メリーランド州
+## 11. Shanice White先生(博士) / メリーランド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/shanice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -288,7 +288,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「コンピューターを家に忘れても、スマホがあればプログラミングを勉強できますよ!」
 
-## X. Amanda Haughs先生 / カリフォルニア州
+## 12. Amanda Haughs先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/amanda.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -300,7 +300,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「3年生の子たちがラズベリーパイ(小型コンピューター)で信号機のプログラミングをしています!」
 
-## X. Andrea Wilson Vazquez先生 / ミネソタ州
+## 13. Andrea Wilson Vazquez先生 / ミネソタ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/andrea.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -312,7 +312,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「(ミネソタ州のプログラミング教育カンファレンスにて)[Brass](https://twitter.com/brasst)先生がコーディングと3Dプリンターについて講演しています!」
 
-## X. Sharon Thompson先生 / ニューヨーク州・カリフォルニア州
+## 14. Sharon Thompson先生 / ニューヨーク州・カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/sharon.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -324,7 +324,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 
 意訳:「生徒が像やバットマンのロボットをプログラミングしています!」(利用しているのは[Birdbrain](http://www.birdbraintechnologies.com/)というロボットプログラミングキット)
 
-## X. Angie Kalthoff先生 / ミネソタ州
+## 15. Angie Kalthoff先生 / ミネソタ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/angie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -336,7 +336,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育の先生向けの研修で、先生方がペアプログラミングで学んでいます!」
 
-## X. Alana Aaron先生 / ニューヨーク州
+## 16. Alana Aaron先生 / ニューヨーク州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alana.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -348,7 +348,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「生徒が前に出てコードを書き、他の生徒が彼のコードについて指摘をしています!」
 
-## X. Kari Milton先生 / カリフォルニア州
+## 17. Kari Milton先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kari.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -360,7 +360,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「アブダビ(アラブ首長国連邦)での教育カンファレンスにて、テクノロジー教育とグローバル文化教育について講演しました!」
 
-## X. Lisa Bejarano先生 / コロラド州
+## 18. Lisa Bejarano先生 / コロラド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -372,7 +372,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「CodeHs(高校生向けのプログラミング教材)を利用しているのですが、プロジェクターで画面を映す際に、コードの部分をもう少し大きく表示できないでしょうか?」
 
-## X. Smita Kolhatkar先生 / カリフォルニア州
+## 19. Smita Kolhatkar先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/smita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -384,7 +384,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「1年生の子たちがSwift言語を勉強しています!」(訳註:Apple社が開発した子供向けのプログラミング教材「[Swift Playground](http://www.apple.com/swift/playgrounds/)」を利用しているようです)
 
-## X. Patti Harju先生 / ミシガン州
+## 20. Patti Harju先生 / ミシガン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/patti.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -396,7 +396,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「4年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)でレースゲームを作っています!」
 
-## X. Alison Anderson先生 / オレゴン州
+## 21. Alison Anderson先生 / オレゴン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alison.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -408,7 +408,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「中学生の子たちが[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)を作ってネズミ捕りを作っています!」
 
-## X. Jennifer Gwilt先生 / ミシガン州
+## 22. Jennifer Gwilt先生 / ミシガン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jennifer.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -420,7 +420,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「子供たちがゲーム感覚でプログラミングを学んでいます!」
 
-## X. Leticia Batista先生 / カリフォルニア州
+## 23. Leticia Batista先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/leticia.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -432,7 +432,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「子どもたちが[Scratch Junior](https://www.scratchjr.org/)(5-7歳児向けのプログラミング教材)で物語を通じてプログラミングを学んでいます!」
 
-## X. Keledy Kenkel先生 / ニューヨーク州
+## 24. Keledy Kenkel先生 / ニューヨーク州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/keledy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -444,7 +444,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「ニューヨーク州・ニュージャージー州・コネチカット州の先生方。みなCode.orgの研修プログラムを無事終え、小学生にプログラミングを教える準備万端です!」
 
-## X. Jacqueline Leiker先生 / ミシガン州
+## 25. Jacqueline Leiker先生 / ミシガン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jacqueline.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -456,7 +456,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「スティーブ・ジョブズの言葉。わたしの学校では生徒『全員』にプログラミングを教えていることを誇りに思います!」
 
-## X. Kim Garcia先生 / テキサス州
+## 26. Kim Garcia先生 / テキサス州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kim.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -468,7 +468,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「テキサス州の学校でコンピューターサイエンスを学ぶ生徒の数が1年で約7000人増えました!」
 
-## X. Tracy Rudzitis先生 / ニューヨーク州
+## 27. Tracy Rudzitis先生 / ニューヨーク州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/tracy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -480,7 +480,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「The Computer Schoolの生徒は[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)がだいすきです!」
 
-## X. Ingrid Gustafson先生 / マサチューセッツ州
+## 28. Ingrid Gustafson先生 / マサチューセッツ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/ingrid.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -492,7 +492,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)と[Arduino](https://www.arduino.cc/)(電子工作用の基盤)を試しているところです!」
 
-## X. Rebecca Dovi先生 / バージニア州
+## 29. Rebecca Dovi先生 / バージニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/rebecca.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -504,7 +504,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「生徒がJava言語とC++言語の違いについて、特に引数の渡し方について勉強しています!」
 
-## X. Eileen Lennon先生 / ニューヨーク州
+## 30. Eileen Lennon先生 / ニューヨーク州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/eileen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -516,7 +516,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育について先生向けの講演を行いました。スライドもアップしています!」
 
-## X. Sarah Judd先生 / マサチューセッツ州
+## 31. Sarah Judd先生 / マサチューセッツ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/sarah.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -528,7 +528,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「映画『ジョーズ』のテーマを、音楽プログラミングで表現してみました!」
 
-## X. Annette Lang先生 / オハイオ州
+## 32. Annette Lang先生 / オハイオ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/annette.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -540,7 +540,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「生徒が互いに紙に書いたHTML言語のコードについて議論しています!」
 
-## X. Theresa McCoy先生 / ミネソタ州
+## 33. Theresa McCoy先生 / ミネソタ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/theresa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -552,7 +552,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「中学1年生の子たちがFinchロボット(プログラミング学習用に売られている鳥型ロボット)をプログラミングしています!」
 
-## X. Melissa Adkins先生 / ミシシッピ州
+## 34. Melissa Adkins先生 / ミシシッピ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/melissa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -566,7 +566,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
-## X. Heidi Kattula先生(博士) / ミシガン州
+## 35. Heidi Kattula先生(博士) / ミシガン州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/heidi.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -578,7 +578,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミング教育のカンファレンスで[Codesters](https://www.codesters.com/)という小学生~高校生向けプログラミング教材のプレゼンテーションを聞いています!」
 
-## X. Amber Kraver先生 / カリフォルニア州
+## 36. Amber Kraver先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/amber.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -590,7 +590,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「5年生の子たちと2進数を学んでいるところです!」
 
-## X. Anne Clark先生 / インディアナ州
+## 37. Anne Clark先生 / インディアナ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/anne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -602,7 +602,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「プログラミングの授業と他の授業の違いは、生徒が互いに教え合うことがとても多いこと、そしてデジタル教材の種類がとても多いことです。教育のイノベーションに最も近いと思います!」
 
-## X. Myra Deister先生 / カリフォルニア州
+## 38. Myra Deister先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/myra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -614,7 +614,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「特進生向けのプログラミングの授業で生徒がブロックを積むプログラムを考えています!」
 
-## X. Alexandra Vlachakis先生 / フロリダ州
+## 39. Alexandra Vlachakis先生 / フロリダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alexandra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -626,7 +626,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「高校生たちが幼稚園児たちにプログラミングを教えている風景!」
 
-## X. Gayle Horsma先生 / カリフォルニア州
+## 40. Gayle Horsma先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/gayle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -638,7 +638,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「幼稚園児がタブレット用プログラミング学習アプリ『[Kodable](http://kodable.com/)』でプログラミングを学んでいます!」
 
-## X. Partice Gans先生 / コネチカット州
+## 41. Partice Gans先生 / コネチカット州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/patrice.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -650,7 +650,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「女の子たちがこれから作るスマホアプリの画面をデザインしています!」
 
-## X. Alexis Cobo先生 / フロリダ州
+## 42. Alexis Cobo先生 / フロリダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/alexis.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -662,7 +662,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「中学生の子たちがロボットをプログラミングして統計と確率を勉強しています!」
 
-## X. Christal Thompson先生 / テキサス州
+## 43. Christal Thompson先生 / テキサス州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/christal.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -674,7 +674,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「"Code"はプログラミング職におけるジェンダーギャップを描いているドキュメンタリー映画で、女子にプログラミングに興味を持ってもらおうという試みです!」
 
-## X. Ria Galanos先生 / バージニア州
+## 44. Ria Galanos先生 / バージニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/ria.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -686,7 +686,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「(コンピューターサイエンス教育の学会に参加中)私の生徒もこのプログラミングの問題に苦労しています!」
 
-## X. Carolyn Petite先生 / オハイオ州
+## 45. Carolyn Petite先生 / オハイオ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/carolyn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -698,7 +698,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「生徒がSwift言語でiPhoneアプリを作っています!」
 
-## X. Katie Hendrickson先生 / バージニア州
+## 46. Katie Hendrickson先生 / バージニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/katie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -710,7 +710,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「生徒がロボットをプログラミングして『江南スタイル』を踊らせています!」
 
-## X. Kristen Fisher先生 / イリノイ州
+## 47. Kristen Fisher先生 / イリノイ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kristen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -722,7 +722,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「わたしの授業、女子生徒も頑張っていますよ!Aylaちゃんが書いたプログラミングパズルの答えです!」
 
-## X. Danielle Harlow先生(博士・教授) / カリフォルニア州
+## 48. Danielle Harlow先生(博士・教授) / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/danielle.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -734,7 +734,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「中学生の子たちが電子工作をしているところです!」
 
-## X. Jeannie Finley先生 / カリフォルニア州
+## 49. Jeannie Finley先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jeannie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -746,7 +746,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「2016年秋からアメリカの20の州で、コンピューターサイエンスの授業を高校卒業に必要な数学の単位として数えることができるようになったそうです!」
 
-## X. Nita Waterman先生 / テキサス州
+## 50. Nita Waterman先生 / テキサス州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/nita.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -758,7 +758,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 意訳:「[シーザー暗号文](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E6%9A%97%E5%8F%B7)を生徒がプログラミングで解読しようとしています!」
 
-## X. Kaitie O'Bryan先生 / ミネソタ州
+## 51. Kaitie O'Bryan先生 / ミネソタ州
 
 https://twitter.com/Kaitie_Obryan/
 Math/Comp Sci teacher. Adventure seeker. Ambitiously curious. Trying to change the world by promoting collaborative problem solving. KSTF Fellow.
@@ -771,7 +771,7 @@ Math/Comp Sci teacher. Adventure seeker. Ambitiously curious. Trying to change t
 
 意訳:「コンピューターサイエンスの最初の授業。生徒が数字を記号で暗号化しています!」
 
-## X. Kristy Manuel先生 / カリフォルニア州
+## 52. Kristy Manuel先生 / カリフォルニア州
 
 Tech teacher/support/coach for K-4 Elem School using MacBooks, Chromebooks, & iPads, Coding & GAFE enthusiast, MinecraftEdu newbie, #MERIT13 grad, wife, mom
 
@@ -783,7 +783,7 @@ Tech teacher/support/coach for K-4 Elem School using MacBooks, Chromebooks, & iP
 
 意訳:「Wonder WorkshopのDashロボがかわいすぎる!4年生でもロボットをプログラミングできます!」
 
-## X. Louise McMinn先生 / コネチカット州
+## 53. Louise McMinn先生 / コネチカット州
 
 https://twitter.com/CTSciTeach
 
@@ -797,7 +797,7 @@ https://twitter.com/CTSciTeach
 
 意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)でゲームを作っています!」
 
-## X. Katie O'Shaughnessey先生 / コネチカット州
+## 54. Katie O'Shaughnessey先生 / コネチカット州
 
 https://twitter.com/KTOCompSci
 
@@ -811,7 +811,7 @@ Katie teaches computer science and math at Hopkins School in New Haven, CT. This
 
 意訳:「Browning Schoolで行われたプログラミング大会!私の生徒たちもとても楽しんでいました!」
 
-## X. Meg Ray先生 / ニューヨーク州
+## 55. Meg Ray先生 / ニューヨーク州
 
 https://twitter.com/teach_python
 Instructional Designer/Curriculum Developer, Special Education Adjunct Faculty, CS for All advocate
@@ -824,7 +824,7 @@ Instructional Designer/Curriculum Developer, Special Education Adjunct Faculty, 
 
 意訳:「教員向けのプログラミングの研修で、先生方が生徒のコードを効率的にデバッグする方法について学んでいるところです!」
 
-## X. Lisa Harrison Piane先生 / イリノイ州
+## 56. Lisa Harrison Piane先生 / イリノイ州
 
 https://twitter.com/lisa_piane
 computer science teacher & tech. integration specialist for grades N-2. amateur photographer. lover of nature, coffee & chocolate.
@@ -837,7 +837,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「小学校2~4年生向けのプログラミング教材を探してます。レッスン教材、課題、カリキュラムなどご存知の方いらっしゃいませんか?また、小・中学生向けのプログラミング教育のブログでおすすめのサイトがあれば教えてください!」
 
-## X. Melanie Mac先生 / イリノイ州
+## 57. Melanie Mac先生 / イリノイ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/melanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -849,7 +849,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「私の高校のキャリア教育を充実させるべく、教育活動資金パーティーを行います!ニューヨークのテクノロジー教育関係者が多く集まる会なので、ぜひご参加を!」
 
-## X. Laurel Pollard先生 / ニューハンプシャー州
+## 58. Laurel Pollard先生 / ニューハンプシャー州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/laurel.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -861,7 +861,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「マサチューセッツ工科大学で[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)のカンファレンスが行われるので参加してきます!参加に向けて、ブログ記事を書きました。」
 
-## X. Tammy Pirmann先生 / ペンシルベニア州
+## 59. Tammy Pirmann先生 / ペンシルベニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/tammy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -873,7 +873,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「今年幼稚園に入るアメリカの子どもたち全員が、13年後に高校を卒業するまでに、コンピューターサイエンスの知識を身につけられるように我々は努力するべきです!」
 
-## X. Lindsay Krisher先生 / メリーランド州
+## 60. Lindsay Krisher先生 / メリーランド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lindsay.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -885,7 +885,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「幼稚園児から小2までの子がロボットプログラミングを学んでいます!」
 
-## X. Annie Kelly先生 / ペンシルベニア州
+## 61. Annie Kelly先生 / ペンシルベニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/annie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -897,7 +897,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「高校生向けのスマホアプリプログラミング教育の研修を一緒に受けた先生たちです!」
 
-## X. Brandy Wales先生 / イリノイ州
+## 62. Brandy Wales先生 / イリノイ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/brandy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -907,7 +907,7 @@ computer science teacher & tech. integration specialist for grades N-2. amateur 
 
 意訳:「子どもたちがペアを組んでプログラミングしています!」
 
-## X. Kelly Powers先生 / ニューヨーク州
+## 63. Kelly Powers先生 / ニューヨーク州
 
 https://twitter.com/kelpowers5 South Bronx Early College Academy, Director of CS Teacher Leadership & Technology Initiatives, 423 East 138th Street, Bronx, NY
 
@@ -919,7 +919,7 @@ https://twitter.com/kelpowers5 South Bronx Early College Academy, Director of CS
 
 意訳:「教師向けのプログラミング教育のカンファレンスにて。条件分岐について学んでいます!」
 
-## X. Joanna Doyle先生 / イリノイ州
+## 64. Joanna Doyle先生 / イリノイ州
 
 https://twitter.com/joannafdoyle teacher, special eduction, education technology, ipads, STEM, coding for kids, innovation
 
@@ -933,7 +933,7 @@ https://twitter.com/joannafdoyle teacher, special eduction, education technology
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
-## X. Kim Burton先生 / メリーランド州
+## 65. Kim Burton先生 / メリーランド州
 
 Mathematics Department Chairman, AP Computer Science Teacher, mother, wife, and I-Lab Makerspace Innovation Leader https://twitter.com/kburtonr
 
@@ -945,7 +945,7 @@ Mathematics Department Chairman, AP Computer Science Teacher, mother, wife, and 
 
 意訳:「今日は生徒がポスターにコードを書きながらプログラミングを学んでいます。共同作業です!」
 
-## X. Kammas Murphy先生 / デラウェア州
+## 66. Kammas Murphy先生 / デラウェア州
 
 https://twitter.com/KammasMurphy
 chemistry and comp sci teacher. technology enthusiast. blue hen.
@@ -958,7 +958,7 @@ chemistry and comp sci teacher. technology enthusiast. blue hen.
 
 意訳:「先輩の先生から[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)を教えてもらっているところです!」
 
-## X. Susan Van Doren先生 / ネバダ州
+## 67. Susan Van Doren先生 / ネバダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/susan.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
@@ -968,7 +968,7 @@ chemistry and comp sci teacher. technology enthusiast. blue hen.
 
 意訳:「一年前、特進生向けのプログラミングの授業『APCS』を受講した女子生徒は、ネバダ州全体で7人しかいませんでした。今年は、わたしが受け持った生徒だけで9人の女子生徒がAPCSを受講しています。変革とはこういうことです!」
 
-## X. Kimberly Davis先生 / フロリダ州
+## 68. Kimberly Davis先生 / フロリダ州
 
 https://twitter.com/igktd AP CSP and French teacher, Speech and Debate coach, tech coach, Full Sail Labs facilitator, lover of technology for education! http://enrichmentthrutech.com
 
@@ -980,7 +980,7 @@ https://twitter.com/igktd AP CSP and French teacher, Speech and Debate coach, te
 
 意訳:「私のプログラミングの授業の生徒たちです!」
 
-## X. Jessica Zuluaga先生 / ニューヨーク州
+## 69. Jessica Zuluaga先生 / ニューヨーク州
 
 https://twitter.com/yecca13/
 4th grade NYC teacher and edtech enthusiast! #edtech #cs4all #geniushour #digitalequity #cs4nyc #stem #steam  New York, USA
@@ -993,7 +993,7 @@ https://twitter.com/yecca13/
 
 意訳:「ニューヨークの公立校の生徒たちが、Googleが作ったプログラミング教材で学んでいます!」
 
-## X. Ann Boyles先生 / カリフォルニア州
+## 70. Ann Boyles先生 / カリフォルニア州
 
 https://twitter.com/aiboyles High school computer science teacher. Loves: tall ships, Corelli, radio, stories. Also cheese.
 
@@ -1005,7 +1005,7 @@ https://twitter.com/aiboyles High school computer science teacher. Loves: tall s
 
 意訳:「人類を初めて月に運んだアポロ11号のコードが公開されたようですが、中には冷や汗もののコードもあったようです!」
 
-## X. Kathryn Cossa先生 / バージニア州
+## 71. Kathryn Cossa先生 / バージニア州
 
 https://twitter.com/Cossa_Codes Computer Science Teacher. Mom. Wife. Redskins fan for life!
 
@@ -1017,7 +1017,7 @@ https://twitter.com/Cossa_Codes Computer Science Teacher. Mom. Wife. Redskins fa
 
 意訳:「チャイムが鳴ってもコードを書き続ける生徒たち。これこそが、プログラミングを教える理由です!」
 
-## X. Susan Recoon先生 / ニューヨーク州
+## 72. Susan Recoon先生 / ニューヨーク州
 
 https://twitter.com/srecoon/
 Mathematics and Computer Science teacher CSTA CSALT for NYS (And a sister, a daughter, wife, and mom to a wonderful family)
@@ -1030,7 +1030,7 @@ Mathematics and Computer Science teacher CSTA CSALT for NYS (And a sister, a dau
 
 意訳:「(アメリカ二大政党の)共和党・民主党の意見が一致する政策目標とは何でしょうか。それは、全ての生徒にプログラミングを教えるということです!」
 
-## X. Lindsey Kay先生 / マサチューセッツ州
+## 73. Lindsey Kay先生 / マサチューセッツ州
 
 https://twitter.com/MsKaysComputer Coding & Computer Science Teacher - Grades 7-12 ... Former Computer/Technology Teacher - Grades PreK-8
 
@@ -1042,7 +1042,7 @@ https://twitter.com/MsKaysComputer Coding & Computer Science Teacher - Grades 7-
 
 意訳:「中学生の子たちが、コンピューターを分解してどんなパーツから構成されているのかを調べているところです!」
 
-## X. Amy Wright先生 / ニュージャージー州
+## 74. Amy Wright先生 / ニュージャージー州
 
 From software & systems engineer to student engineer...I now program teenage minds hoping to make a difference. #CompSci #EdTech #NJIT #CSForAll
 
@@ -1054,7 +1054,7 @@ From software & systems engineer to student engineer...I now program teenage min
 
 意訳:「生徒たちが2進数についてゲームで学んでいます!」
 
-## X. Lisa Saunders先生 / フロリダ州
+## 75. Lisa Saunders先生 / フロリダ州
 
 Upper School Computer Science Instructor @PineCrestSch, MIT Master Trainer in Mobile Educational Computing using #MITAppInventor
 
@@ -1066,7 +1066,7 @@ Upper School Computer Science Instructor @PineCrestSch, MIT Master Trainer in Mo
 
 意訳:「スマホアプリを作った女子高校生たちです!」
 
-## X. Alana Robinson先生 / ニューヨーク州
+## 76. Alana Robinson先生 / ニューヨーク州
 
 Special Education CS Teacher. #CS4ALLNYC, #CSforAll, #CS10K, #EdSurge, CS Equity and Access for All, Create Student Innovators not Consumers, Diversity in Tech
 
@@ -1078,7 +1078,7 @@ Special Education CS Teacher. #CS4ALLNYC, #CSforAll, #CS10K, #EdSurge, CS Equity
 
 意訳:「ニューヨーク市の公立校でプログラミングを教える教員をいかに養成すべきかについて、調査結果が公開されたようです!」
 
-## X. Audrey Wei先生 / カリフォルニア州
+## 77. Audrey Wei先生 / カリフォルニア州
 
 I teach computer courses at Bishop Amat high school. Always aspire learning new things and eager to share with the students. :)
 
@@ -1090,7 +1090,7 @@ I teach computer courses at Bishop Amat high school. Always aspire learning new 
 
 意訳:「『プログラミング教育はコードを書くこと以外のことも教えるべきか?』という記事です!」
 
-## X. Jillian Maher先生 / ケンタッキー州
+## 78. Jillian Maher先生 / ケンタッキー州
 
 Computer Science Teacher | Cooper High School | Georgetown College Grad | UC Grad
 
@@ -1102,7 +1102,7 @@ Computer Science Teacher | Cooper High School | Georgetown College Grad | UC Gra
 
 意訳:「私が教えているプログラミング授業について、地域のものづくり展示会で発表しました!」
 
-## X. Adrianna Macaro先生 / ニュージャージー州
+## 79. Adrianna Macaro先生 / ニュージャージー州
 
 High School Math Teacher
 
@@ -1114,7 +1114,7 @@ High School Math Teacher
 
 意訳:「特進生向けのプログラミングの授業で、今日は生徒が鳥型ロボットのプログラミングをしています!」
 
-## X. Dianne O'Grady-Cunniff先生 / メリーランド州
+## 80. Dianne O'Grady-Cunniff先生 / メリーランド州
 
 https://twitter.com/dianneOC/
 Currently supporting teachers who teach Computer Science and Engineering.
@@ -1128,7 +1128,7 @@ TODO: https://www.linkedin.com/in/dianne-o-grady-cunniff-683b784
 
 意訳:「生徒がメリーランド州知事のHogan氏にプログラミングを教えているところです!」
 
-## X. Trina Cunningham先生 / テキサス州
+## 81. Trina Cunningham先生 / テキサス州
 
 https://twitter.com/Mrs_TCunningham
 Computer Science and Technology Applications teacher at Rowlett High School in Rowlett, Texas.
@@ -1142,7 +1142,7 @@ TODO: https://www.linkedin.com/in/trina-cunningham-a2696294
 
 意訳:「私のプログラミングの授業の生徒たちが使っているBB-8(スター・ウォーズ フォースの覚醒より)のロボット、充電中です!」
 
-## X. Pam Whitlock先生 / ジョージア州
+## 82. Pam Whitlock先生 / ジョージア州
 
 https://twitter.com/PamWhitlock1/
 Computer Science teacher at Chattahoochee High School --AP Computer Science A and AP CS Principles
@@ -1155,7 +1155,7 @@ Computer Science teacher at Chattahoochee High School --AP Computer Science A an
 
 意訳:「生徒がペアを組んでプログラミングしているところです!」
 
-## X. Stephanie Sneath先生 / イリノイ州
+## 83. Stephanie Sneath先生 / イリノイ州
 
 https://twitter.com/MrsSneath CS Teacher at at RHS. Web Design, Programming, APCSP and TAP
 
@@ -1167,7 +1167,7 @@ https://twitter.com/MrsSneath CS Teacher at at RHS. Web Design, Programming, APC
 
 意訳:「今日はみなRaspberry Pi(超小型コンピューター)のプログラミングにトライしています!」
 
-## X. Eva Anderson先生 / バージニア州
+## 84. Eva Anderson先生 / バージニア州
 
 Absolutely love teaching Computer Science to HS students.
 https://twitter.com/Missevadee69
@@ -1182,7 +1182,7 @@ TODO: Jamtech = build a game event
 
 意訳:「生徒がゲームをプログラミングしているところです!」
 
-## X. Debra Kelly Thomas先生 / フロリダ州
+## 85. Debra Kelly Thomas先生 / フロリダ州
 
 https://twitter.com/miss_DKT
 Instructional Specialist interested in educating teachers and students in all things STEM. #browardcodes #csforall
@@ -1195,7 +1195,7 @@ Instructional Specialist interested in educating teachers and students in all th
 
 意訳:「プログラミング教育の先生向けの研修で、ハフマン符号によるデータ圧縮について学んでいます!」
 
-## X. Susan B Bardin先生 / フロリダ州
+## 86. Susan B Bardin先生 / フロリダ州
 
 https://twitter.com/bardins
 HS computer teacher, mom, kayaker, FSU Mom, Furman graduate
@@ -1208,7 +1208,7 @@ HS computer teacher, mom, kayaker, FSU Mom, Furman graduate
 
 意訳:「中学生の女の子たちがタブレットでプログラミングを学んでいるところです!」
 
-## X. Jen Cefaly先生 / カリフォルニア州
+## 87. Jen Cefaly先生 / カリフォルニア州
 
 https://twitter.com/SJSSmartLab
 K-6 Director of Technology and coding advocate. Robotics coach, adventurer, photographer, daybreaker: teaching digital literacy since 2009
@@ -1221,7 +1221,7 @@ K-6 Director of Technology and coding advocate. Robotics coach, adventurer, phot
 
 意訳:「『できた!』『それはこうやればいいんだよ!』 — プログラミングをしているときの、生徒の声です。」
 
-## X. Marianne Finocchiaro先生 / マサチューセッツ州
+## 88. Marianne Finocchiaro先生 / マサチューセッツ州
 
 https://twitter.com/mfinocch
 K-5 Technology teacher. Computer Science education & Programming enthusiast. M.Ed EdTech. Certified Google Apps Administrator & Educator.
@@ -1234,7 +1234,7 @@ K-5 Technology teacher. Computer Science education & Programming enthusiast. M.E
 
 意訳:「(Twitterのハッシュタグチャットにて)学校でプログラミングを教えている先生方、こんにちは!私は大学でコンピューターサイエンスを専攻し、教師になる前はプログラマーとして働いていました!」
 
-## X. Susan Dalgic先生 / テキサス州
+## 89. Susan Dalgic先生 / テキサス州
 
 https://twitter.com/SdalgicSusan
 CS teacher, IT Manager,FLL,FTC,VEXIQ, Robotics Competitions,Mobile App Dev.,Web Design, APCS and APCS Principals,MIT Master Trainer-Educational Mobile Computing
@@ -1247,7 +1247,7 @@ CS teacher, IT Manager,FLL,FTC,VEXIQ, Robotics Competitions,Mobile App Dev.,Web 
 
 意訳:「放課後に学校でプログラミングを学んでいる女子たちです!」
 
-## X. Rebecca Malones先生 / フロリダ州
+## 90. Rebecca Malones先生 / フロリダ州
 
 Instructional Specialists/Facilitators – Elementary
 https://twitter.com/RebeccaMalones
@@ -1261,7 +1261,7 @@ Computer science for kids and environmental science ..
 
 意訳:「小学校の先生向け、電子工作の研修です!」
 
-## X. Julie Reynolds先生 / テキサス州
+## 91. Julie Reynolds先生 / テキサス州
 
 https://twitter.com/JulieRcompsci
 High school computer science teacher in Aledo, Texas. UIL Comp Sci team coach and FTC robotics coach. Interested in Edtech and social media to enhance teaching.
@@ -1274,7 +1274,7 @@ High school computer science teacher in Aledo, Texas. UIL Comp Sci team coach an
 
 意訳:「ロボット大会に出場した生徒の写真です!」
 
-## X. Carol Birnbaum先生 / カンザス州
+## 92. Carol Birnbaum先生 / カンザス州
 
 Computer programming teacher at Blue Valley West High School.
 
@@ -1286,7 +1286,7 @@ Computer programming teacher at Blue Valley West High School.
 
 意訳:「生徒がプログラミングしたドローンで遊んでいる動画です!」
 
-## X. Stephanie Younger先生 / ケンタッキー州
+## 93. Stephanie Younger先生 / ケンタッキー州
 
 https://twitter.com/sasied22/
 NCCE-Professional Learning Specialist, MIE Expert, Belfry High School- Mathematics and Computer Science Teacher, Appalachian Technology Institute-CS Fellow
@@ -1299,7 +1299,7 @@ NCCE-Professional Learning Specialist, MIE Expert, Belfry High School- Mathemati
 
 意訳:「先生向けのプログラミング研修の様子です!」
 
-## X. Katie Miller先生 / カリフォルニア州
+## 94. Katie Miller先生 / カリフォルニア州
 
 Your favorite math teacher
 
@@ -1311,7 +1311,7 @@ Your favorite math teacher
 
 意訳:「高校生が2進数をモチーフにしたブレスレットを作りました!」
 
-## X. Gerri Lynne Ryan先生 / テキサス州
+## 95. Gerri Lynne Ryan先生 / テキサス州
 
 TODO: https://www.linkedin.com/in/gerri-lynne-ryan-29568975
 Computer Science Teacher North Crowley HS
@@ -1324,7 +1324,7 @@ Computer Science Teacher North Crowley HS
 
 意訳:「女性誌『ELLE』がテクノロジー業界で活躍する女性の特集を組みました。プログラミングを勉強する女子生徒のロールモデルたちです!」
 
-## X. Laurie Edwards先生 / メリーランド州
+## 96. Laurie Edwards先生 / メリーランド州
 
 I am an Engineering and Computer Science teacher at Thomas Stone. In my free time, I play roller derby for the 301 Derby Dames and Team Maryland.
 
@@ -1336,7 +1336,7 @@ I am an Engineering and Computer Science teacher at Thomas Stone. In my free tim
 
 意訳:「インターネットを支えるIPアドレスの技術について高校生たちがゲーム感覚で学んでいます!」
 
-## X. Charity Smith先生 / コロラド州
+## 97. Charity Smith先生 / コロラド州
 
 Teacher of mathematics and programming at Colorado Academy. Philomath, gamer, organizer, and lover of puzzles, education research, and school supplies.
 
@@ -1348,7 +1348,7 @@ Teacher of mathematics and programming at Colorado Academy. Philomath, gamer, or
 
 意訳:「オリンピック女子体操のアメリカ代表。この中で一人でもコンピューターサイエンスが好きな方がいれば、私の生徒たちにとってより素晴らしいロールモデルとなることでしょう!」
 
-## X. Kelly McNeil先生 / フロリダ州
+## 98. Kelly McNeil先生 / フロリダ州
 
 https://twitter.com/kellycsteacher
 Mom. Wife. Teacher of Computer Science, Tech and Design. Avid gamer and all around geek.
@@ -1361,7 +1361,7 @@ Mom. Wife. Teacher of Computer Science, Tech and Design. Avid gamer and all arou
 
 意訳:「新学年の始まり。新しい生徒たちにコンピューターサイエンスを教えるのが楽しみです!」
 
-## X. Michelle Cernuto先生 / カリフォルニア州
+## 99. Michelle Cernuto先生 / カリフォルニア州
 
 Computer Science Project Director, SFUSD || equity and social justice for all
 https://twitter.com/MichelleCernuto
@@ -1376,7 +1376,7 @@ TODL https://www.linkedin.com/in/mcnuto
 
 意訳:「ゲーム会社・Zyngaの方が高校生たちにゲームデザインとプログラミングを教えて下さっています!」
 
-## X. Rebecca Nguyen先生 / ルイジアナ州
+## 100. Rebecca Nguyen先生 / ルイジアナ州
 
 Teacher :: Calculus, Geometry, Pre-Calc, Computer Science https://twitter.com/rnguyenmath
 
