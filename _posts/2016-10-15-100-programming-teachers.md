@@ -1170,6 +1170,8 @@ Computer Science Teacher | Cooper High School | Georgetown College Grad | UC Gra
 
 ## X. Adrianna Macaro先生 / ニュージャージー州
 
+High School Math Teacher
+
 <p style="text-align: center;">
   <img src="/images/7/teachers/adrianna.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
@@ -1177,43 +1179,64 @@ Computer Science Teacher | Cooper High School | Georgetown College Grad | UC Gra
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">AP CSP class programming the Finch Robots today! Thanks <a href="https://twitter.com/HSNMediaCenter">@HSNMediaCenter</a>!  <a href="https://twitter.com/hashtag/MTPSpride?src=hash">#MTPSpride</a> <a href="https://t.co/ctW3GUpIpK">pic.twitter.com/ctW3GUpIpK</a></p>&mdash; Adrianna Macaro (@MsMacaro) <a href="https://twitter.com/MsMacaro/status/781553944975794177">September 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「」
+意訳:「特進生向けのプログラミングの授業で、今日は生徒が鳥型ロボットのプログラミングをしています!」
 
 ## X. Dianne O'Grady-Cunniff先生 / メリーランド州
 
+https://twitter.com/dianneOC/
+Currently supporting teachers who teach Computer Science and Engineering.
 TODO: https://www.linkedin.com/in/dianne-o-grady-cunniff-683b784
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/dianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Charles County students teach Governor Hogan how to create his first lines of code <a href="https://t.co/yMJt68jjWc">pic.twitter.com/yMJt68jjWc</a></p>&mdash; Dianne OC (@dianneOC) <a href="https://twitter.com/dianneOC/status/754073921914179585">July 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒がメリーランド州知事のHogan氏にプログラミングを教えているところです!」
 
 ## X. Trina Cunningham先生 / テキサス州
 
+https://twitter.com/Mrs_TCunningham
+Computer Science and Technology Applications teacher at Rowlett High School in Rowlett, Texas.
 TODO: https://www.linkedin.com/in/trina-cunningham-a2696294
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/trina.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Charging our new &quot;toys&quot;. My CS students are in geek heaven. Thanks <a href="https://twitter.com/Jasna_A">@Jasna_A</a> <a href="https://t.co/6IQ1UC90qO">pic.twitter.com/6IQ1UC90qO</a></p>&mdash; Mrs. Cunningham (@Mrs_TCunningham) <a href="https://twitter.com/Mrs_TCunningham/status/724988512819269632">April 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「私のプログラミングの授業の生徒たちが使っているBB-8(スター・ウォーズ フォースの覚醒より)のロボット、充電中です!」
 
 ## X. Pam Whitlock先生 / ジョージア州
+
+https://twitter.com/PamWhitlock1/
+Computer Science teacher at Chattahoochee High School --AP Computer Science A and AP CS Principles
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/pam.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pair programming in <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a>. What a great way to start coding!  <a href="https://twitter.com/CSPBJC">@CSPBJC</a> <a href="https://twitter.com/HoochHappenings">@HoochHappenings</a> <a href="https://t.co/4OX0OLRAET">pic.twitter.com/4OX0OLRAET</a></p>&mdash; Pam Whitlock (@PamWhitlock1) <a href="https://twitter.com/PamWhitlock1/status/767740962437206016">August 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「生徒がペアを組んでプログラミングしているところです!」
 
 ## X. Stephanie Sneath先生 / イリノイ州
+
+https://twitter.com/MrsSneath CS Teacher at at RHS. Web Design, Programming, APCSP and TAP
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/stephanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-意訳:「」
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Starting using the  raspberry pi <a href="https://twitter.com/hashtag/WhatWillTheyLearnNext?src=hash">#WhatWillTheyLearnNext</a> <a href="https://twitter.com/hashtag/rhsrebelpride?src=hash">#rhsrebelpride</a> <a href="https://t.co/uwKCAduOYR">pic.twitter.com/uwKCAduOYR</a></p>&mdash; Stephanie Sneath (@MrsSneath) <a href="https://twitter.com/MrsSneath/status/778960744515719168">September 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「今日はみなRaspberry Pi(超小型コンピューター)のプログラミングにトライしています!」
 
 ## X. Eva Anderson先生 / バージニア州
 
