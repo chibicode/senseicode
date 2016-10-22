@@ -146,7 +146,7 @@ Life is Tech!では現在、[Mozer](https://mozer.io/)というオンライン�
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are 2x more girls than boys (14 to 7) in <a href="https://twitter.com/CastlemontHigh">@CastlemontHigh</a>&#39;s AP CSP class. That&#39;s why visits from women like <a href="https://twitter.com/KhaliaBraswell">@KhaliaBraswell</a> matters. <a href="https://t.co/YmURwuGJiv">pic.twitter.com/YmURwuGJiv</a></p>&mdash; Claire Shorall (@cklshorall) <a href="https://twitter.com/cklshorall/status/778282284872892416">September 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです。」(訳註:Khaliaさんはアップル社のデザイナー兼プログラマーで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
+意訳:「Castlemont高校の特進コンピューターサイエンスの授業は、男子7人に対し倍近い女子14人が履修しています。だから、Khalia Braswellさんのような女性がゲスト講師として来てくださるのが大事なのです!」(訳註:Khaliaさんはアップル社のデザイナー兼プログラマーで、黒人女子向けのプログラミングキャンプ「INTechCamp」の設立者でもある。)
 
 ## X. Dawn DuPriest先生 / コロラド州
 
@@ -257,7 +257,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/baldwinschool">@baldwinschool</a> Web Design students in a client meeting. Alexa &#39;17 and Lauren &#39;18 on the left are the clients. Ashley &#39;17 is the designer. <a href="https://t.co/NoTq3GOOoN">pic.twitter.com/NoTq3GOOoN</a></p>&mdash; Laura Blankenship (@lblanken) <a href="https://twitter.com/lblanken/status/783350995979866112">October 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「ウェブデザインの授業にて。左の二人がクライエントを演じています。」
+意訳:「ウェブデザインの授業にて。左の二人がクライエントを演じています!」
 
 ## X. Jeanne Reed先生 / カリフォルニア州
 
@@ -270,7 +270,7 @@ Nettrice先生のコンピューターサイエンスの授業の様子。電子
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HourOfCode?src=hash">#HourOfCode</a> in <a href="https://twitter.com/hashtag/MBUSD?src=hash">#MBUSD</a> was epic! Elementary, middle &amp; high school spectacular students shined so bright! <a href="https://t.co/wRmkeIU7O8">pic.twitter.com/wRmkeIU7O8</a></p>&mdash; Jeanne Reed (@jeannereed1) <a href="https://twitter.com/jeannereed1/status/675468862393991169">December 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「うちの学区で行ったHour of Code、大盛況でした!小学生、中学生、高校生みんなが楽しんでいました。」
+意訳:「うちの学区で行ったHour of Code、大盛況でした!小学生、中学生、高校生みんなが楽しんでいました!」
 
 (訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
 
@@ -467,7 +467,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/leikerclass?src=hash">#leikerclass</a> <a href="https://twitter.com/hashtag/CS4All?src=hash">#CS4All</a> So proud that <a href="https://twitter.com/hashtag/NVKnights?src=hash">#NVKnights</a> teaches ALL students how to <a href="https://twitter.com/hashtag/Code?src=hash">#Code</a>. <a href="https://twitter.com/hashtag/HourofCode?src=hash">#HourofCode</a> <a href="https://twitter.com/hashtag/KnightPride?src=hash">#KnightPride</a>. <a href="http://t.co/OMWiWq2bp2">pic.twitter.com/OMWiWq2bp2</a></p>&mdash; Jacqueline Leiker (@jleiker06) <a href="https://twitter.com/jleiker06/status/633306192123686912">August 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「スティーブ・ジョブズの言葉。わたしの学校では生徒『全員』にプログラミングを教えていることを誇りに思います。」
+意訳:「スティーブ・ジョブズの言葉。わたしの学校では生徒『全員』にプログラミングを教えていることを誇りに思います!」
 
 ## X. Kim Garcia先生 / テキサス州
 
@@ -506,7 +506,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/littleBits">@littleBits</a> and <a href="https://twitter.com/arduino">@arduino</a> exploration with our young ScratchEd participants this morning <a href="https://t.co/BAUN0YPoCx">pic.twitter.com/BAUN0YPoCx</a></p>&mdash; Ingrid Gustafson (@ingridtech) <a href="https://twitter.com/ingridtech/status/685854387344916480">January 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)と[Arduino](https://www.arduino.cc/)(電子工作用の基盤)を試しているところです。」
+意訳:「[LittleBits](http://littlebits.cc/)(子ども向けの電子工作キット)と[Arduino](https://www.arduino.cc/)(電子工作用の基盤)を試しているところです!」
 
 ## X. Rebecca Dovi先生 / バージニア州
 
@@ -532,7 +532,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ve uploaded the materials I presented today at <a href="https://twitter.com/hashtag/edcampli?src=hash">#edcampli</a> You&#39;re welcome. <a href="https://t.co/1CxdNbNzzt">pic.twitter.com/1CxdNbNzzt</a></p>&mdash; Eileen Lennon (@eileen_lennon) <a href="https://twitter.com/eileen_lennon/status/782350648121692160">October 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「プログラミング教育について先生向けの講演を行いました。スライドもアップしています。」
+意訳:「プログラミング教育について先生向けの講演を行いました。スライドもアップしています!」
 
 ## X. Sarah Judd先生 / マサチューセッツ州
 
@@ -625,7 +625,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A1: When I teach coding,there are so many Ss teaching each other,so many choices Ss have in product, closest I come to innovation.  <a href="https://twitter.com/hashtag/6thchat?src=hash">#6thchat</a></p>&mdash; Anne Clark (@AnneClark7) <a href="https://twitter.com/AnneClark7/status/780937856214769664">September 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「プログラミングの授業と他の授業の違いは、生徒が互いに教え合うことがとても多いこと、そしてデジタル教材の種類がとても多いことです。教育のイノベーションに最も近いと思います。」
+意訳:「プログラミングの授業と他の授業の違いは、生徒が互いに教え合うことがとても多いこと、そしてデジタル教材の種類がとても多いことです。教育のイノベーションに最も近いと思います!」
 
 ## X. Myra Deister先生 / カリフォルニア州
 
@@ -703,7 +703,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/educationweek">@educationweek</a> &quot;Code&quot; documentary looks at getting girls interested in computer science:<a href="http://t.co/dDJgAEIDoA">http://t.co/dDJgAEIDoA</a> <a href="http://t.co/ugTDpB0C5N">pic.twitter.com/ugTDpB0C5N</a> <a href="https://twitter.com/hashtag/stem?src=hash">#stem</a></p>&mdash; Christal Thompson (@christal_t) <a href="https://twitter.com/christal_t/status/613319079512817664">June 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「"Code"はプログラミング職におけるジェンダーギャップを描いているドキュメンタリー映画で、女子にプログラミングに興味を持ってもらおうという試みです。」
+意訳:「"Code"はプログラミング職におけるジェンダーギャップを描いているドキュメンタリー映画で、女子にプログラミングに興味を持ってもらおうという試みです!」
 
 ## X. Ria Galanos先生 / バージニア州
 
@@ -755,7 +755,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who&#39;s says girls can&#39;t code? <a href="https://twitter.com/hashtag/arrays?src=hash">#arrays</a> <a href="https://twitter.com/hashtag/mobileapps?src=hash">#mobileapps</a> <a href="https://twitter.com/hashtag/214spiritEG?src=hash">#214spiritEG</a> <a href="http://t.co/cPPkT9kfe7">pic.twitter.com/cPPkT9kfe7</a></p>&mdash; Kristen Fisher (@KFisherCS) <a href="https://twitter.com/KFisherCS/status/563777193176993792">February 6, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-意訳:「わたしの授業、女子生徒も頑張っていますよ!Aylaちゃんが書いたプログラミングパズルの答えです。」
+意訳:「わたしの授業、女子生徒も頑張っていますよ!Aylaちゃんが書いたプログラミングパズルの答えです!」
 
 ## X. Danielle Harlow先生(博士・教授) / カリフォルニア州
 
@@ -798,39 +798,88 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## X. Kaitie O'Bryan先生 / ミネソタ州
 
+https://twitter.com/Kaitie_Obryan/
+Math/Comp Sci teacher. Adventure seeker. Ambitiously curious. Trying to change the world by promoting collaborative problem solving. KSTF Fellow.
+
 <p style="text-align: center;">
   <img src="/images/7/teachers/katie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">D6: one of my favorite lessons in <a href="https://twitter.com/hashtag/APCSPFirstWeek?src=hash">#APCSPFirstWeek</a> invent your own number system <a href="https://twitter.com/hashtag/teach180?src=hash">#teach180</a> <a href="https://t.co/eCm4ADfSe1">pic.twitter.com/eCm4ADfSe1</a></p>&mdash; Kaitie O&#39;Bryan (@Kaitie_Obryan) <a href="https://twitter.com/Kaitie_Obryan/status/775805011636817920">September 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「コンピューターサイエンスの最初の授業。生徒が数字を記号で暗号化しています!」
+
 ## X. Kristy Manuel先生 / カリフォルニア州
+
+Tech teacher/support/coach for K-4 Elem School using MacBooks, Chromebooks, & iPads, Coding & GAFE enthusiast, MinecraftEdu newbie, #MERIT13 grad, wife, mom
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kristy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">OMG! Can&#39;t get much cuter than <a href="https://twitter.com/WonderWorkshop">@WonderWorkshop</a> Dash! Fun way to code w/ 4th graders! <a href="https://twitter.com/hashtag/kidscancode?src=hash">#kidscancode</a> <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/caedchat?src=hash">#caedchat</a> <a href="https://t.co/pBWI9P4ScG">pic.twitter.com/pBWI9P4ScG</a></p>&mdash; Kristy Manuel (@KristyManuel) <a href="https://twitter.com/KristyManuel/status/735975725610602496">May 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「Wonder WorkshopのDashロボがかわいすぎる!4年生でもロボットをプログラミングできます!」
+
 ## X. Louise McMinn先生 / コネチカット州
+
+https://twitter.com/CTSciTeach
+
+6th gr computer tech teacher passionate about STEM education and citizen science - 2016 #GrosvenorTeacherFellow @NatGeoEducation @LindbladExp
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/louise.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/hourofcode?src=hash">#hourofcode</a> <a href="https://twitter.com/scofieldmagnet">@scofieldmagnet</a> Sixth graders use Scratch to make study games <a href="https://twitter.com/hashtag/spspride?src=hash">#spspride</a> <a href="https://t.co/x6g1hCSxTw">pic.twitter.com/x6g1hCSxTw</a></p>&mdash; Louise McMinn (@CTSciTeach) <a href="https://twitter.com/CTSciTeach/status/674960957295206400">December 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「6年生の子たちが[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)でゲームを作っています!」
+
 ## X. Katie O'Shaughnessey先生 / コネチカット州
+
+https://twitter.com/KTOCompSci
+
+Katie teaches computer science and math at Hopkins School in New Haven, CT. This year she is part of Microsoft and Harvard's AP #CS50 pilot for high schools.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/katie3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/cs50nyc?src=hash">#cs50nyc</a> Thanks, <a href="https://twitter.com/ed_saber">@ed_saber</a> and <a href="https://twitter.com/hashtag/browningschool?src=hash">#browningschool</a> for a great <a href="https://twitter.com/hashtag/cs50ap?src=hash">#cs50ap</a> Hackathon yesterday! My students had a blast! <a href="https://t.co/HnDnj15h7N">pic.twitter.com/HnDnj15h7N</a></p>&mdash; Katie O&#39;Shaughnessey (@KTOCompSci) <a href="https://twitter.com/KTOCompSci/status/696367278410096640">February 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「Browning Schoolで行われたプログラミング大会!私の生徒たちもとても楽しんでいました!」
+
 ## X. Meg Ray先生 / ニューヨーク州
+
+https://twitter.com/teach_python
+Instructional Designer/Curriculum Developer, Special Education Adjunct Faculty, CS for All advocate
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/meg.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CSforAll?src=hash">#CSforAll</a> practicing debugging strategies for the classroom with <a href="https://twitter.com/icodeinschool">@icodeinschool</a> <a href="https://twitter.com/hashtag/NYCSTEM?src=hash">#NYCSTEM</a> <a href="https://t.co/RZaZZLBLLg">pic.twitter.com/RZaZZLBLLg</a></p>&mdash; Meg Ray (@teach_python) <a href="https://twitter.com/teach_python/status/725352472756256768">April 27, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「教員向けのプログラミングの研修で、先生方が生徒のコードを効率的にデバッグする方法について学んでいるところです!」
+
 ## X. Lisa Harrison Piane先生 / イリノイ州
+
+https://twitter.com/lisa_piane
+computer science teacher & tech. integration specialist for grades N-2. amateur photographer. lover of nature, coffee & chocolate.
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lisa2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Looking for lessons, projects, curriculum scope &amp; sequence examples &amp; ideas for CS 2nd-4th grades. Also, any great CSK8 blogs? <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/csed?src=hash">#csed</a></p>&mdash; Lisa Harrison Piane (@lisa_piane) <a href="https://twitter.com/lisa_piane/status/680799984850108416">December 26, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「小学校2~4年生向けのプログラミング教材を探してます。レッスン教材、課題、カリキュラムなどご存知の方いらっしゃいませんか?また、小・中学生向けのプログラミング教育のブログでおすすめのサイトがあれば教えてください!」
 
 ## X. Melanie Mac先生 / イリノイ州
 
@@ -838,7 +887,12 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/melanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-ニューヨークの貧困地区で10年以上教員を務めている。もともとは国語(英語)とフランス語の先生だったが、現在は貧困層の学生にプログラミング教育を行う公立高校の副校長をしている。
+ニューヨークの貧困地区で10年以上教員を務めている。もともとは国語(英語)とフランス語の先生だったが、現在は貧困層の学生にプログラミング教育を行う公立高校・の副校長に就任。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Free the first Wed. in Feb.? It&#39;s AFSE&#39;s 1st fundraiser. Mingle with best of NYC&#39;s tech and ed communities. Come! <a href="https://t.co/ByLOBnqyL3">pic.twitter.com/ByLOBnqyL3</a></p>&mdash; Melanie Mac (@msmelaniemac) <a href="https://twitter.com/msmelaniemac/status/688456890209177601">January 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「私の高校のキャリア教育を充実させるべく、教育活動資金パーティーを行います!ニューヨークのテクノロジー教育関係者が多く集まる会なので、ぜひご参加を!」
 
 ## X. Laurel Pollard先生 / ニューハンプシャー州
 
@@ -848,6 +902,11 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ニューハンプシャーの公立小学校にてコンピューターの先生兼プログラミング部の顧問をしている。
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ScratchMIT2016?src=hash">#ScratchMIT2016</a> starts tonight.  Super excited. <a href="https://twitter.com/ericrosenbizzle">@ericrosenbizzle</a> My thoughts on my <a href="https://twitter.com/hashtag/beetleblocks?src=hash">#beetleblocks</a> exploration <a href="https://t.co/6iAlE89QAW">https://t.co/6iAlE89QAW</a></p>&mdash; Laurel Pollard (@MrsPollardprime) <a href="https://twitter.com/MrsPollardprime/status/760880222325604352">August 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「マサチューセッツ工科大学で[Scratch](https://scratch.mit.edu/)(子ども向けのプログラミング言語)のカンファレンスが行われるので参加してきます!参加に向けて、ブログ記事を書きました。」
+
 ## X. Tammy Pirmann先生 / ペンシルベニア州
 
 <p style="text-align: center;">
@@ -856,13 +915,23 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ペンシルベニアの公立高校で10年以上プログラミングの授業を教えている。授業ではJava、HTML、CSS、JavaScript、PHP、mySQL、Python、RobotC、Unity、App Inventorなどの言語や開発環境を利用。現在はテンプル大学で非常勤講師もしている。
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Every US kindergarden student starting school in fall this year should be computer science proficient by the time they graduate in 13 years.</p>&mdash; Tammy Pirmann (@TammyPirmann) <a href="https://twitter.com/TammyPirmann/status/753010903025459200">July 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「今年幼稚園に入るアメリカの子どもたち全員が、13年後に高校を卒業するまでに、コンピューターサイエンスの知識を身につけられるように我々は努力するべきです!」
+
 ## X. Lindsay Krisher先生 / メリーランド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lindsay.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-メリーランド州の高校で特進生向けのプログラミング、情報セキュリティーの授業の教師。
+メリーランド州の高校で特進生向けのプログラミング、情報セキュリティーの授業の教師。低学年向けのプログラミング授業も行っている。
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">K-2nd graders took on basic coding with <a href="https://twitter.com/hashtag/ozobot?src=hash">#ozobot</a> today. We brought it all together in a giant team built maze. <a href="https://twitter.com/hashtag/makered?src=hash">#makered</a> <a href="https://twitter.com/hashtag/makerspace?src=hash">#makerspace</a> <a href="https://twitter.com/hashtag/teched?src=hash">#teched</a> <a href="https://t.co/l64zBmdmaI">pic.twitter.com/l64zBmdmaI</a></p>&mdash; teachlovecode (@teachlovecode) <a href="https://twitter.com/teachlovecode/status/781656571419951105">September 30, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「幼稚園児から小2までの子がロボットプログラミングを学んでいます!」
 
 ## X. Annie Kelly先生 / ペンシルベニア州
 
@@ -872,29 +941,62 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 シカゴの高校で国語(英語)を2年間教えたのち、2015年からペンシルベニア州に引っ越し高校のコンピューターサイエンスの先生に転身。
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So proud of my PA cohort, and especially my CREATE #2 group! <a href="https://twitter.com/hashtag/MobileCSP2016PD?src=hash">#MobileCSP2016PD</a> <a href="https://twitter.com/hashtag/CSForAll?src=hash">#CSForAll</a> <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a> <a href="https://t.co/mGFLWryWDk">pic.twitter.com/mGFLWryWDk</a></p>&mdash; Ms. Kelly (@TheMsKelly) <a href="https://twitter.com/TheMsKelly/status/755833158218702848">July 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「高校生向けのスマホアプリプログラミング教育の研修を一緒に受けた先生たちです!」
+
 ## X. Brandy Wales先生 / イリノイ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/brandy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Programming partners! <a href="https://twitter.com/hashtag/csk8?src=hash">#csk8</a> <a href="https://twitter.com/hashtag/computerscience?src=hash">#computerscience</a> <a href="https://t.co/74iaVKj6VB">pic.twitter.com/74iaVKj6VB</a></p>&mdash; Mrs. Brandy Wales (@MrsWalesTales) <a href="https://twitter.com/MrsWalesTales/status/789126468408320004">October 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「子どもたちがペアを組んでプログラミングしています!」
+
 ## X. Kelly Powers先生 / ニューヨーク州
+
+https://twitter.com/kelpowers5 South Bronx Early College Academy, Director of CS Teacher Leadership & Technology Initiatives, 423 East 138th Street, Bronx, NY
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kelly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Extending the Design Recipe with conditionals Huh, go <a href="https://twitter.com/Bootstrapworld">@Bootstrapworld</a> .loving day 4 <a href="https://twitter.com/hashtag/CSPdWeek?src=hash">#CSPdWeek</a> <a href="https://twitter.com/hashtag/cs4all?src=hash">#cs4all</a> <a href="https://twitter.com/hashtag/WhyITeach?src=hash">#WhyITeach</a> <a href="https://t.co/qSjVM7X6Wk">pic.twitter.com/qSjVM7X6Wk</a></p>&mdash; Kelly Powers (@kelpowers5) <a href="https://twitter.com/kelpowers5/status/756156212010291201">July 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「教師向けのプログラミング教育のカンファレンスにて。条件分岐について学んでいます!」
+
 ## X. Joanna Doyle先生 / イリノイ州
+
+https://twitter.com/joannafdoyle teacher, special eduction, education technology, ipads, STEM, coding for kids, innovation
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/joanna.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m participating in this year&#39;s <a href="https://twitter.com/hashtag/HourOfCode?src=hash">#HourOfCode</a>, are you? <a href="https://twitter.com/codeorg">@codeorg</a> <a href="https://t.co/fpyYnMrdLe">https://t.co/fpyYnMrdLe</a></p>&mdash; Joanna Doyle (@joannafdoyle) <a href="https://twitter.com/joannafdoyle/status/775457390867075072">September 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「今年もHour of Codeに参加します!みなさんも参加しませんか?」
+
+(訳註:Hour of Codeは小学生から始められる世界的なプログラミング入門教育キャンペーンです。キャンペーンでは1時間から学習できる推奨教材をオンラインで無料提供しています。[詳しくはこちらの日本語ページを参考に](http://hourofcode.jp/)。)
+
 ## X. Kim Burton先生 / メリーランド州
+
+Mathematics Department Chairman, AP Computer Science Teacher, mother, wife, and I-Lab Makerspace Innovation Leader https://twitter.com/kburtonr
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kim2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Collaborative coding in <a href="https://twitter.com/hashtag/APCS?src=hash">#APCS</a> <a href="https://twitter.com/EasternTechHS">@EasternTechHS</a> <a href="https://t.co/sRDyBILCil">pic.twitter.com/sRDyBILCil</a></p>&mdash; Kim Burton (@kburtonr) <a href="https://twitter.com/kburtonr/status/770235345787117568">August 29, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「今日は生徒がポスターにコードを書きながらプログラミングを学んでいます。共同作業です!」
 
 ## X. Kammas Murphy先生 / デラウェア州
 
@@ -902,11 +1004,15 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/kammas.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Susan Van Doren先生 / ネバダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/susan.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Kimberly Davis先生 / フロリダ州
 
@@ -914,11 +1020,15 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/kimberly.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Jessica Zuluaga先生 / ニューヨーク州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jessica.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Ann Boyles先生 / カリフォルニア州
 
@@ -929,11 +1039,15 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The code comments are the best part (&quot;# TEMPORARY, I HOPE I HOPE I HOPE&quot;). <a href="https://t.co/UwCjUeEx3V">https://t.co/UwCjUeEx3V</a></p>&mdash; Ann Boyles (@aiboyles) <a href="https://twitter.com/aiboyles/status/752560192793956352">July 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+意訳:「」
+
 ## X. Kathryn Cossa先生 / バージニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kathryn.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Susan Recoon先生 / ニューヨーク州
 
@@ -941,11 +1055,15 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/susan2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Lindsey Kay先生 / マサチューセッツ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lindsey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Amy Wright先生 / ニュージャージー州
 
@@ -953,11 +1071,15 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/amy.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Lisa Saunders先生 / フロリダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/lisa.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Alana Robinson先生 / ニューヨーク州
 
@@ -965,17 +1087,23 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/alana2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Audrey Wei先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/audrey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Jillian Maher先生 / ケンタッキー州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jillian.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Adrianna Macaro先生 / ニュージャージー州
 
@@ -986,6 +1114,8 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">AP CSP class programming the Finch Robots today! Thanks <a href="https://twitter.com/HSNMediaCenter">@HSNMediaCenter</a>!  <a href="https://twitter.com/hashtag/MTPSpride?src=hash">#MTPSpride</a> <a href="https://t.co/ctW3GUpIpK">pic.twitter.com/ctW3GUpIpK</a></p>&mdash; Adrianna Macaro (@MsMacaro) <a href="https://twitter.com/MsMacaro/status/781553944975794177">September 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+意訳:「」
+
 ## X. Dianne O'Grady-Cunniff先生 / メリーランド州
 
 TODO: https://www.linkedin.com/in/dianne-o-grady-cunniff-683b784
@@ -993,6 +1123,8 @@ TODO: https://www.linkedin.com/in/dianne-o-grady-cunniff-683b784
 <p style="text-align: center;">
   <img src="/images/7/teachers/dianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Trina Cunningham先生 / テキサス州
 
@@ -1002,17 +1134,23 @@ TODO: https://www.linkedin.com/in/trina-cunningham-a2696294
   <img src="/images/7/teachers/trina.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Pam Whitlock先生 / ジョージア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/pam.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Stephanie Sneath先生 / イリノイ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/stephanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Eva Anderson先生 / バージニア州
 
@@ -1025,11 +1163,15 @@ TODO: Jamtech = build a game event
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bouncing crabs and giant gumba <a href="https://twitter.com/hashtag/JAMTECH?src=hash">#JAMTECH</a> <a href="https://t.co/VGqiz16ijM">pic.twitter.com/VGqiz16ijM</a></p>&mdash; Eva Anderson (@Missevadee69) <a href="https://twitter.com/Missevadee69/status/668131504128712704">November 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+意訳:「」
+
 ## X. Debra Kelly Thomas先生 / フロリダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/debra.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Susan B Bardin先生 / フロリダ州
 
@@ -1037,11 +1179,15 @@ TODO: Jamtech = build a game event
   <img src="/images/7/teachers/susan3.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Jen Cefaly先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/jen.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Marianne Finocchiaro先生 / マサチューセッツ州
 
@@ -1049,11 +1195,15 @@ TODO: Jamtech = build a game event
   <img src="/images/7/teachers/marianne.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Susan Dalgic先生 / テキサス州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/susan4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Rebecca Malones先生 / フロリダ州
 
@@ -1063,11 +1213,15 @@ Instructional Specialists/Facilitators – Elementary
   <img src="/images/7/teachers/rebecca2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Julie Reynolds先生 / テキサス州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/julie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Carol Birnbaum先生 / カンザス州
 
@@ -1075,17 +1229,23 @@ Instructional Specialists/Facilitators – Elementary
   <img src="/images/7/teachers/carol.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Stephanie Younger先生 / ケンタッキー州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/stephanie2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Katie Miller先生 / カリフォルニア州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/katie4.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Gerri Lynne Ryan先生 / テキサス州
 
@@ -1095,11 +1255,15 @@ TODO: https://www.linkedin.com/in/gerri-lynne-ryan-29568975
   <img src="/images/7/teachers/gerri.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Laurie Edwards先生 / メリーランド州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/laurie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Charity Smith先生 / コロラド州
 
@@ -1107,11 +1271,15 @@ TODO: https://www.linkedin.com/in/gerri-lynne-ryan-29568975
   <img src="/images/7/teachers/charity.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
+意訳:「」
+
 ## X. Kelly McNeil先生 / フロリダ州
 
 <p style="text-align: center;">
   <img src="/images/7/teachers/kelly2.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+意訳:「」
 
 ## X. Michelle Cernuto先生 / カリフォルニア州
 
@@ -1124,6 +1292,8 @@ TODL https://www.linkedin.com/in/mcnuto
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Awesome morning with high school kids and <a href="https://twitter.com/zyngaorg">@zyngaorg</a>, <a href="https://twitter.com/SFUnified">@SFUnified</a> - learning game design and coding. <a href="https://t.co/4gonF2uDnJ">pic.twitter.com/4gonF2uDnJ</a></p>&mdash; Michelle Cernuto (@MichelleCernuto) <a href="https://twitter.com/MichelleCernuto/status/707695066102374400">March 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+意訳:「」
+
 ## X. Rebecca Nguyen先生 / ルイジアナ州
 
 <p style="text-align: center;">
@@ -1132,3 +1302,5 @@ TODL https://www.linkedin.com/in/mcnuto
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Students at MSA East begin to program using <a href="https://twitter.com/hashtag/scratch?src=hash">#scratch</a> programming language <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a> <a href="https://twitter.com/UTeachCS">@UTeachCS</a> <a href="https://t.co/8Ew7NXCpuC">pic.twitter.com/8Ew7NXCpuC</a></p>&mdash; Rebecca Nguyen (@rnguyenmath) <a href="https://twitter.com/rnguyenmath/status/781263246913175553">September 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+意訳:「」
