@@ -12,8 +12,8 @@ date: 2016-10-23
 # left = 872868 and right = dfe4be
 
 image: /images/7/all.jpg
-# tweet_id: 785200502929698816
-# fb_id: 10200651663433812
+tweet_id: 789980528963301376
+fb_id: 10200728453553517
 ---
 
 学校の先生方へ
