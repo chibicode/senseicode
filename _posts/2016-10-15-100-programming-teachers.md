@@ -937,11 +937,11 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 66. Kammas Murphy先生 / デラウェア州
 
-デラウェア州の高校にて、化学とコンピューターサイエンスの教員。放課後は子どもたちに格闘技を教えている。
-
 <p style="text-align: center;">
   <img src="/images/7/teachers/kammas.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+デラウェア州の高校にて、化学とコンピューターサイエンスの教員。放課後は子どもたちに格闘技を教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Learning <a href="https://twitter.com/scratch">@scratch</a> with camera at Parnter4CS day 2! Thanks <a href="https://twitter.com/LHETechnology">@LHETechnology</a>! <a href="https://t.co/PNFySTUl62">pic.twitter.com/PNFySTUl62</a></p>&mdash; Ms. Murphy (@KammasMurphy) <a href="https://twitter.com/KammasMurphy/status/745289228339286017">June 21, 2016</a></blockquote>
 
@@ -1021,11 +1021,11 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 73. Lindsey Kay先生 / マサチューセッツ州
 
-マサチューセッツの学校で中高生にプログラミングを教えている。以前は小学生向けのコンピューター教育の先生をしていた。
-
 <p style="text-align: center;">
   <img src="/images/7/teachers/lindsey.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+マサチューセッツの学校で中高生にプログラミングを教えている。以前は小学生向けのコンピューター教育の先生をしていた。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Grade 8 CS learning about the insides of a computer by tearing one apart! <a href="https://t.co/7k6Ai4Dw4m">pic.twitter.com/7k6Ai4Dw4m</a></p>&mdash; Miss Kay (@MsKaysComputer) <a href="https://twitter.com/MsKaysComputer/status/780783327779360768">September 27, 2016</a></blockquote>
 
@@ -1129,11 +1129,11 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 82. Pam Whitlock先生 / ジョージア州
 
-ジョージア州の公立高校で特進生向けにプログラミングを教えている。
-
 <p style="text-align: center;">
   <img src="/images/7/teachers/pam.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+ジョージア州の公立高校で特進生向けにプログラミングを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pair programming in <a href="https://twitter.com/hashtag/APCSP?src=hash">#APCSP</a>. What a great way to start coding!  <a href="https://twitter.com/CSPBJC">@CSPBJC</a> <a href="https://twitter.com/HoochHappenings">@HoochHappenings</a> <a href="https://t.co/4OX0OLRAET">pic.twitter.com/4OX0OLRAET</a></p>&mdash; Pam Whitlock (@PamWhitlock1) <a href="https://twitter.com/PamWhitlock1/status/767740962437206016">August 22, 2016</a></blockquote>
 
@@ -1141,11 +1141,11 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
 
 ## 83. Stephanie Sneath先生 / イリノイ州
 
-イリノイ州の高校でプログラミングやウェブデザインを教えている。
-
 <p style="text-align: center;">
   <img src="/images/7/teachers/stephanie.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
+
+イリノイ州の高校でプログラミングやウェブデザインを教えている。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Starting using the  raspberry pi <a href="https://twitter.com/hashtag/WhatWillTheyLearnNext?src=hash">#WhatWillTheyLearnNext</a> <a href="https://twitter.com/hashtag/rhsrebelpride?src=hash">#rhsrebelpride</a> <a href="https://t.co/uwKCAduOYR">pic.twitter.com/uwKCAduOYR</a></p>&mdash; Stephanie Sneath (@MrsSneath) <a href="https://twitter.com/MrsSneath/status/778960744515719168">September 22, 2016</a></blockquote>
 
