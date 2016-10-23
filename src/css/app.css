@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6, strong {
 }
 
 .fb_iframe_widget.fb-post,
-.fb_iframe_widget.fb-post iframe {
+.fb_iframe_widget.fb-post * {
   max-width: 100% !important;
 }
 
