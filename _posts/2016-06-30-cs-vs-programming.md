@@ -208,3 +208,9 @@ HCIも「コンピューターが、『どう人間と上手くやっていく�
 **プログラミング的思考は、人間の知恵であり、人間への課題です**。このことを踏まえた上で、子ども向けのカリキュラムを作っていきたいものですね。
 
 今回はこのへんで。長い記事にお付き合いいただきありがとうございました。
+
+## 追記
+
+AERA2016年10月31日号に当記事の問題が掲載されました。また、さらに新しく2つの問題を書きました。
+
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200732835143054" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200732835143054" class="fb-xfbml-parse-ignore"><p>&#x6708;&#x66dc;&#x306b;&#x767a;&#x58f2;&#x3055;&#x308c;&#x305f;&#x96d1;&#x8a8c;AERA&#x306e;&#x6700;&#x65b0;&#x53f7;&#x306f;&#x300c;&#x30d7;&#x30ed;&#x30b0;&#x30e9;&#x30df;&#x30f3;&#x30b0;&#x601d;&#x8003;&#x300d;&#x306b;&#x3064;&#x3044;&#x3066;&#x306a;&#x306e;&#x3067;&#x3059;&#x304c;&#x3001;3&#x30da;&#x30fc;&#x30b8;&#x307b;&#x3069;&#x304a;&#x501f;&#x308a;&#x3057;&#x3066;&#x3001;&#x30d7;&#x30ed;&#x30b0;&#x30e9;&#x30df;&#x30f3;&#x30b0;&#x601d;&#x8003;&#x306b;&#x95a2;&#x9023;&#x3059;&#x308b;&#x30af;&#x30a4;&#x30ba;&#x3092;&#x66f8;&#x304b;&#x305b;&#x3066;&#x3044;&#x305f;&#x3060;&#x304d;&#x307e;&#x3057;&#x305f;&#x3002;...</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10200732835143054">Monday, October 24, 2016</a></blockquote></div>
