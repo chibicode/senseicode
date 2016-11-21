@@ -953,7 +953,7 @@ Andrea先生と同じく、ミネソタ州の元国語(英語)の先生で、現
   <img src="/images/7/teachers/susan.jpg" width="125" style="border-radius: 100%; margin-top: 0; margin-bottom: 0;" />
 </p>
 
-[Senseicode第一話で紹介した](/1-introduction)、英語教師からプログラミング教師に転身したネバダ州の高校教師。
+[「いたるところでプログラミングを学べる未来に、輝く先生のすがた」](/1-introduction)で紹介した、英語教師からプログラミング教師に転身したネバダ州の高校教師。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">7 girls took the APCS exam in Nevada last year. This year, I have 9 girls who will take it from my class alone. Boom. <a href="https://twitter.com/hashtag/change?src=hash">#change</a> <a href="https://twitter.com/hashtag/stemgems?src=hash">#stemgems</a></p>&mdash; Van Doren (@SVDiz) <a href="https://twitter.com/SVDiz/status/723006287177355264">April 21, 2016</a></blockquote>
 
