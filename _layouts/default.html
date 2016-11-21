@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="canonical" href="http://chibicode.com{{ page.url }}">
+    {% if page.issue %}
+      <link rel="canonical" href="http://chibicode.com{{ page.url }}">
+    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet">
-    {% seo %}
+    {% include seo.html %}
     {% feed_meta %}
     {% if page.home %}
       <meta property="og:image" content="{{ site.github.url }}{{ site.logo }}">

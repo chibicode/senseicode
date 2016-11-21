@@ -15,6 +15,11 @@ future: true
 
 gems:
   - jekyll-sitemap
+  # Needed to customize. Same as this:
+  # https://github.com/jekyll/jekyll-seo-tag/blob/master/lib/template.html
+  # but this line is commented out:
+  # <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
+  # Uses feed_meta only
   - jekyll-seo-tag
   - jekyll-feed
 
